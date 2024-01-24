@@ -1,13 +1,11 @@
 ---
 image: https://source.unsplash.com/pjwbiuwXy00/1000x750
 title: Credit card purchases on the rise for small items
-categories: [business]
+categories:
+  - business
 author: sarah
 ---
-
-Into present as we from control as dedicated times of the in distribution you it rationale if which avoid worries can conduct, their design at you screen kind.
-
-The must had relays best not a was when make good back achievements had was about decisions, he to or guard recently into but logbook of didn't we soon I phase necessary sometimes a two the original fly with heard cost.
+Test text
 
 {% include image.html img="https://source.unsplash.com/8YeoFx2jXvc/900x500" alt="Alt for image" %}
 
