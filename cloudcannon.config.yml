@@ -1,0 +1,104 @@
+paths:
+  uploads: uploads
+  dam_uploads: ''
+  static: ''
+  dam_static: ''
+  collections: ''
+  data: _data
+  layouts: _layouts
+  includes: _includes
+collections_config:
+  data:
+    path: _data
+    output: false
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  posts:
+    path: _posts
+    output: true
+    icon: notes
+    create:
+      path: >-
+        [relative_base_path]/{date|year}-{date|month}-{date|day}-{title|slugify}.[ext]
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  pages:
+    path: ''
+    output: true
+    filter: strict
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  authors:
+    path: _authors
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+  category:
+    path: _category
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
+_inputs:
+  categories:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+  tags:
+    type: multiselect
+    options:
+      allow_create: true
+      empty_type: array
+    cascade: true
+_select_data:
+  logo_image:
+    dark:
+    light:
+  disqus:
+    shortname:
+  footer:
+    copyright: >-
+      Made by <a href="https://unbound.studio/">human</a> in Bratislava,
+      Slovakia.
+  navbar_primary:
+    sticky: true
+    social: true
+    search: true
+  social_share:
+    twitter: true
+    facebook: true
+    linkedin: true
+    pinterest: true
+    reddit: true
+  social_networks:
+    email:
+    website:
+    facebook: https://www.facebook.com/
+    flickr:
+    dribbble:
+    github:
+    reddit:
+    instagram: https://www.instagram.com/
+    linkedin:
+    pinterest:
+    twitter: https://twitter.com/
+    vimeo:
+    youtube: https://www.youtube.com/
+  strings:
+    author_by: By
+  sass:
+    style: compressed
+_structures: {}
+_editables: {}
+data_config: {}
+timezone: Etc/UTC
