@@ -1,6 +1,6 @@
 ---
 image: https://source.unsplash.com/pjwbiuwXy00/1000x750
-title: Surrendering Sleep: Finding Peace in God's Restorative Grace
+title: "Surrendering Sleep: Finding Peace in God's Restorative Grace"
 categories:
   - Spirituality
   - Well-being
