@@ -1,9 +1,7 @@
 ---
 image: https://source.unsplash.com/pjwbiuwXy00/1000x750
 title: 'Surrendering Sleep: Finding Peace in God's Restorative Grace'
-categories:
-  - Spirituality
-  - Well-being
+categories: [Spirituality] [Well-being]
 author: Taylor
 ---
 Introduction In the hustle and bustle of our daily lives, finding restful sleep often eludes us. Anxieties and burdens weigh heavy on our hearts, making it challenging to embrace the rejuvenation that comes with a peaceful night's sleep. In Matthew 11:28-30 (NIV), Jesus extends an invitation that resonates across time and circumstance, offering a profound solution to our weariness. This article explores the connection between sleep, surrendering anxieties, and the restorative promise found in God's comforting embrace.
