@@ -15,7 +15,7 @@ In the hustle and bustle of our daily lives, finding restful sleep often eludes 
 ### 1. The Weary and Burdened
 In the chaotic rhythm of life, Jesus extends a compassionate invitation to those who are weary and burdened. The weariness that encompasses our daily struggles, paired with the burdens we carry, often disrupts our ability to find rest. Recognizing the weight we bear, Jesus beckons us to come to Him, promising rest for our tired souls.
 
-### 2. Taking His Yoke:
+### 2. Taking His Yoke
 Jesus encourages us to take His yoke upon ourselves and learn from Him. This imagery reflects a partnership with Christ, where we exchange our heavy burdens for His gentle and humble guidance. It's an invitation to release our anxieties, surrendering them to a Savior who understands the complexities of our human experience.
 
 ### 3. Rest for Your Souls
