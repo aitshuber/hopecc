@@ -16,7 +16,7 @@ Introduction In the hustle and bustle of our daily lives, finding restful sleep 
 
 3. Rest for Your Souls The promise embedded in Matthew 11:28-30 is profound – rest for our souls. It goes beyond physical rest; it encompasses the peace and restoration that penetrates the depths of our being. In relinquishing our burdens to Christ, we discover a profound and soulful rest that transcends the superficialities of everyday weariness.
 
-The Biblical Perspective
+## The Biblical Perspective
 
 1. Gentle and Humble Heart Jesus describes Himself as gentle and humble in heart, a stark contrast to the burdensome nature of our anxieties. This depiction of Christ's character assures us that, in surrendering our worries, we encounter a compassionate and understanding Savior. His gentleness becomes the balm that soothes our troubled hearts.
 
