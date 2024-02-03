@@ -2,7 +2,7 @@
   <div class="uk-card">
     <div class="uk-card-media-top">
       {% if author.image %}
-      <a href="{{ author.url | relative_url }}"><img class="uk-width-small uk-border-circle" src="{% if author.image contains 'http' %}{{ author.image }}{% else %}{{ site.uploads | absolute_url }}{{ author.image }}{% endif %}" alt="{{ author.title }}"></a>
+      <a href="{{ author.url | relative_url }}"><img class="uk-width-small uk-border-circle" src="{% if author.image contains 'http' %}{{ author.image }}{% else %}{{ author.image }}{% endif %}" alt="{{ author.title }}"></a>
       {% endif %}
     </div>
     <div class="uk-card-body">
