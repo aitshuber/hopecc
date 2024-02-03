@@ -14,7 +14,7 @@ Envision a life where the cacophony of stress and strain fades into a harmonious
 
 As you step forward, allow this message to resonate within you, offering a wellspring of strength and comfort for the journey ahead. Embark on this path to discover the essence of soul rest, and embrace the transformative power of divine peace.
 
-## Understanding 'Matthew 11:28' and Its Invitation
+## Understanding Matthew 11:28 and Its Invitation
 
 Often recited but deeply profound, the words of Matthew 11:28 echo across time, offering solace and an enduring promise. It stands as a testament to Jesus' invitation to weary souls, a beacon of hope to those burdened by the toils of life. As we delve into this Matthew 11:28 commentary, imagine the gentle voice of Christ Himself, calling out to each of us in our moments of fatigue and strife.
 
