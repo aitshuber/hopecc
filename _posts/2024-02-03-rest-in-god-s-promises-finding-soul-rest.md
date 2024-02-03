@@ -6,7 +6,7 @@ categories:
   - Rest
 tags:
   - featured
-author: sarah
+author: /authors/hope-staff
 ---
 In the ceaseless ebb and flow of life, your quest for serenity often leads you towards various harbors, but true soul rest can be elusive. Yet, it's within your grasp, intertwined with the timeless wisdom of God's Word. Amid the rush, there exists a divine invitation to tranquility that speaks directly to the weary. Matthew 11:28, a verse of profound promise and hope, offers you not just an escape, but a journey to faith and renewal. Here, you can unearth the spiritual renewal that your heart yearns for, as a key component of Christian wellness.
 
