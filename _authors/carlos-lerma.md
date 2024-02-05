@@ -1,6 +1,6 @@
 ---
 title: Carlos Lerma
-username: carloslerma
+username: carlos
 image: /uploads/img-8966.jpg
 bio: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
