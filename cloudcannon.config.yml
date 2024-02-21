@@ -60,6 +60,8 @@ _inputs:
       allow_create: true
       empty_type: array
     cascade: true
+  notes: 
+    type: multiline
 _select_data:
   logo_image:
     dark:
