@@ -2,8 +2,6 @@
 image: https://source.unsplash.com/pjwbiuwXy00/1000x750
 title: 'Rest in God''s Promises: Finding Soul Rest'
 categories:
-  - Sleep
-  - Rest
   - Nightly Wind Down
 author: Hope Staff
 notes: NWD 1
