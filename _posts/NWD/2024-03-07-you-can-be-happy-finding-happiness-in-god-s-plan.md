@@ -45,7 +45,7 @@ In the heart of the biblical ethos, the message of Romans 12:12 resonates deeply
 
 ### **Unpacking the Message of Romans 12:12**
 
-The words&nbsp;*rejoice in hope, patient in tribulation, and continuing steadfastly in prayer*, provide a triad of spiritual practices that offer strength in the difficulties you face. As you engage in a Romans 12 reflection, each element uncovers a layer of divine wisdom. Joy is found in the buoyant anticipation of what God has promised—in hope, your spirit soars above the transient woes of daily life.
+The words *rejoice in hope, patient in tribulation, and continuing steadfastly in prayer*, provide a triad of spiritual practices that offer strength in the difficulties you face. As you engage in a Romans 12 reflection, each element uncovers a layer of divine wisdom. Joy is found in the buoyant anticipation of what God has promised—in hope, your spirit soars above the transient woes of daily life.
 
 ### **Finding Strength in Difficult Times**
 
