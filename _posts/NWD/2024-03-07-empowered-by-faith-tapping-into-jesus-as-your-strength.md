@@ -7,38 +7,74 @@ author: Hope Staff
 notes: NWD 21
 transcript:
 ---
-Imagine standing at a crossroads in life, where every path seems shrouded in uncertainty. In times like these, where do you turn for strength and guidance? For centuries, individuals have found solace and power by being&nbsp;empowered by faith, discovering in the sacred embrace of&nbsp;God's love&nbsp;a reservoir of unyielding fortitude. It is by&nbsp;tapping into the strength of Jesus&nbsp;that many have navigated life's tumultuous waters, emerging not just unscathed, but with a deepened sense of a&nbsp;life of purpose.
+In a world that often feels marked by challenges, obstacles, and uncertainties, it can be easy to find ourselves feeling overwhelmed, exhausted, and in need of strength beyond our own capabilities. We may face situations that push us to our limits, leaving us wondering how we will navigate the road ahead. However, as believers, we have access to a source of strength that transcends our human limitations – the empowering presence of Jesus Christ.
 
-As you embark on this journey of spiritual discovery, reflect upon your heart's whispers and the quiet pull towards a bond that transcends the physical realm. Let the words that follow be a gentle guide, ushering you into an existence where each step is taken with the confidence of one who is truly empowered by the eternal spirit of Jesus.
+In Psalm 28:7, we are reminded of this beautiful truth: "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him." This verse serves as a powerful declaration of the strength and help that we find in our Savior, inviting us to tap into His power and experience the joy and victory that come from trusting in Him.
 
-## **Understanding the Foundation of Faith**
+## The Challenges of Relying on Our Own Strength
 
-As you embark on a deeper exploration of your spiritual journey, it's crucial to grasp the essence of faith and its profound impact on your life. The biblical perspective of faith is more than just belief—it's an active trust in God that shapes your approach to life's challenges and fuels your path of personal empowerment.
+### The Limitations of Human Capability
 
-### **Defining Faith from a Biblical Perspective**
+One of the greatest obstacles to experiencing the strength that Jesus offers is our tendency to rely on our own capabilities. In a culture that often values self-sufficiency and independence, it can be tempting to believe that we have to face life's challenges on our own, using our own wisdom, skills, and resources.
 
-From the biblical viewpoint, faith is the assurance of things hoped for, the conviction of unseen realities (Hebrews 11:1). It's the confidence that what God has promised, He is faithful to perform. This unwavering trust goes beyond intellectual assent; it's a heartfelt reliance on God's character, His Word, and His promises.
+### The Burden of Burnout and Exhaustion
 
-### **The Role of Faith in Personal Empowerment**
+Another challenge of relying on our own strength is the burden of burnout and exhaustion that can result. When we try to navigate life's demands and difficulties in our own power, we can quickly find ourselves feeling depleted, discouraged, and unable to keep up with the demands placed upon us.
 
-When you adopt faith as a cornerstone of your existence, you harness a powerful force for personal empowerment. Faith imbues you with the courage to face obstacles, the strength to endure trials, and the foresight to see beyond immediate circumstances. It equips you with a sense of confidence and purpose that transcends worldly limitations, enabling you to act with conviction and resilience.
+### The Danger of Pride and Self-Reliance
 
-### **Stories of Faith in Action: Biblical Examples**
+Finally, relying on our own strength can lead to a dangerous sense of pride and self-reliance. When we believe that we are the source of our own success and victory, we can easily fall into the trap of thinking that we don't need God or that we can handle life's challenges on our own terms.
 
-The Bible is replete with stories of faith that exemplify God's power manifesting through human trust. David's courage against Goliath, Esther's boldness to save her people, and Paul's relentless mission work all serve as compelling proof of how faith can propel you to extraordinary achievements. These Biblical examples of faith offer timeless lessons on the transformative effects of placing your trust in the divine.
+## The Power of Tapping into Jesus' Strength
 
-## **Incorporating the Power of Jesus into Daily Life**
+In the face of these challenges, Jesus invites us to tap into His strength and experience the power and victory that come from trusting in Him. Here are three powerful truths about the strength that we find in our Savior:
 
-Embracing the strength of Jesus is not confined to moments of worship or church services; it intertwines with the very fabric of your daily existence. When you actively seek to integrate the teachings and essence of Jesus into your life, you set the stage for continuous spiritual fortification. This journey towards spiritual integration requires deliberate practice, self-reflection, and an unwavering trust in the divine strength that guides you.
+### 1\. Jesus' Strength is Sufficient
 
-### **Practices for Tapping into the Strength of Jesus**
+> "But he said to me, 'My grace is sufficient for you, for my power is made perfect in weakness.' Therefore I will boast all the more gladly about my weaknesses, so that Christ's power may rest on me." (2 Corinthians 12:9, NIV)
 
-To harness the practices for tapping into Jesus, begin by intentionally applying His teachings to your daily interactions and decisions. This might involve exhibiting compassion in challenging situations, choosing forgiveness over resentment, or seeking wisdom through scripture when faced with difficult choices. By living out these principles, you not only honor Jesus' legacy but also strengthen your spiritual core, making His power an accessible resource in your life's journey.
+One of the most comforting truths about Jesus' strength is that it is sufficient for every need and every situation we face. No matter how weak, inadequate, or overwhelmed we may feel, we can trust that His power is more than enough to sustain us, guide us, and give us the strength we need to press on.
 
-### **Creating a Habit of 7 Reflection and Prayer**
+### 2\. Jesus' Strength is Available
 
-Establishing a routine centered around '7 reflection' and prayer can serve as a powerful tool in maintaining your connection with Jesus. This practice involves taking a moment each day—preferably at the same time to create a ritual—to reflect on the day's experiences through the lens of faith, followed by prayer. Whether it's early morning, during a lunch break, or before bed, this daily pause for spiritual engagement renews your mind, aligns your spirit with divine strength, and prepares you to face the world with confidence.
+> "I can do all this through him who gives me strength." (Philippians 4:13, NIV)
 
-### **Overcoming Obstacles with the Help of Divine Strength**
+Another powerful truth about Jesus' strength is that it is readily available to us as believers. We don't have to earn His help or prove ourselves worthy of His power; rather, we can simply come to Him in faith, asking for the strength and guidance we need, and trust that He will provide it in abundance.
 
-Overcoming obstacles is inevitably part of life, but when you tap into the divine strength that Jesus offers, these challenges become opportunities for growth rather than roadblocks. Remember that biblical figures were often faced with insurmountable odds, yet it was through faith that they persevered. Your personal trials may vary, but the essence of the struggle remains the same. Through prayer, reflection, and faith in Jesus' power, you too can navigate life's complexities with resilience and grace, emerging stronger and more purpose-driven from each battle.
+### 3\. Jesus' Strength Leads to Joy and Praise
+
+> "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song I praise him." (Psalm 28:7, NIV)
+
+Finally, tapping into Jesus' strength leads to a deep sense of joy and praise. When we experience His power at work in our lives, sustaining us, empowering us, and giving us victory over the challenges we face, our hearts overflow with gratitude and worship. We are filled with a desire to give Him glory and honor for all that He has done and all that He continues to do in and through us.
+
+## Practical Steps for Tapping into Jesus' Strength
+
+While the power and availability of Jesus' strength are incredible, it's important to recognize that tapping into His power is a daily choice and a lifelong journey. Here are three practical steps for cultivating a life that is empowered by faith and reliant on Jesus' strength:
+
+### 1\. Cultivate a Life of Prayer and Dependence
+
+> "Remain in me, as I also remain in you. No branch can bear fruit by itself; it must remain in the vine. Neither can you bear fruit unless you remain in me." (John 15:4, NIV)
+
+One of the most important steps in tapping into Jesus' strength is to cultivate a life of prayer and dependence on Him. This means setting aside dedicated time each day to seek His presence, pour out our hearts to Him, and ask for the strength and guidance we need to navigate the challenges we face.
+
+### 2\. Meditate on God's Word and Promises
+
+> "Your word is a lamp for my feet, a light on my path." (Psalm 119:105, NIV)
+
+Another key to experiencing Jesus' strength is to fill our minds and hearts with the truth and promises of His Word. As we meditate on Scripture, we are reminded of His faithfulness, His power, and His unfailing love for us, giving us the courage and confidence we need to face life's battles with faith and assurance.
+
+### 3\. Surround Yourself with Encouragement and Support
+
+> "And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching." (Hebrews 10:24-25, NIV)
+
+Finally, tapping into Jesus' strength is not meant to be a solitary journey. We were created for community, and surrounding ourselves with fellow believers who can pray with us, encourage us, and remind us of God's faithfulness can be a powerful source of strength and support in the midst of life's challenges.
+
+## The Promise of Rest and Renewal
+
+As we learn to tap into Jesus' strength and rely on His power in every area of our lives, we can have confidence in the rest and renewal that He offers. In Matthew 11:28-30, Jesus extends this beautiful invitation: "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
+
+When we come to Jesus and allow His strength to be our source, we discover a rest and renewal that goes beyond mere physical refreshment. We experience a deep, soul-level restoration that comes from knowing that we are held, empowered, and loved by a Savior who will never leave us or forsake us.
+
+Moreover, as we rely on Jesus' strength and walk in the power of His Spirit, we open ourselves up to the abundant life and fruitfulness that He desires for us. We are able to face life's challenges with courage, perseverance, and joy, knowing that His power is at work within us, enabling us to do far more than we could ever ask or imagine.
+
+So if you find yourself feeling weak, overwhelmed, or in need of strength today, know that Jesus is inviting you to tap into His power and experience the victory that comes from trusting in Him. Cultivate a life of prayer and dependence, meditate on His Word and promises, and surround yourself with a community of encouragement and support. As you do, you will discover the strength, rest, and renewal that can only be found in the empowering presence of a loving and faithful Savior.
