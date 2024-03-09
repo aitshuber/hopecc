@@ -7,38 +7,74 @@ author: Hope Staff
 notes: NWD 37
 transcript:
 ---
-Imagine a force so gentle yet so compelling that it transforms your very existence. You have felt it, perhaps in the stillness of dawn or amidst the chaos of life's storms—a warmth that whispers to your soul, reminding you that you are held in an embrace without end. This is the tender pull of God, a sensation that goes beyond mere emotion, touching the essence of who you are. Such is the profound message enshrined in Jeremiah 31:3, spoken to you across the centuries, declaring an eternal truth: you are drawn by love, inexorably, unceasingly.
+In a world that often feels marked by chaos, pain, and uncertainty, it can be easy to feel disconnected, alone, and longing for a love that seems just out of reach. We may find ourselves searching for acceptance, validation, and a sense of belonging in relationships, achievements, or personal pursuits, only to discover that these things ultimately leave us feeling empty and unfulfilled. However, as believers, we have access to a love that transcends the temporary and the fleeting – a love that has the power to heal, transform, and satisfy the deepest longings of our hearts.
 
-Experiencing God's love might come to you in moments of quiet reflection or through the joyous laughter of a child. It echoes in the kindness of strangers and in the courage found during trials. Herein lies the foundation of purposeful living—knowing that you are cherished by a love so deep that it permeates every aspect of life. Hearing God's voice might not always sound like thunder; often, it is a gentle murmur, resonating within, guiding you towards the fullness of your potential.
+In Jeremiah 31:3, God declares to His people, "I have loved you with an everlasting love; I have drawn you with unfailing kindness." This beautiful verse serves as a powerful reminder that no matter where we find ourselves or what we may be going through, we are never beyond the reach of God's tender, pursuing love. As we learn to recognize and respond to the gentle pull of His affection, we can experience a depth of spiritual rest, renewal, and wellness that can only be found in Him.
 
-As you stand at the crossroads of decision and desire, remember that the divine narrative woven by Jeremiah 31:3 invites you to trust in the sacred timing of your life's journey. The script of history and the testament of believers bear witness: you are beckoned by a love that is indefatigable, transformative, a wellspring of strength for purposeful living, and a lantern in your pursuit of truth.
+## The Challenges of Seeking Love in the World
 
-## **Understanding the Longing for Divine Connection**
+### The Emptiness of Temporary Affections
 
-Have you ever felt a profound pull towards something greater than yourself? This sensation is not mere curiosity; it's your inherent longing for a divine connection. Such a yearning is deeply rooted in the human spirit, an echo of eternity calling out to each of us from the beyond. It's a universal experience, one that transcends cultural and religious boundaries, manifesting uniquely in each person's life.
+One of the most significant obstacles to experiencing the fullness of God's love is our tendency to seek fulfillment and validation in temporary, worldly affections. We may pour our time, energy, and emotions into relationships that are based on superficial connections, shared interests, or mutual benefit, only to find that these affections are fleeting and ultimately unsatisfying.
 
-Listening for God can seem like a delicate art, but it is crucial for those who wish to unravel the mysteries of their life path and purpose. By tuning in to the subtle whispers of the divine, you may find the guidance and reassurance that comes with trusting the plan laid out for you. It's in this act of faith that you become open to the comforting presence that assures you are not alone in your journey.
+### The Pressure to Perform and Prove Our Worth
 
-Cultivating a deeper spiritual engagement takes patience and practice. It means setting aside time for reflection and silence, fostering an environment where discernment is possible. Engaging in activities that nourish your spiritual well-being, like meditation, prayer, or communing with nature, can help you to recognize the presence of God in the everyday. And as you embark on this journey, remember that the divine connection you seek is at once both the most extraordinary and the most natural relationship you will ever discover.
+Another challenge to receiving God's unconditional love is the pressure we often feel to perform, achieve, and prove our worth in order to earn the acceptance and approval of others. We may strive to meet certain standards, maintain a particular image, or accomplish specific goals, believing that if we can just be good enough, successful enough, or likable enough, we will finally feel loved and valued.
 
-Today, pause and consider the presence of this divine longing in your life. How does it shape your choices and perceptions? Begin by trusting that through spiritual engagement, you are embarking on a beautiful and eternal dialogue with the divine. Remember, you're not just reaching out to God; you're also listening for God's tender voice reaching out to you.
+### The Wounds of Rejection and Betrayal
 
-## **Embracing the Message of Jeremiah 31:3**
+Finally, many of us carry deep wounds of rejection, abandonment, or betrayal that can make it difficult to trust in the steadfast love of God. When we have experienced the pain of being hurt, dismissed, or forgotten by those we care about, it can be challenging to believe that we are truly worthy of a love that is unconditional, unshakable, and everlasting.
 
-Upon encountering the profound words of Jeremiah 31:3, you are invited into a space of deep contemplation. This scripture extends an unwavering message of eternal love, rooted in a divine promise that transcends time and human understanding. By embracing God's message, you open your heart to the possibilities of a love without end, a love that outlasts life's fleeting moments.
+## The Power of God's Drawing Love
 
-### **The Eternal Love God Promises**
+In the face of these challenges and wounds, God invites us to experience the transformative power of His tender, pursuing love. Here are three beautiful truths about the nature of God's love that can bring healing, hope, and renewal to our weary hearts:
 
-In a world where constants are rare, the concept of eternal love serves as a cornerstone for your faith. Understanding God's love as eternal can reshape your worldview; it nurtures the soul with the assurance that you are cherished beyond the bounds of earthly existence. This eternal love validates your inherent worth and fortifies your spirit, allowing you to move through life's ebb and flow with a heart anchored in God's promises.
+### 1\. God's Love is Everlasting
 
-### **Reflection on Personal Experiences of God's Love**
+> "Give thanks to the Lord, for he is good; his love endures forever." (Psalm 118:1, NIV)
 
-Now, consider for a moment the personal experiences that have manifested God's love in your life. Inviting personal reflection allows you to acknowledge these moments, perhaps subtle or overwhelming, where you felt the embrace of a love so profound it seemed to eclipse all else. Documenting these experiences unlocks a treasure trove of gratitude and understanding, reinforcing your appreciation for the divine presence in your daily decisions and interactions. As you bear witness to the fulfillment of God's promises, you find strength and guidance for the path ahead.
+One of the most comforting aspects of God's love is that it is everlasting and unchanging. Unlike human affections that can shift, fade, or be withdrawn, God's love for us is constant, unwavering, and not dependent on our performance or worthiness. When we anchor our hearts in the truth of His eternal love, we can find security, stability, and a sense of belonging that transcends our circumstances.
 
-## **Conclusion**
+### 2\. God's Pursues Us
 
-Throughout this spiritual exploration, you've been invited to delve into the richness of being&nbsp;*drawn by love*, a journey that aligns you with the comforting promise of Jeremiah 31:3. We've traversed the landscape of what it means to feel the&nbsp;*tender pull of God*, and the profound impact of acknowledging that you are cherished in an eternal embrace. Trusting God's process is not merely a passive state—it is a vibrant and courageous way of living that hinges upon fulfillment through faith.
+> "What do you think? If a man owns a hundred sheep, and one of them wanders away, will he not leave the ninety-nine on the hills and go to look for the one that wandered off?" (Matthew 18:12, NIV)
 
-As you move forward, let the tenets of this dialogue be a compass for your soul's odyssey. Embrace the&nbsp;*divine love reassurance*&nbsp;offered in sacred texts and the whispers of the divine that guide you through the vicissitudes of life. It is trust in this endless reservoir of love that can beckon you towards a life brimming with purpose and a heart open to giving and receiving grace in its most genuine form.
+Another beautiful truth about God's love is that it actively pursues us, even when we have wandered far from Him. Just as a shepherd leaves the ninety-nine to seek out the one lost sheep, God's heart is always reaching out to us, inviting us to return to the safety and comfort of His embrace. When we feel the tender pull of His love, we can trust that He is drawing us back to Himself, no matter how lost or unworthy we may feel.
 
-Your journey is both personal and universal, unique in its form yet shared in its essence with countless others seeking the same truth and light. Let the unwavering certainty of divine love be a source of strength as you navigate the waters of existence, and may your life echo with the resonance of the divine invitation to be earnestly and joyously drawn by love.
+### 3\. God's Love is Transformative
+
+> "And we all, who with unveiled faces contemplate the Lord's glory, are being transformed into his image with ever-increasing glory, which comes from the Lord, who is the Spirit." (2 Corinthians 3:18, NIV)
+
+Finally, it's important to recognize that God's love is not just a comforting sentiment or a temporary balm for our wounds, but a transformative power that can reshape our hearts, minds, and lives from the inside out. As we learn to receive and rest in the tenderness of His affection, we are gradually conformed to the image of Christ, reflecting more and more of His love, grace, and goodness to the world around us.
+
+## Practical Steps for Experiencing God's Drawing Love
+
+While the power and promise of God's love are freely available to all who believe, learning to recognize and respond to the tender pull of His affection is a daily choice and a lifelong journey. Here are three practical steps for cultivating a heart that is open and receptive to the drawing love of God:
+
+### 1\. Spend Time in God's Presence
+
+> "Come near to God and he will come near to you." (James 4:8a, NIV)
+
+One of the most important ways to experience the tender pull of God's love is to consistently spend time in His presence through prayer, worship, and meditation on His Word. As we create space in our lives to quiet our hearts, listen for His voice, and bask in the warmth of His affection, we become more attuned to the ways He is pursuing us and drawing us closer to Himself.
+
+### 2\. Meditate on the Truth of God's Love
+
+> "See what great love the Father has lavished on us, that we should be called children of God! And that is what we are!" (1 John 3:1a, NIV)
+
+Another key to experiencing the fullness of God's love is to fill our minds and hearts with the truth of His affection for us. By regularly meditating on Scripture passages that speak of God's everlasting love, unfailing kindness, and tender pursuit of our hearts, we create a foundation of faith that enables us to trust in His goodness, even when our feelings or circumstances may suggest otherwise.
+
+### 3\. Embrace the Journey of Healing and Transformation
+
+> "He heals the brokenhearted and binds up their wounds." (Psalm 147:3, NIV)
+
+Finally, experiencing the transformative power of God's love often involves embracing the journey of healing and growth that He invites us into. As we bring our wounds, fears, and insecurities to Him in honest, vulnerable prayer, we open ourselves up to the gentle work of His Spirit, who desires to bind up our brokenness, renew our minds, and reshape our hearts in the image of His love.
+
+## The Promise of Rest and Renewal
+
+As we learn to recognize and respond to the tender pull of God's love, we can have confidence in the promise of rest and renewal that He offers. In Matthew 11:28-30, Jesus extends this beautiful invitation: "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
+
+When we come to Jesus and allow His love to be the source of our identity, security, and fulfillment, we discover a rest and renewal that goes beyond mere physical or emotional comfort. We experience a deep, soul-level healing that flows from the unshakable truth of His affection, grace, and tender pursuit of our hearts.
+
+Moreover, as we learn to abide in the tenderness of God's love, we become a reflection of His heart to the world around us. Our lives begin to bear the fruit of the Spirit – love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control (Galatians 5:22-23) – inviting others to experience the transformative power of His affection for themselves.
+
+So if you find yourself longing for a love that satisfies, a presence that pursues, and a tenderness that transforms, know that God is drawing you to Himself with an everlasting love and unfailing kindness. Spend time in His presence, meditate on the truth of His affection, and embrace the journey of healing and growth that He invites you into. As you do, you will discover the rest, renewal, and abundant life that can only be found in the tender, drawing love of your Heavenly Father.
