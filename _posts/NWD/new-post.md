@@ -1,10 +1,10 @@
 ---
 image: https://source.unsplash.com/pjwbiuwXy00/1000x750
-title: 'Inseparable Love: Trusting in God''s Unconditional Devotion'
+title: 'Living in Truth: Seeking God''s Ways for a Purposeful Life'
 categories:
   - Nightly Wind Down
 author: Hope Staff
-notes: NWD 54
+notes: NWD 55
 transcript:
 ---
 In a world that often feels marked by uncertainty, change, and the fragility of human relationships, it can be easy to find ourselves struggling with feelings of insecurity, fear, and doubt. We may question our worth, our purpose, or our place in the world, wondering if we are truly loved, accepted, and secure in the midst of life's ups and downs. However, as Christians, we have access to a love that transcends the limitations and fluctuations of human affection – the unconditional, unchanging, and inseparable love of God.
