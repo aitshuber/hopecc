@@ -7,74 +7,74 @@ author: Hope Staff
 notes: NWD 48
 transcript:
 ---
-Life is filled with challenges, obstacles, and trials that can leave us feeling overwhelmed, discouraged, and even broken. From personal struggles and relational conflicts to financial hardships and health issues, the difficulties we face can seem insurmountable at times. However, as Christians, we have the assurance that no matter what we go through, we are never alone, and we have a God who promises to walk with us every step of the way.
+In the midst of life's challenges, struggles, and painful circumstances, it's easy to feel overwhelmed, alone, and even forgotten by God. We may find ourselves grappling with emotions like fear, doubt, anger, or despair, wondering if our prayers are being heard or if our cries for help are simply echoing into the void. However, as believers, we have the assurance that no matter how deep our distress or how desperate our situation, we serve a God who hears our every cry and responds with love, compassion, and power.
 
-In Isaiah 43:2, God declares, "When you pass through the waters, I will be with you; and when you pass through the rivers, they will not sweep over you. When you walk through the fire, you will not be burned; the flames will not set you ablaze." This powerful verse serves as a reminder that no matter how deep the waters or how fierce the flames, we can walk through life's trials unscathed, protected, and upheld by the presence and power of our Heavenly Father.
+In Psalm 120:1, the psalmist declares, "I call on the Lord in my distress, and he answers me." This simple yet profound statement serves as a powerful reminder that when we lift up our hearts to God in the midst of our troubles, He is not distant, indifferent, or unresponsive. Rather, He is attentive to our cries, eager to answer our prayers, and ready to intervene on our behalf with wisdom, strength, and deliverance.
 
-## The Reality of Life's Trials and Challenges
+## The Reality of Life's Troubles and Distress
 
-### The Inevitability of Hardship and Suffering
+### The Universality of Suffering and Pain
 
-One of the most important truths that we must come to terms with as believers is the inevitability of hardship and suffering in this fallen world. As much as we may wish for a life free from pain, struggle, or difficulty, the reality is that trials and challenges are a part of the human experience. From the moment sin entered the world, we have been subject to the brokenness, chaos, and suffering that come with living in a world that is not yet fully redeemed.
+One of the most important truths that we must come to terms with as believers is the reality that suffering and pain are a universal part of the human experience. No matter who we are, where we come from, or how strong our faith may be, we will all face challenges, hardships, and difficult circumstances at various points in our lives. From the moment sin entered the world, we have been subject to the brokenness, chaos, and pain that come with living in a fallen world.
 
-### The Diversity of Trials We May Face
+### The Diversity of Troubles We May Face
 
-Another important aspect of life's trials is the diversity and range of challenges we may encounter. Some trials may be short-lived and relatively minor, while others may be prolonged, intense, and life-altering. We may face physical, emotional, relational, or spiritual battles, each with its own unique set of struggles and demands. The trials we face may be the result of our own choices and actions, the brokenness of the world around us, or even the attacks of the enemy who seeks to steal, kill, and destroy.
+Another important aspect of life's troubles is the wide range and diversity of challenges we may encounter. Some troubles may be relatively minor and short-lived, while others may be intense, prolonged, and life-altering. We may face physical ailments, emotional struggles, relational conflicts, financial hardships, or spiritual battles, each with its own unique set of demands and difficulties. The troubles we face may be the result of our own choices and actions, the brokenness of the world around us, or even the attacks of the enemy who seeks to steal, kill, and destroy.
 
-### The Temptation to Fear or Despair
+### The Temptation to Despair or Lose Faith
 
-Finally, one of the most significant challenges of facing life's trials is the temptation to give in to fear, anxiety, or despair. When we are in the midst of deep waters or fiery flames, it can be easy to feel overwhelmed, hopeless, and alone. We may question God's goodness, doubt His presence, or even wonder if He has abandoned us altogether. These feelings of fear and despair can cloud our judgment, sap our strength, and make it even harder to navigate the challenges we face.
+Finally, one of the most significant challenges of facing life's troubles is the temptation to give in to despair, hopelessness, or a loss of faith. When we are in the midst of deep distress or overwhelming circumstances, it can be easy to feel like God has abandoned us, like our prayers are going unanswered, or like there is no way out of the darkness that surrounds us. These feelings of despair and doubt can cloud our judgment, sap our strength, and make it even harder to hold fast to the truth of God's love and faithfulness.
 
-## The Promise of God's Presence and Protection
+## The Power of Crying Out to God in Distress
 
-In the face of life's trials and temptations, God offers us the incredible promise of His presence and protection. Here are three powerful truths that flow from the promise of Isaiah 43:2:
+In the face of life's troubles and temptations, God invites us to lift up our hearts to Him in honest, vulnerable, and faith-filled prayer. Here are three powerful truths that flow from the promise of Psalm 120:1:
 
-### 1\. God is With Us in the Waters
+### 1\. God Hears Our Cries
 
-> "When you pass through the waters, I will be with you..." (Isaiah 43:2a, NIV)
+> "The eyes of the Lord are on the righteous, and his ears are attentive to their cry." (Psalm 34:15, NIV)
 
-The first and most foundational promise that God offers us in times of trial is the assurance of His presence. No matter how deep the waters or how turbulent the waves, God promises to be with us, walking alongside us, and holding us fast. We are never alone, never abandoned, and never beyond the reach of His love and care. As we learn to cling to His presence and trust in His goodness, we can find the strength, comfort, and courage we need to keep pressing forward, even in the midst of the most challenging circumstances.
+The first and most foundational truth that we can cling to in times of distress is the assurance that God hears our cries. No matter how deep our pain, how desperate our situation, or how feeble our prayers may seem, God is always listening, always attentive, and always ready to respond with love and compassion. As we pour out our hearts to Him, bringing our fears, doubts, and struggles before His throne of grace, we can trust that He is not distant or disinterested, but intimately aware of our every need and longing.
 
-### 2\. God Will Not Let Us Be Overwhelmed
+### 2\. God Answers Our Prayers
 
-> "...and when you pass through the rivers, they will not sweep over you." (Isaiah 43:2b, NIV)
+> "Call to me and I will answer you and tell you great and unsearchable things you do not know." (Jeremiah 33:3, NIV)
 
-Another powerful promise that God offers us is the assurance that no matter how fierce the currents or how high the waters rise, He will not let us be overwhelmed or swept away. When we are walking through the trials of life, it can be easy to feel like we are drowning, like the challenges we face are too much for us to bear. But God promises to be our anchor, our lifeline, and our sure foundation, holding us steady and keeping us from being consumed by the waters around us.
+Another powerful promise that we can hold fast to in times of trouble is the assurance that God not only hears our cries but also answers our prayers. When we call out to Him in faith, trusting in His goodness, wisdom, and power, we can have confidence that He will respond with guidance, strength, and provision for our every need. While His answers may not always come in the form or timing that we expect, we can trust that He is working all things together for our good and His glory, and that He will never leave us or forsake us in our time of need.
 
-### 3\. God Will Protect Us in the Flames
+### 3\. God Delivers Us from Trouble
 
-> "When you walk through the fire, you will not be burned; the flames will not set you ablaze." (Isaiah 43:2c, NIV)
+> "The righteous cry out, and the Lord hears them; he delivers them from all their troubles." (Psalm 34:17, NIV)
 
-Finally, God promises to protect us and keep us unscathed, even in the midst of the fiercest flames and the hottest trials. When we are walking through the fires of suffering, persecution, or spiritual warfare, it can be easy to feel like we are being consumed, like the heat and intensity of the battle will be our undoing. But God promises to be our shield, our refuge, and our deliverer, protecting us from the flames and bringing us through the fire refined, purified, and stronger than before.
+Finally, the promise of Psalm 120:1 assures us that when we cry out to God in our distress, He not only hears and answers our prayers but also delivers us from our troubles. While this deliverance may not always come in the form of an immediate or miraculous resolution to our circumstances, we can trust that God is working behind the scenes, guiding our steps, and bringing us through the valley of the shadow of death into the green pastures of His love and care. As we lean on His strength, trust in His wisdom, and hold fast to His promises, we can experience the joy, peace, and freedom that come from knowing that our lives are in His hands.
 
-## Practical Steps for Walking Through Trials with God
+## Practical Steps for Crying Out to God in Trouble
 
-While the promise of God's presence and protection is an incredible source of hope and comfort, learning to walk through trials with Him is a daily choice and a lifelong journey. Here are three practical steps for cultivating a heart that relies on God and finds strength in Him:
+While the power and promise of crying out to God in distress are available to all who call on His name, learning to lift up our hearts to Him in faith is a daily choice and a lifelong journey. Here are three practical steps for cultivating a heart that cries out to God and experiences His response:
 
-### 1\. Anchor Your Soul in God's Word
+### 1\. Be Honest and Vulnerable in Prayer
 
-> "I have hidden your word in my heart that I might not sin against you." (Psalm 119:11, NIV)
+> "Trust in him at all times, you people; pour out your hearts to him, for God is our refuge." (Psalm 62:8, NIV)
 
-One of the most important ways to walk through trials with God is to anchor your soul in the truth and promises of His Word. As you read, study, and meditate on Scripture, allowing it to shape your perspective, guide your steps, and strengthen your faith, you will find the wisdom, courage, and hope you need to navigate even the most challenging circumstances. Don't hesitate to memorize and cling to specific verses or passages that speak to your heart and remind you of God's faithfulness and love.
+One of the most important aspects of crying out to God in distress is learning to be honest, vulnerable, and transparent in our prayers. Rather than hiding our fears, doubts, or struggles from God, or trying to put on a brave face before Him, we are invited to pour out our hearts to Him, bringing our raw emotions, our deepest longings, and our most desperate needs before His throne of grace. As we learn to pray with authenticity and vulnerability, we create space for God's love, comfort, and strength to meet us in our weakness and transform us from the inside out.
 
-### 2\. Cultivate a Lifestyle of Prayer and Worship
+### 2\. Hold Fast to God's Promises
 
-> "Rejoice always, pray continually, give thanks in all circumstances; for this is God's will for you in Christ Jesus." (1 Thessalonians 5:16-18, NIV)
+> "The Lord is close to the brokenhearted and saves those who are crushed in spirit." (Psalm 34:18, NIV)
 
-Another key to walking through trials with God is to cultivate a lifestyle of prayer and worship, even in the midst of difficult circumstances. By regularly bringing your fears, struggles, and needs before God's throne of grace, pouring out your heart to Him in honest, vulnerable prayer, you create space for His presence, peace, and power to fill your soul. As you choose to worship Him, thanking Him for His goodness and faithfulness, even when you don't feel like it, you align your heart with His purposes and find renewed strength and perspective for the journey ahead.
+Another key to experiencing God's response to our cries is to hold fast to His promises, even in the midst of difficult or overwhelming circumstances. When we are in the valley of the shadow of death, it can be easy to lose sight of God's goodness, faithfulness, and unfailing love. However, by anchoring our hearts in the truth of His Word, meditating on His promises, and declaring them over our lives, we can find the strength, hope, and courage we need to keep pressing forward in faith, even when the path ahead seems dark or uncertain.
 
-### 3\. Surround Yourself with Godly Community
+### 3\. Surround Yourself with Praying Community
 
-> "And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching." (Hebrews 10:24-25, NIV)
+> "Therefore confess your sins to each other and pray for each other so that you may be healed. The prayer of a righteous person is powerful and effective." (James 5:16, NIV)
 
-Finally, walking through trials with God is not meant to be a solitary journey, but one that is shared and supported by a loving community of believers. As you face the challenges and struggles of life, don't hesitate to reach out to trusted friends, family members, or church leaders for prayer, encouragement, and practical help. By allowing others to come alongside you, to bear your burdens and point you back to the faithfulness of God, you will find a renewed sense of strength, hope, and resilience for the road ahead.
+Finally, crying out to God in distress is not meant to be a solitary journey, but one that is shared and supported by a loving community of believers. As we face the challenges and struggles of life, it is essential to surround ourselves with others who can pray with us, encourage us, and remind us of God's faithfulness and love. By joining our hearts and voices together in prayer, we can experience the power of God's presence and the comfort of His love in deeper and more transformative ways.
 
-## The Promise of Strength and Renewal
+## The Promise of Rest and Renewal
 
-As you learn to walk through life's trials with God, anchoring your soul in His Word, cultivating a lifestyle of prayer and worship, and surrounding yourself with godly community, you can have confidence in the promise of strength and renewal that He offers. In 2 Corinthians 4:16-18, Paul declares, "Therefore we do not lose heart. Though outwardly we are wasting away, yet inwardly we are being renewed day by day. For our light and momentary troubles are achieving for us an eternal glory that far outweighs them all. So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal."
+As we learn to cry out to God in our distress, holding fast to His promises and surrounding ourselves with praying community, we can have confidence in the promise of rest and renewal that He offers. In Matthew 11:28-30, Jesus declares, "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
 
-When you fix your eyes on Christ and trust in His presence and power, you can walk through even the deepest waters and the fiercest flames unscathed, knowing that He is with you, He is for you, and He is working all things together for your good and His glory. You can find rest, renewal, and strength for the journey, not in your own abilities or resources, but in the unwavering love and faithfulness of the One who holds you fast.
+When we bring our troubles and burdens to Jesus, pouring out our hearts to Him in faith and vulnerability, we can experience the rest, renewal, and transformation that come from abiding in His presence and walking in His ways. We can trust that He is with us, He is for us, and He is working all things together for our good and His glory, even in the midst of life's darkest valleys and deepest pains.
 
-Moreover, as you learn to walk through trials with God, you become a living testament to the power of His presence and the truth of His promises. Your life becomes a beacon of hope and healing to others who are struggling, a reminder that no matter what we face, we can find victory, wholeness, and abundant life in Christ.
+Moreover, as we learn to cry out to God and experience His response, we become a living testament to the power of prayer and the faithfulness of God. Our lives become a beacon of hope and healing to others who are struggling, a reminder that no matter what we face, we can find comfort, strength, and deliverance in the loving arms of our Heavenly Father.
 
-So if you find yourself in the midst of a trial today, know that you are not alone, and that God is inviting you to walk through it with Him. Anchor your soul in His Word, cultivate a lifestyle of prayer and worship, and surround yourself with godly community. As you do, you will discover the strength, the hope, and the unshakable peace that can only be found in the presence of the One who promises to be with you always, even to the end of the age.
+So if you find yourself in distress today, know that you are not alone, and that God is inviting you to lift up your heart to Him in faith and expectation. Be honest and vulnerable in your prayers, hold fast to His promises, and surround yourself with praying community. As you do, you will discover the rest, the renewal, and the transformative power that can only be found in the presence of the One who hears your every cry and answers with love, compassion, and unfailing faithfulness.
