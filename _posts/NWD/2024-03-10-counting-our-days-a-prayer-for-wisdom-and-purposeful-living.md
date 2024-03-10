@@ -7,74 +7,74 @@ author: Hope Staff
 notes: NWD 53
 transcript:
 ---
-In a world that often feels marked by suffering, disappointment, and uncertainty, it can be easy to find ourselves struggling to experience true, lasting joy. We may find ourselves grappling with the pain of loss, the weariness of unfulfilled longings, or the fear of an unknown future, wondering if we will ever again feel the lightness and delight of a heart filled with gladness. However, as Christians, we have access to a source of joy that transcends our circumstances and flows from the unshakable promises of God.
+In the busyness and distractions of modern life, it can be easy to lose sight of the brevity and preciousness of our days on earth. We may find ourselves caught up in the pursuit of temporal goals, material possessions, or fleeting pleasures, neglecting to consider the eternal significance of our choices and the ultimate purpose for which we were created. However, as Christians, we are called to a different perspective – one that recognizes the value of each day as a gift from God and seeks to live with wisdom, intentionality, and a heart surrendered to His purposes.
 
-In Job 8:21, we find a powerful declaration of the joy that God desires to bring to His children: "He will yet fill your mouth with laughter and your lips with shouts of joy." This verse, spoken by Job's friend Bildad, serves as a reminder that no matter how dark or difficult our current situation may be, we can have confident expectation in the joy that God will bring as we trust in His faithfulness and cling to His promises.
+In Psalm 90:12, Moses offers a profound prayer that encapsulates this perspective: "Teach us to number our days, that we may gain a heart of wisdom." This simple yet powerful request serves as an invitation to approach life with a sense of urgency, gratitude, and purposeful living, recognizing that our time on earth is limited and that each moment is an opportunity to glorify God and invest in eternity.
 
-## The Challenges of Finding Joy in Difficult Times
+## The Temptations of a Life Without Purpose
 
-### The Pain of Loss and Grief
+### The Pursuit of Temporal Pleasures
 
-One of the most profound obstacles to experiencing joy is the pain of loss and grief that we all face at various points in our lives. Whether it's the death of a loved one, the end of a cherished relationship, or the loss of a dream or opportunity, the ache of absence and the weight of sorrow can feel all-consuming, making it difficult to imagine ever feeling joy again.
+One of the most common temptations that can distract us from living wisely and purposefully is the pursuit of temporal pleasures and worldly desires. In a culture that often glorifies instant gratification, self-indulgence, and the accumulation of material possessions, it can be easy to become consumed with the quest for happiness, comfort, and satisfaction in things that ultimately fade away.
 
-### The Weariness of Unfulfilled Longings
+### The Illusion of Immortality
 
-Another common challenge to finding joy is the sense of weariness and disappointment that can come from unfulfilled longings and unanswered prayers. When we have been waiting and hoping for something for a long time, whether it's a spouse, a child, a job, or a healing, the ongoing delay and uncertainty can leave us feeling drained, discouraged, and even doubtful of God's goodness and care for us.
+Another obstacle to numbering our days and gaining wisdom is the illusion of immortality that often pervades our thinking and decision-making. When we are young, healthy, and full of energy, it can be tempting to live as though we have all the time in the world, putting off important decisions, neglecting our spiritual growth, and failing to consider the eternal consequences of our actions.
 
-### The Fear of an Unknown Future
+### The Distractions of Busyness and Noise
 
-Finally, the fear and anxiety that often accompany thoughts of the unknown future can be a significant barrier to experiencing joy in the present. When we are faced with difficult decisions, uncertain outcomes, or potential trials and hardships, it can be easy to become consumed with worry and dread, robbing us of the peace and delight that God desires for us.
+Finally, the constant distractions of busyness, noise, and information overload that characterize modern life can make it challenging to cultivate a heart of wisdom and purposeful living. When our schedules are packed with activities, our minds are bombarded with media and messages, and our attention is fragmented by countless demands and interruptions, it can be difficult to find the space and stillness needed to reflect on the deeper questions of life and to align our priorities with God's purposes.
 
-## The Promise of Joy Overflowing
+## The Blessings of Numbering Our Days
 
-In the face of these challenges and struggles, the Bible is filled with promises of the abundant, overflowing joy that God desires to bring to His children. Here are just a few of the incredible declarations of joy found in Scripture:
+In the face of these temptations and distractions, the prayer of Psalm 90:12 offers a powerful invitation to embrace the blessings of a life lived with wisdom and purpose. Here are just a few of the incredible benefits of learning to number our days:
 
-### 1\. Joy in God's Presence
+### 1\. A Heart of Wisdom
 
-> "You make known to me the path of life; you will fill me with joy in your presence, with eternal pleasures at your right hand." (Psalm 16:11, NIV)
+#### "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding." (Proverbs 9:10, NIV)
 
-One of the most profound sources of joy for the believer is the promise of God's constant presence with us. When we draw near to Him, seeking His face and delighting in His love, we experience a joy that flows from the very heart of God Himself. In His presence, we find the fullness of life, the pleasures that satisfy our deepest longings, and the unshakable security that comes from knowing we are held in His eternal embrace.
+The first and most foundational blessing of numbering our days is the cultivation of a heart of wisdom – a deep, abiding understanding of who God is, what He desires for our lives, and how we can live in alignment with His purposes. As we learn to approach each day with a sense of reverence, gratitude, and surrender to God, we begin to see the world and our place in it through the lens of His eternal perspective, gaining insight, discernment, and a clarity of purpose that can only come from knowing and walking with Him.
 
-### 2\. Joy in God's Salvation
+### 2\. A Life of Intentionality and Purpose
 
-> "Though you have not seen him, you love him; and even though you do not see him now, you believe in him and are filled with an inexpressible and glorious joy, for you are receiving the end result of your faith, the salvation of your souls." (1 Peter 1:8-9, NIV)
+#### "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do." (Ephesians 2:10, NIV)
 
-Another powerful promise of joy is found in the incredible gift of salvation that God has freely given us through the death and resurrection of Jesus Christ. When we place our faith in Him, trusting in His finished work on the cross and receiving the forgiveness and new life that He offers, we are filled with an inexpressible and glorious joy that comes from knowing we are forever reconciled to God and secured in His love.
+Another powerful blessing of numbering our days is the opportunity to live with greater intentionality and purpose, recognizing that each moment is a gift from God and an opportunity to glorify Him and make a difference in the world. When we understand that our time on earth is limited and that we have been created for a specific purpose, we can begin to approach each day with a sense of focus, urgency, and a desire to use our gifts, talents, and resources to advance God's kingdom and bless others.
 
-### 3\. Joy in God's Faithfulness
+### 3\. A Legacy of Eternal Significance
 
-> "Those who sow with tears will reap with songs of joy. Those who go out weeping, carrying seed to sow, will return with songs of joy, carrying sheaves with them." (Psalm 126:5-6, NIV)
+#### "Store up for yourselves treasures in heaven, where moths and vermin do not destroy, and where thieves do not break in and steal." (Matthew 6:20, NIV)
 
-Finally, the Bible promises that even in the midst of our tears and sorrows, we can have confident expectation in the joy that God will bring as we trust in His faithfulness and cling to His promises. Just as a farmer sows seeds in faith, knowing that a harvest of abundance will come in due time, we can sow our prayers, our desires, and our hopes with tears, trusting that God will bring a harvest of joy and blessing in His perfect timing and way.
+Finally, learning to number our days and live with wisdom and purpose enables us to leave a legacy of eternal significance – a life that is not measured by temporal accomplishments or material possessions, but by the impact we have had on others and the investments we have made in the things that matter most to God. When we prioritize our relationship with Him, our service to others, and our growth in Christ-like character, we can have confidence that our lives will bear fruit that lasts long beyond our earthly days.
 
-## Practical Steps for Cultivating Joyful Expectation
+## Practical Steps for Embracing Wisdom and Purposeful Living
 
-While the promises of joy in God's presence, salvation, and faithfulness are truly incredible, learning to live in the reality of that joy is a daily choice and a lifelong journey. Here are a few practical steps we can take to cultivate a heart of joyful expectation:
+While the blessings of numbering our days and living with wisdom and purpose are truly incredible, learning to embrace this perspective is a daily choice and a lifelong journey. Here are a few practical steps we can take to cultivate a heart of wisdom and purposeful living:
 
-### 1\. Meditate on God's Promises
+### 1\. Cultivate a Lifestyle of Prayer and Reflection
 
-> "I will meditate on your precepts and fix my eyes on your ways." (Psalm 119:15, ESV)
+#### "Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed." (Mark 1:35, NIV)
 
-One of the most powerful ways to cultivate a heart of joyful expectation is to regularly meditate on the promises of God found in His Word. As we read, study, and internalize the truth of who God is, what He has done for us, and what He has promised to do, we begin to develop an unshakable confidence in His goodness, faithfulness, and love. By fixing our eyes on His ways and His promises, we can experience a deep, abiding joy that flows from the assurance of His constant presence and care.
+One of the most powerful ways to gain a heart of wisdom and align our lives with God's purposes is to cultivate a lifestyle of regular prayer and reflection. By setting aside daily time to commune with God, to seek His face and His will, and to examine our hearts and priorities in light of His Word, we create space for the Holy Spirit to speak to us, guide us, and transform us from the inside out.
 
-### 2\. Practice Gratitude and Praise
+### 2\. Seek Wise Counsel and Accountability
 
-> "Rejoice always, pray without ceasing, give thanks in all circumstances; for this is the will of God in Christ Jesus for you." (1 Thessalonians 5:16-18, NIV)
+#### "Walk with the wise and become wise, for a companion of fools suffers harm." (Proverbs 13:20, NIV)
 
-Another key to experiencing joyful expectation is to cultivate a lifestyle of gratitude and praise, even in the midst of difficult or painful circumstances. When we choose to give thanks to God, to focus on His blessings and faithfulness, and to lift our hearts in worship and adoration, we shift our perspective from our problems to His promises, from our sorrows to His sufficiency. As we learn to rejoice always, pray continually, and give thanks in all things, we open ourselves up to the joy that comes from trusting in a good and loving God.
+Another key to living with wisdom and purpose is to surround ourselves with wise counsel and accountability, seeking out mentors, friends, and spiritual leaders who can speak truth into our lives, challenge us to grow, and help us stay focused on the things that matter most. By regularly sharing our struggles, our dreams, and our decisions with trusted advisors, we can gain invaluable perspective, avoid pitfalls, and stay on track with God's purposes for our lives.
 
-### 3\. Surround Yourself with Joyful Community
+### 3\. Live with Eternity in Mind
 
-> "And let us consider how to stir up one another to love and good works, not neglecting to meet together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near." (Hebrews 10:24-25, ESV)
+#### "So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal." (2 Corinthians 4:18, NIV)
 
-Finally, cultivating joyful expectation is not meant to be a solitary journey, but one that is shared and supported by a community of believers who are also learning to find their joy in God. By surrounding ourselves with others who can encourage us, pray with us, and remind us of God's goodness and faithfulness, we can find the strength, hope, and delight that we need to keep pressing on in faith. Through regular fellowship, worship, and service together, we can spur one another on towards a deeper, more abiding joy in Christ.
+Finally, embracing wisdom and purposeful living requires a fundamental shift in our perspective – a conscious choice to live with eternity in mind, recognizing that our ultimate home is not in this world, but in the presence of God forever. When we orient our lives around this eternal reality, making decisions and investing our time and resources in light of what will last beyond this life, we can experience a sense of peace, purpose, and unshakable joy that transcends our earthly circumstances.
 
-## The Promise of Laughter and Shouts of Joy
+## The Promise of Rest and Renewal
 
-As we learn to cultivate a heart of joyful expectation, meditating on God's promises, practicing gratitude and praise, and surrounding ourselves with joyful community, we can have confidence in the ultimate promise of laughter and shouts of joy that God desires to bring to His children. In Psalm 30:5, we read, "Weeping may tarry for the night, but joy comes with the morning."
+As we learn to number our days and live with wisdom and purpose, we can have confidence in the promise of rest and renewal that God offers to those who seek Him. In Matthew 11:28-30, Jesus extends this beautiful invitation: "Come to me, all you who are weary and burdened, and I will give you rest. Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."
 
-No matter how long our night of weeping may last, we can trust that the dawn of joy will surely come, as we cling to the faithful promises of our good and loving God. We can know that He is working all things together for our ultimate joy and His ultimate glory, and that one day, every tear will be wiped away, every longing fulfilled, and every sorrow turned to laughter and shouts of joy in His presence.
+When we come to Jesus, surrendering our lives to His purposes and learning to walk in His wisdom, we discover a rest and renewal that goes beyond physical refreshment or temporary relief. We find a soul-deep sense of peace, purpose, and unshakable joy that flows from knowing and living for the One who created us, loves us, and holds our days in His hands.
 
-Moreover, as we learn to live in the joyful expectation of God's promises, we become a living testimony to the goodness and faithfulness of God, inviting others to discover the true, lasting, and abundant joy that can only be found in Him. Our joy becomes a light in a world that is often marked by sorrow and despair, pointing the way to the One who is the source of all joy and the fulfillment of all our deepest desires.
+Moreover, as we learn to number our days and live with wisdom and intentionality, we become a powerful witness to the goodness and faithfulness of God, inviting others to discover the abundant life that can only be found in Him. Our lives become a testament to the beauty and significance of a heart surrendered to His purposes, a legacy that will endure long after our earthly days have ended.
 
-So if you find yourself struggling to experience joy in the midst of life's challenges and sorrows today, know that God is inviting you to find your joy in Him. Meditate on His promises, practice gratitude and praise, and surround yourself with a community of believers who can encourage and support you on the journey. As you do, you will discover the laughter, the shouts of joy, and the overflowing delight that can only be found in the presence of a God who loves you with an everlasting love and who is faithful to fulfill every promise He has made.
+So if you find yourself longing for a life of greater wisdom, purpose, and eternal significance today, know that God is inviting you to number your days and seek Him with all your heart. Cultivate a lifestyle of prayer and reflection, seek out wise counsel and accountability, and live with eternity in mind. As you do, you will discover the rest, the renewal, and the unshakable joy that can only be found in a life aligned with the purposes and wisdom of a good and loving God.
