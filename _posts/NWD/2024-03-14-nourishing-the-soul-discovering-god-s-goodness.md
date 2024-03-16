@@ -4,7 +4,7 @@ title: 'Nourishing the Soul: Discovering God''s Goodness'
 categories:
   - Nightly Wind Down
 author: Hope Staff
-notes: NWD 60
+notes: NWD 59
 transcript:
 ---
 In a world that often feels marked by chaos, uncertainty, and brokenness, it can be easy to lose sight of the goodness, beauty, and abundance that flow from the heart of God. We may find ourselves feeling spiritually malnourished, longing for a deeper sense of purpose, peace, and connection with our Creator. However, as followers of Christ, we are invited to discover and experience the soul-satisfying goodness of God, which has the power to transform our lives and fill us with a deep, abiding sense of joy, rest, and spiritual vitality.
@@ -31,13 +31,13 @@ In the face of these challenges and obstacles, God invites us to taste and see H
 
 ### 1\. God's Goodness is Experiential
 
-> "Taste and see that the Lord is good..." (Psalm 34:8a, NIV)
+> "Taste and see that the Lord is good…" (Psalm 34:8a, NIV)
 
 The first and most foundational truth that we can embrace is that God's goodness is not just a theoretical concept or a distant reality, but a tangible, experiential truth that we can encounter and enjoy in our daily lives. Just as we taste and savor the flavors and textures of a delicious meal, we can "taste" and "see" the goodness of God through our senses, our emotions, and our experiences. As we open our hearts and lives to God's presence and work, we discover that His goodness is real, satisfying, and available to us in every moment and circumstance.
 
 ### 2\. God's Goodness is a Refuge
 
-> "...blessed is the one who takes refuge in him." (Psalm 34:8b, NIV)
+> "…blessed is the one who takes refuge in him." (Psalm 34:8b, NIV)
 
 Another powerful truth that we can draw from this verse is that God's goodness is not just a temporary blessing or a fleeting experience, but a constant, reliable refuge that we can turn to in times of need, struggle, or uncertainty. When we choose to take refuge in God, anchoring our lives in His love, faithfulness, and protection, we find a source of strength, comfort, and security that transcends our circumstances and enables us to face life's challenges with courage, peace, and hope.
 
