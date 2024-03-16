@@ -31,25 +31,25 @@ In the face of these challenges and obstacles, God invites us to embrace the inc
 
 ### 1\. Love Always Protects
 
-> "Love always protects..." (1 Corinthians 13:7a, NIV)
+> "Love always protects…" (1 Corinthians 13:7a, NIV)
 
 One of the most beautiful and reassuring qualities of God's love is its protective nature. When we are rooted in His love, we can trust that He is constantly watching over us, shielding us from harm, and working all things together for our good and His glory. This knowledge can give us the courage and confidence to face even the most daunting challenges, knowing that we are held securely in the strong, loving arms of our Heavenly Father.
 
 ### 2\. Love Always Trusts
 
-> "...always trusts..." (1 Corinthians 13:7b, NIV)
+> "…always trusts…" (1 Corinthians 13:7b, NIV)
 
 Another powerful aspect of resilient love is its ability to trust, even in the face of uncertainty, disappointment, or betrayal. When we have experienced the trustworthiness and faithfulness of God's love in our own lives, we can learn to extend that same trust to others, believing the best about their intentions and actions, even when we may not fully understand or agree with them. This kind of trust can create a foundation of grace, compassion, and forgiveness in our relationships, enabling us to navigate conflicts and misunderstandings with wisdom and patience.
 
 ### 3\. Love Always Hopes
 
-> "...always hopes..." (1 Corinthians 13:7c, NIV)
+> "…always hopes…" (1 Corinthians 13:7c, NIV)
 
 Perhaps one of the most transformative qualities of resilient love is its unwavering hope, even in the darkest and most discouraging of circumstances. When we anchor our hope in the unfailing love and promises of God, we can find the strength to keep pressing forward, believing that He is at work in every situation, and that His purposes will ultimately prevail. This hope can sustain us through seasons of waiting, uncertainty, and even suffering, enabling us to maintain a posture of faith, joy, and expectancy, no matter what challenges we may face.
 
 ### 4\. Love Always Perseveres
 
-> "...always perseveres." (1 Corinthians 13:7d, NIV)
+> "…always perseveres." (1 Corinthians 13:7d, NIV)
 
 Finally, resilient love is marked by a steadfast, unyielding perseverance that refuses to give up or give in, no matter how difficult or prolonged the struggle may be. When we are filled with the love of God, we can find the strength and determination to keep loving, serving, and believing, even when we are faced with obstacles, setbacks, or opposition. This kind of perseverance can be a powerful witness to the world around us, demonstrating the depth, sincerity, and transformative power of God's love in our lives.
 
@@ -83,4 +83,4 @@ When we anchor our lives in the unfailing, resilient love of God, we discover a 
 
 Moreover, as we extend this resilient love to others and allow it to shape our relationships and interactions, we become a powerful witness to the grace, compassion, and transformative power of the Gospel. Our lives become a testament to the unshakable love of God, inviting others to find their own rest, renewal, and spiritual wellness in the arms of a Savior who loves them with an everlasting love.
 
-So if you find yourself struggling to navigate the complexities and challenges of life today, know that God is inviting you to embrace the resilient love that He has poured into your heart through Christ. Abide in His love daily, practice forgiveness and grace, and seek the wisdom and support of a loving community. As you do, you will discover the strength, the hope, and the unwavering love that can carry you through every circumstance, leading you into the abundant life and spiritual wellness that God desires for you.&nbsp;
+So if you find yourself struggling to navigate the complexities and challenges of life today, know that God is inviting you to embrace the resilient love that He has poured into your heart through Christ. Abide in His love daily, practice forgiveness and grace, and seek the wisdom and support of a loving community. As you do, you will discover the strength, the hope, and the unwavering love that can carry you through every circumstance, leading you into the abundant life and spiritual wellness that God desires for you.
