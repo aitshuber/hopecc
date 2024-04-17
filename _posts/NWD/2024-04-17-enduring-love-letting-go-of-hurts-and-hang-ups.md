@@ -4,7 +4,7 @@ title: 'Enduring Love: Letting Go of Hurts and Hang Ups'
 categories:
   - Nightly Wind Down
 author: Hope Staff
-notes: NWD 76
+notes: NWD 75
 transcript:
 ---
 In a world marked by brokenness, pain, and the constant struggle for healing and wholeness, it can be easy to find ourselves weighed down by the hurts, disappointments, and emotional baggage that we carry from our past experiences. We may find ourselves grappling with the wounds of betrayal, rejection, or abuse, the sting of failure or unfulfilled dreams, or the persistent patterns of negative thinking and behavior that keep us stuck in cycles of shame, fear, and self-doubt. However, as followers of Christ, we have access to a powerful truth that has the power to set us free from the bondage of our hurts and hang ups – the truth of God's enduring, unconditional, and transformative love.
