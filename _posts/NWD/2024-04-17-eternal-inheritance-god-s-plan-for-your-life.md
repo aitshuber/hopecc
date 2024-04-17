@@ -4,7 +4,7 @@ title: 'Eternal Inheritance: God''s Plan for Your Life'
 categories:
   - Nightly Wind Down
 author: Hope Staff
-notes: NWD 75
+notes: NWD 74
 transcript:
 ---
 In a world marked by uncertainty, change, and the constant pursuit of temporary pleasures and successes, it can be easy to lose sight of the bigger picture – the eternal purpose and plan that God has for our lives. We may find ourselves grappling with questions of identity, meaning, and ultimate significance, wondering what our lives are truly meant to be about and where we fit into the grand story of God's redemptive work in the world. However, as followers of Christ, we have access to a profound truth that has the power to anchor our souls, guide our steps, and fill us with an unshakable sense of hope, purpose, and spiritual vitality – the truth of our eternal inheritance in Him.
