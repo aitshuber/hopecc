@@ -4,7 +4,7 @@ title: 'Savior and Strength: Navigating Life with God''s Power and Trust'
 categories:
   - Nightly Wind Down
 author: Hope Staff
-notes: NWD 86
+notes: NWD 88
 transcript:
 ---
 In the midst of life's challenges, uncertainties, and fears, it's easy to feel overwhelmed and alone. We may struggle with anxiety, doubt, or a sense of powerlessness in the face of difficult circumstances. However, Isaiah 12:2 offers a powerful reminder of the source of our strength and security: "Surely God is my salvation; I will trust and not be afraid. The Lord, the Lord himself, is my strength and my defense; he has become my salvation." This verse speaks to the incredible truth that when we put our trust in God, we have access to a strength and peace that can carry us through even the darkest of times.
