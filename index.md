@@ -11,8 +11,6 @@ layout: full
 
 {% include section-latest.html title="Latest Articles" limit="4" more="More Articles" %}
 
-{% include section-ad.html title="Advertisement" image="https://via.placeholder.com/800x180/f4f4f4/fff.png?text=+" url="#" blank="true" %}
-
 {% include section-authors.html title="Our Contributors" %}
 
 {% include section-instagram.html title="Latest On Instagram" cols="4" count="4" gutter="true" %}
