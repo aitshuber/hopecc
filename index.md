@@ -1,7 +1,7 @@
 ---
 layout: full
 ---
-{% include section-ad.html image="<strong>Hope-X-3.png</strong>"<img src="/uploads/Hope-X-3.png"> width="" url="https://natural-ibis.cloudvent.net}</p><p>{% include section-featured.html title="Featured Story" %}
+{% include section-ad.html image="<strong>Hope-X-3.png</strong>"<img src="/uploads/Hope-X-3.png"> width="" url="https://app.cloudcannon.com/api/v0/sites/81c71ca1-94cc-4557-9a9b-ad2a4713293c/files/uploads%2FHope-X-3.png?cachebuster=fa95fc5d224f47b4c988fa83b3e4d8d2"}</p><p>{% include section-featured.html title="Featured Story" %}
 
 {% include section-spotlight.html title="Spotlight" %}
 
