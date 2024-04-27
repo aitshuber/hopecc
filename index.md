@@ -1,7 +1,7 @@
 ---
 layout: full
 ---
-{% include section-ad.html image="welcome.png" alt="Buy Étoile Jekyll Theme" width="" url="https://natural-ibis.cloudvent.net}</p><p>{% include section-featured.html title="Featured Story" %}
+{% include section-ad.html image="<strong>Hope-X-3.png</strong>" width="" url="https://natural-ibis.cloudvent.net}</p><p>{% include section-featured.html title="Featured Story" %}
 
 {% include section-spotlight.html title="Spotlight" %}
 
