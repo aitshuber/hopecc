@@ -1,7 +1,7 @@
 ---
 layout: full
 ---
-{% include section-ad.html image="Hope-Banner.png" alt="Hope-Banner.png" width="" url="https://app.cloudcannon.com/api/v0/editing_session_files/a5f66608-2eb9-44e5-95e2-def99e528ef4/raw?cachebuster=8f9192569c13bce83b94740b2d8a0557" blank="true" %}
+{% include section-ad.html image="Hope.png" alt="Hope.png" width="" url="https://app.cloudcannon.com/api/v0/editing_session_files/b9b6076f-c05e-4c6e-92c1-f269772a1012/raw?cachebuster=faa8b35904a51e1ac3b9cc1086a78708" blank="true" %}
 
 {% include section-spotlight.html title="Spotlight Article" %}
 
