@@ -1,7 +1,7 @@
 ---
 layout: full
 ---
-{% include section-ad.html image="Hope-X-3.png" alt="Hope-X-3.png" width="" url="https://app.cloudcannon.com/api/v0/sites/81c71ca1-94cc-4557-9a9b-ad2a4713293c/files/uploads%2FHope-X-3.png?cachebuster=fa95fc5d224f47b4c988fa83b3e4d8d2" blank="true" %}
+{% include section-ad.html image="Hope-Fixed-Colors.png" alt="Hope-Fixed-Colors.png" width="" url="https://app.cloudcannon.com/api/v0/editing_session_files/df290224-ac75-46f1-b31d-17e6639051c2/raw?cachebuster=fc560278635d665e25f2d7c8eef36df7" blank="true" %}
 
 {% include section-spotlight.html title="Spotlight Article" %}
 
