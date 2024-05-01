@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+    {% include head.html %}
+    <body>
+    {% include header.html %}
+    <div class="uk-container uk-container-xsmall uk-margin-medium-bottom uk-margin-large-top">
+        <div class="uk-text-lead uk-margin-medium-bottom">
+          <h1>{{page.book}} {{page.chapters.chapter}}</h1>
+        <div class="col-md-8 mx-auto">
+          {% for item in page.chapters %}
+          {% if item.chapter %}<h5>Chapter {{item.chapter}}</h5>{% endif %}
+            {% for script in item.verses %}
+              <span class="{% if forloop.first %}ms-1 {% endif %}vs">{{forloop.index}}</span>{{script.verse}}
+            {% endfor %}
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+    </body>
+</html>

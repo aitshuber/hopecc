@@ -21,10 +21,10 @@ google_analytics:   # Google analytics code, get your code here https://www.goog
 disqus:
   shortname:        # Disqus comments shortname, requires Disqus account https://disqus.com/
 
-instagram_accesstoken: 
+instagram_accesstoken:
 
 footer:             # Default footer image settings
-  copyright:        Made by <a href="https://unbound.studio/">human</a> in Bratislava, Slovakia.
+  copyright:        Made by hope
 
 # navbar settings
 navbar_primary:
@@ -42,19 +42,19 @@ social_share:
 
 # Social networks
 social_networks:
-  email:          
-  website:        
+  email:
+  website:
   facebook:         https://www.facebook.com/
-  flickr:         
-  dribbble:       
-  github:         
-  reddit:         
+  flickr:
+  dribbble:
+  github:
+  reddit:
   instagram:        https://www.instagram.com/
-  linkedin:       
-  pinterest:      
+  linkedin:
+  pinterest:
   twitter:          https://twitter.com/
-  vimeo:          
-  youtube:          https://www.youtube.com/    
+  vimeo:
+  youtube:          https://www.youtube.com/
 
 # Strings
 strings:
@@ -91,7 +91,8 @@ collections:
     output: true
   category:
     output: true
-
+  bible:
+    output: true
 # Defaults
 defaults:
   # _posts
@@ -121,3 +122,8 @@ defaults:
       type: category
     values:
       layout: category
+  - scope:
+      path: ""
+      type: bible
+    values:
+      layout: page

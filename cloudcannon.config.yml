@@ -7,6 +7,7 @@ paths:
   data: _data
   layouts: _layouts
   includes: _includes
+  includes: _bible
 collections_config:
   data:
     path: _data
@@ -47,6 +48,13 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+  bible:
+    path: _bible
+    output: true
+    icon: notes
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
 _inputs:
   categories:
     type: multiselect
@@ -60,9 +68,9 @@ _inputs:
       allow_create: true
       empty_type: array
     cascade: true
-  notes: 
+  notes:
     type: textarea
-  transcript: 
+  transcript:
     type: textarea
 _select_data:
   logo_image:
