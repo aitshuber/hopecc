@@ -7,6 +7,7 @@ image_wide: /assets/img/bible/Genesis_123420.png
 podcast:
 type: Old Testament
 book: Genesis
+weight: 1
 chapters:
  - chapter: 1
    verses:
