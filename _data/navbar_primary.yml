@@ -20,6 +20,9 @@ center:
   - title: Sport
     url: /category/sport/
 
+  - title: Bible
+    url: /bible
+
   - title: Pages
     dropdown:
       - title: Blog
