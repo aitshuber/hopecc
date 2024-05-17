@@ -5,9 +5,7 @@ description:
 image_thumb: /uploads/genesis-square.png
 image_wide: /uploads/genesis.png
 podcast: >-
-    <iframe
-    src="https://podcasters.spotify.com/pod/show/scrollandvoice/embed/episodes/Genesis---Full-Book-e2jhhcv/a-ab8o8nc"
-    height="102px" width="400px" frameborder="0"
+    <iframe src="https://podcasters.spotify.com/pod/show/scrollandvoice/embed/episodes/Genesis---Full-Book-e2jhhcv/a-ab8o8nc" height="102px" width="400px" frameborder="0"
     scrolling="no"></iframe>
 type: Old Testament
 book: Genesis
