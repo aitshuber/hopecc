@@ -73,7 +73,7 @@ _inputs:
   transcript:
     type: textarea
   podcast:
-    type: html
+    type: textarea
   image_thumb:
     type: image
   image_wide:
@@ -95,8 +95,6 @@ _select_data:
     shortname:
   footer:
     copyright: >-
-      Made by <a href="https://unbound.studio/">human</a> in Bratislava,
-      Slovakia.
   navbar_primary:
     sticky: true
     social: true
