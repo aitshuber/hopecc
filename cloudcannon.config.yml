@@ -72,6 +72,19 @@ _inputs:
     type: textarea
   transcript:
     type: textarea
+  podcast:
+    type: html
+  image_thumb:
+    type: image
+  image_wide:
+    type: image
+  type:
+    type: select
+    options:
+      values:
+        - Old Testament
+        - New Testament
+        - Deuterocanonical
 _select_data:
   logo_image:
     dark:
