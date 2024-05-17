@@ -4,7 +4,11 @@ title:
 description:
 image_thumb: assets/img/bible/Genesis_Square_123415.png
 image_wide: assets/img/bible/Genesis_123420.png
-podcast:
+podcast: >-
+    <p>&lt;iframe
+    src="https://podcasters.spotify.com/pod/show/scrollandvoice/embed/episodes/Genesis---Full-Book-e2jhhcv/a-ab8o8nc"
+    height="102px" width="400px" frameborder="0"
+    scrolling="no"&gt;&lt;/iframe&gt;</p>
 type: Old Testament
 book: Genesis
 weight: 1
