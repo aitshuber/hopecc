@@ -5,8 +5,8 @@ description:
 image_thumb:
 image_wide:
 podcast:
-type: Other
-book: ﻿Baruch
+type: Deuterocanonical
+book: Baruch
 weight: 74
 chapters:
 - chapter: 1

@@ -5,7 +5,7 @@ description:
 image_thumb:
 image_wide:
 podcast:
-type: Other
+type: Deuterocanonical
 book: The Fourth Book of the Maccabees
 weight: 78
 chapters:

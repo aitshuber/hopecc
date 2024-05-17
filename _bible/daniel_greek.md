@@ -5,7 +5,7 @@ description:
 image_thumb:
 image_wide:
 podcast:
-type: Other
+type: Deuterocanonical
 book: Daniel (Greek)
 weight: 70
 chapters:

@@ -5,7 +5,7 @@ description:
 image_thumb:
 image_wide:
 podcast:
-type: Other
+type: Deuterocanonical
 book: The Wisdom of Jesus the Son of Sirach, or Ecclesiasticus
 weight: 72
 chapters:

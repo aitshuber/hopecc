@@ -2,8 +2,8 @@
 layout: bible
 title:
 description:
-image_thumb:
-image_wide:
+image_thumb: assets/img/bible/Genesis_Square_123415.png
+image_wide: assets/img/bible/Genesis_123420.png
 podcast:
 type: Old Testament
 book: Genesis

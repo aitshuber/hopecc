@@ -5,7 +5,7 @@ description:
 image_thumb:
 image_wide:
 podcast:
-type: Other
+type: Deuterocanonical
 book: Psalm 151
 weight: 82
 chapters:

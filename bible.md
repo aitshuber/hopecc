@@ -33,5 +33,17 @@ permalink: /bible
 	{% endif %}
 	{% endfor %}
 	</div>
+	<hr/>
+	<h5>Deuterocanon </h5>
+	<div class="uk-grid-small uk-flex uk-flex-left@l">
+	{% assign sorted_items = site.bible | sort: 'weight' %}
+	{% for item in sorted_items %}
+	{% if item.type == 'Deuterocanonical' %}
+	<div>
+		<a href="{{item.url}}"><img src="{{item.image_thumb}}" class=""/></a>
+    </div>
+	{% endif %}
+	{% endfor %}
+	</div>
 	</div>
 </div>

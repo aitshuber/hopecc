@@ -5,7 +5,7 @@ description:
 image_thumb:
 image_wide:
 podcast:
-type: Other
+type: Deuterocanonical
 book: The Prayer of Manasses King of Judah
 weight: 81
 chapters:
