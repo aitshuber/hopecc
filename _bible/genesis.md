@@ -1,9 +1,9 @@
 ---
 layout: bible
-title:
+title: The Complete Book of Genesis
 description:
-image_thumb: assets/img/bible/Genesis_Square_123415.png
-image_wide: assets/img/bible/Genesis_123420.png
+image_thumb: /uploads/genesis-square.png
+image_wide: /uploads/genesis.png
 podcast: >-
     <p>&lt;iframe
     src="https://podcasters.spotify.com/pod/show/scrollandvoice/embed/episodes/Genesis---Full-Book-e2jhhcv/a-ab8o8nc"
