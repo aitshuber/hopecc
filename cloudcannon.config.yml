@@ -85,6 +85,8 @@ _inputs:
         - Old Testament
         - New Testament
         - Deuterocanonical
+  layout:
+    hidden: true
 _select_data:
   logo_image:
     dark:

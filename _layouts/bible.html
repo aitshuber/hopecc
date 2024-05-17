@@ -6,6 +6,8 @@
     <div class="uk-container uk-container-xsmall uk-margin-medium-bottom uk-margin-large-top">
         <div class="uk-text-lead uk-margin-medium-bottom">
           <h1>{{page.book}} {{page.chapters.chapter}}</h1>
+          <hr/>
+          {{page.podcast}}
         <div class="col-md-8 mx-auto">
           {% for item in page.chapters %}
           {% if item.chapter %}<h5>Chapter {{item.chapter}}</h5>{% endif %}
