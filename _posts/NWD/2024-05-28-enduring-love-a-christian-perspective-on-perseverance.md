@@ -5,7 +5,7 @@ categories:
   - Nightly Wind Down
 author: Hope Staff
 notes: NWD 105
-transcript: test
+transcript: test test 2
 ---
 Love is often romanticized as a fleeting emotion, but in the Christian context, it is much deeper and enduring. It is a steadfast commitment that perseveres through trials and tribulations. This kind of love is the cornerstone of Christian faith and wellness. Persevering love strengthens our relationships, nurtures our spiritual growth, and fortifies our emotional resilience.
 
