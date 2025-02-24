@@ -1,6 +1,6 @@
 ---
 layout: bible
-title: Chronicles 1
+title:
 description:
 image_thumb:
 image_wide:
