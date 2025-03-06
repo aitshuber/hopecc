@@ -1,5 +1,5 @@
 ---
-image: /uploads/nwd-1-1.png
+image: /uploads/nwd-1-2.png
 title: 'The Nightly Wind Down 1 '
 categories:
   - Nightly Wind Down
