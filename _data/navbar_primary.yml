@@ -2,28 +2,14 @@ left:
 center:
   - title: Home
     url: /
-  - title: All Posts
-    url: /blog/
+  - title: Foundation
+    url: /category/foundation/
+  - title: Daily Hope
+    url: /category/daily-hope/
   - title: Nightly Wind Down
     url: /category/nightly-wind-down/
-  - title: Culture
-    url: /category/culture/
-  - title: Travel
-    url: /category/travel/
-  - title: Sport
-    url: /category/sport/
-  - title: Bible
+  - title: Audio Bible
     url: /bible
-  - title: Pages
-    dropdown:
-      - title: Blog
-        url: /blog/
-      - title: Contact
-        url: /contact/
-      - title: Sidebar Left
-        url: /sidebar-left/
-      - title: Sidebar Right
-        url: /sidebar-right/
-      - title: 404
-        url: /404/
+  - title: Archive
+    url: /blog/
 right:
