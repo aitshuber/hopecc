@@ -4,7 +4,7 @@ title: The Nightly Wind Down 1
 categories:
   - The Nightly Wind Down
 author: Hope Staff
-notes: NWD 1
+notes: The Nightly Wind Down 1
 transcript: >-
   Let’s go ahead and get comfortable in your bed or in your chair,
 
