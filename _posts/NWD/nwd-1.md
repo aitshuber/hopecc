@@ -1,5 +1,5 @@
 ---
-image: https://source.unsplash.com/pjwbiuwXy00/1000x750
+image: /uploads/nwd-1-1.png
 title: 'The Nightly Wind Down 1 '
 categories:
   - Nightly Wind Down
@@ -107,13 +107,13 @@ transcript: >-
 ---
 # The Nightly Wind Down 1
 
-> **Verse:**<br>“Come to me, all you who are weary and burdened, and I will give you rest."<br>Matthew 11:28 (NIV)
+> **Verse:**<br>“Come to me, all you who are weary and burdened, and I will give you rest.”<br>Matthew 11:28 (NIV)
 
 ## Transcript:
 
-<br>Let's go ahead and get comfortable in your bed or in your chair,
+<br>Let’s go ahead and get comfortable in your bed or in your chair,
 
-and when you're ready, allow your eyes to slowly close.
+and when you’re ready, allow your eyes to slowly close.
 
 Take a moment to consider this verse and prayer.
 
@@ -163,12 +163,12 @@ without even having to think about it. It just happens. The breath breathes itse
 
 Feel the inhale and relax. Allow the exhale and let go.
 
-This is a safe place. There's no need to rush. God is watching over you. And he loves you.
+This is a safe place. There’s no need to rush. God is watching over you. And he loves you.
 
-There's no goal. There's no destination. Allow
+There’s no goal. There’s no destination. Allow
 
 your awareness to rest with the presence of God.
 
 Take this verse with you. Come to me, all you who are weary and burdened, and I will give you rest.
 
-God, I know you're always with me. Thank you for all of your blessings. Help me to relax and let go in your presence. I trust your plan for my life.
+God, I know you’re always with me. Thank you for all of your blessings. Help me to relax and let go in your presence. I trust your plan for my life.
