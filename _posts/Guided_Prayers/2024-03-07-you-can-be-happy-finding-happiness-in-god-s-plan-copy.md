@@ -3,6 +3,7 @@ image: /uploads/nwd-1-3.png
 title: The Nightly Wind Down 1
 categories:
   - Guided Prayers
+  - The Nightly Wind Down
 author: Hope Staff
 notes: NWD 1
 transcript: >-
@@ -105,7 +106,7 @@ transcript: >-
   God, I know you’re always with me. Thank you for all of your blessings. Help
   me to relax and let go in your presence. I trust your plan for my life.
 ---
-# The Nightly Wind Down 1
+&nbsp;
 
 > **Verse:**<br>“Come to me, all you who are weary and burdened, and I will give you rest.”<br>Matthew 11:28 (NIV)
 
