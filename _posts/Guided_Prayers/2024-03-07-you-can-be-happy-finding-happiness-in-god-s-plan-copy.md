@@ -1,5 +1,5 @@
 ---
-image: https://source.unsplash.com/pjwbiuwXy00/1000x750
+image: /uploads/nwd-1-3.png
 title: The Nightly Wind Down 1
 categories:
   - Guided Prayers
