@@ -1,28 +1,19 @@
-# Navbar menu navigation links
 left:
-
 center:
   - title: Home
     url: /
-
   - title: All Posts
     url: /blog/
-
-  - title: Business
-    url: /category/business/
-
+  - title: Nightly Wind Down
+    url: /category/nightly-wind-down/
   - title: Culture
     url: /category/culture/
-
   - title: Travel
     url: /category/travel/
-
   - title: Sport
     url: /category/sport/
-
   - title: Bible
     url: /bible
-
   - title: Pages
     dropdown:
       - title: Blog
@@ -35,5 +26,4 @@ center:
         url: /sidebar-right/
       - title: 404
         url: /404/
-
 right:
