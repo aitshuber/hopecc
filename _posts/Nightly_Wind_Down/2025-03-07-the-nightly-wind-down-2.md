@@ -8,7 +8,7 @@ categories:
 author: Hope Staff
 notes: The Nightly Wind Down 2
 embed: >-
-  <iframe width="640" height="360"
+  <iframe width="100%" height="100%"
   src="https://www.youtube.com/embed/94bGzWyHbu0" title="Avenged Sevenfold -
   Nightmare [Official Music Video]" frameborder="0" allow="accelerometer;
   autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
