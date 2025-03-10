@@ -8,9 +8,14 @@
   {%- if include.title -%}
     <h2 class="section-title uk-margin-bottom uk-text-center">{{- include.title -}}</h2>
   {%- endif -%}
+
   {% if include.text %}
     <p class="uk-text-lead uk-margin-medium-bottom uk-text-center">{{ include.text }}</p>
   {% endif%}
+  <iframe src="https://hopemindfulness.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+
+
+  {% comment %}
   <div class="uk-flex-center uk-margin-medium-top uk-margin-small-bottom" data-uk-grid data-uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true">
 
     <!-- Begin Mailchimp Signup Form -->
@@ -36,4 +41,7 @@
     <!--End mc_embed_signup-->
 
   </div>
+  {% endcomment %}
+
+
 </div>
