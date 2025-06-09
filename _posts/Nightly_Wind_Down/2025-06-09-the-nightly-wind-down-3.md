@@ -4,7 +4,7 @@ title: 'Laying Your Burdens at Jesus'' Feet: The Path to True Rest'
 categories:
   - The Nightly Wind Down
 author: Hope Staff
-notes: The Nightly Wind Down 2
+notes: The Nightly Wind Down 3
 embed: >-
   <iframe width="100%" height="100%"
   src="https://www.youtube.com/embed/94bGzWyHbu0" title="Avenged Sevenfold -
