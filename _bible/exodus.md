@@ -2,7 +2,7 @@
 layout: bible
 title:
 description:
-image_thumb:
+image_thumb: /assets/img/bible/Exodus_Square_123404.png
 image_wide:
 podcast:
 type: Old Testament

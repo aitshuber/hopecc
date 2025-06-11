@@ -9,7 +9,9 @@
     <div class="uk-card-media-top">
       {% if post.image %}
         <a href="{{ post.url | relative_url }}">
-          <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}">
+<!--          <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ site.uploads | absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}">-->
+                  <img src="{% if post.image contains 'http' %}{{ post.image }}{% else %}{{ absolute_url }}{{ post.image }}{% endif %}" alt="{{ post.title }}">
+
         </a>
       {% endif %}
     </div>
@@ -17,8 +19,12 @@
         {% if post.id and post.categories %}
           <div class="uk-text-uppercase article-title-font card-categories">
             {% for category in post.categories %}
-                <a class="link-primary" href="/category/{{ category }}">{{category}}</a>
+              {% if category == 'The Nightly Wind Down' %}
+              <a class="link-primary" href="/category/{{ category | replace: ' ', '-' | remove: 'the' | downcase }}">{{category}}</a>
+              {% else %}
+                <a class="link-primary" href="/category/{{ category | replace: ' ', '-' }}">{{category}}</a>
                 {% unless forloop.last %}{% endunless %}
+              {% endif %}
             {% endfor %}
           </div>
         {% endif %}

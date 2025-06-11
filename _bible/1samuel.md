@@ -2,7 +2,7 @@
 layout: bible
 title:
 description:
-image_thumb:
+image_thumb: /assets/img/bible/1_Samuel_Square_123340.png
 image_wide:
 podcast:
 type: Old Testament
