@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/338_nwd_2corinthians_6_18_nlt.png
 title: The Nightly Wind Down 338
+number: 338
 categories:
   - The Nightly Wind Down
 author: Hope Staff

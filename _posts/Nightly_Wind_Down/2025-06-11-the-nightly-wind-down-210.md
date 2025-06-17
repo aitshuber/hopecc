@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/210_nwd_1corinthians_13_13_tlb.png
 title: The Nightly Wind Down 210
+number: 210
 categories:
   - The Nightly Wind Down
 author: Hope Staff

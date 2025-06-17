@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/159_nwd_psalm_118_24_a_tpt.png
 title: The Nightly Wind Down 159
+number: 159
 categories:
   - The Nightly Wind Down
 author: Hope Staff

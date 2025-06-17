@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/170_nwd_1peter_2_9_b_tpt.png
 title: The Nightly Wind Down 170
+number: 170
 categories:
   - The Nightly Wind Down
 author: Hope Staff

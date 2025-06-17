@@ -1,6 +1,7 @@
 ---
 image: /assets/img/meditations/kl_foundation_1.png
 title: 'The Problems We Face...'
+number: 1
 categories:
   - Meditations
   - Difficulty

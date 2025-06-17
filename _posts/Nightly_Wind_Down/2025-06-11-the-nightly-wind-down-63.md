@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/63_nwd_romans_8_28_a_nlt.png
 title: The Nightly Wind Down 63
+number: 63
 categories:
   - The Nightly Wind Down
 author: Hope Staff

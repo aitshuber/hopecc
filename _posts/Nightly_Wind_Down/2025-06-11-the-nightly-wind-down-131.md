@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/131_nwd_proverbs_8_35_tpt.png
 title: The Nightly Wind Down 131
+number: 131
 categories:
   - The Nightly Wind Down
 author: Hope Staff

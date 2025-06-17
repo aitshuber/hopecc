@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/187_nwd_matthew_4_4_b_nlt.png
 title: The Nightly Wind Down 187
+number: 187
 categories:
   - The Nightly Wind Down
 author: Hope Staff

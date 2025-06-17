@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/42_nwd_isaiah_43_1_b_erv.png
 title: The Nightly Wind Down 42
+number: 42
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/89_nwd_psalm_18_28_erv.png
 title: The Nightly Wind Down 89
+number: 89
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/115_nwd_psalm_34_5_b_msg.png
 title: The Nightly Wind Down 115
+number: 115
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/300_nwd_psalm_91_5_niv.png
 title: The Nightly Wind Down 300
+number: 300
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/275_nwd_romans_8_11_a_msg.png
 title: The Nightly Wind Down 275
+number: 275
 categories:
   - The Nightly Wind Down
 author: Hope Staff

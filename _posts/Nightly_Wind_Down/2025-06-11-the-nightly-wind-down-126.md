@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/126_nwd_romans_8_39_b_cev.png
 title: The Nightly Wind Down 126
+number: 126
 categories:
   - The Nightly Wind Down
 author: Hope Staff

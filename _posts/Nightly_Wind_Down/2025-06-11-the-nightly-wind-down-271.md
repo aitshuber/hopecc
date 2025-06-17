@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/271_nwd_1corinthians_13_7_erv.png
 title: The Nightly Wind Down 271
+number: 271
 categories:
   - The Nightly Wind Down
 author: Hope Staff

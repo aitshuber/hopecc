@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/179_nwd_luke_1_37_nlt.png
 title: The Nightly Wind Down 179
+number: 179
 categories:
   - The Nightly Wind Down
 author: Hope Staff

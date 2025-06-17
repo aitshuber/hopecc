@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/312_nwd_matthew_11_28_gnt.png
 title: The Nightly Wind Down 312
+number: 312
 categories:
   - The Nightly Wind Down
 author: Hope Staff

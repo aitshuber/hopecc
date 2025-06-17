@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/311_nwd_psalm_37_3_a_niv.png
 title: The Nightly Wind Down 311
+number: 311
 categories:
   - The Nightly Wind Down
 author: Hope Staff

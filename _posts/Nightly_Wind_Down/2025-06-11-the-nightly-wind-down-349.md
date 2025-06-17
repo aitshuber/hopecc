@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/349_nwd_1peter_2_9_a_tpt.png
 title: The Nightly Wind Down 349
+number: 349
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/25_nwd_matthew_28_20_nlt.png
 title: The Nightly Wind Down 25
+number: 25
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/153_nwd_john_14_23_nlt.png
 title: The Nightly Wind Down 153
+number: 153
 categories:
   - The Nightly Wind Down
 author: Hope Staff

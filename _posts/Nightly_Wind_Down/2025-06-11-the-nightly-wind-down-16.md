@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/16_nwd_psalm_118_24_erv.png
 title: The Nightly Wind Down 16
+number: 16
 categories:
   - The Nightly Wind Down
 author: Hope Staff

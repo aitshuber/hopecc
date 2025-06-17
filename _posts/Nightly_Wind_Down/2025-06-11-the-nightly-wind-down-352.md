@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/352_nwd_psalm_51_10_a_msg.png
 title: The Nightly Wind Down 352
+number: 352
 categories:
   - The Nightly Wind Down
 author: Hope Staff

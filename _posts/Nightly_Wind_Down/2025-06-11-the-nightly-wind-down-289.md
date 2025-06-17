@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/289_nwd_psalm_90_17_esv.png
 title: The Nightly Wind Down 289
+number: 289
 categories:
   - The Nightly Wind Down
 author: Hope Staff

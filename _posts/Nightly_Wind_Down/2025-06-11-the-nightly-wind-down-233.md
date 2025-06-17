@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/233_nwd_ephesians_1_4_nlt.png
 title: The Nightly Wind Down 233
+number: 233
 categories:
   - The Nightly Wind Down
 author: Hope Staff

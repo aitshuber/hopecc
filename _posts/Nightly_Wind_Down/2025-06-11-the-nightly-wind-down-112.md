@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/112_nwd_isaiah_35_10_b_nlt.png
 title: The Nightly Wind Down 112
+number: 112
 categories:
   - The Nightly Wind Down
 author: Hope Staff

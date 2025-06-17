@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/238_nwd_psalm_62_1_tpt.png
 title: The Nightly Wind Down 238
+number: 238
 categories:
   - The Nightly Wind Down
 author: Hope Staff

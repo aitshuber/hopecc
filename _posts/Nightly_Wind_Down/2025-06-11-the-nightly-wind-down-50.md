@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/50_nwd_john_14_27_nlt.png
 title: The Nightly Wind Down 50
+number: 50
 categories:
   - The Nightly Wind Down
 author: Hope Staff

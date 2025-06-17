@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/67_nwd_zephaniah_3_17_b_nlt.png
 title: The Nightly Wind Down 67
+number: 67
 categories:
   - The Nightly Wind Down
 author: Hope Staff

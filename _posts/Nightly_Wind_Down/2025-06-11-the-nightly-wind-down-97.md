@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/97_nwd_psalm_147_3_niv.png
 title: The Nightly Wind Down 97
+number: 97
 categories:
   - The Nightly Wind Down
 author: Hope Staff

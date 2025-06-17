@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/344_nwd_jeremiah_1_5_nlt.png
 title: The Nightly Wind Down 344
+number: 344
 categories:
   - The Nightly Wind Down
 author: Hope Staff

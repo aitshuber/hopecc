@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/139_nwd_psalm_16_8_nlt.png
 title: The Nightly Wind Down 139
+number: 139
 categories:
   - The Nightly Wind Down
 author: Hope Staff

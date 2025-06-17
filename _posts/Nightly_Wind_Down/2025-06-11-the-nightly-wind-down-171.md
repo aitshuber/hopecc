@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/171_nwd_john_14_16_tpt.png
 title: The Nightly Wind Down 171
+number: 171
 categories:
   - The Nightly Wind Down
 author: Hope Staff

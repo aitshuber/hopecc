@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/44_nwd_psalm_116_7_gnt.png
 title: The Nightly Wind Down 44
+number: 44
 categories:
   - The Nightly Wind Down
 author: Hope Staff

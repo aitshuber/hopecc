@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/45_nwd_1corinthians_13_7_b_msg.png
 title: The Nightly Wind Down 45
+number: 45
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/218_nwd_deuteronomy_4_29_gnt.png
 title: The Nightly Wind Down 218
+number: 218
 categories:
   - The Nightly Wind Down
 author: Hope Staff

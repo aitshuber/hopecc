@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/242_nwd_ephesians_5_8_niv.png
 title: The Nightly Wind Down 242
+number: 242
 categories:
   - The Nightly Wind Down
 author: Hope Staff

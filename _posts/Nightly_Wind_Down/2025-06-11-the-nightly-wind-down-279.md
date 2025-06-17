@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/279_nwd_romans_8_28_a_tpt.png
 title: The Nightly Wind Down 279
+number: 279
 categories:
   - The Nightly Wind Down
 author: Hope Staff

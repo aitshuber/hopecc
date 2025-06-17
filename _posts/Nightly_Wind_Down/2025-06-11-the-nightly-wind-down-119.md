@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/119_nwd_romans_8_14_erv.png
 title: The Nightly Wind Down 119
+number: 119
 categories:
   - The Nightly Wind Down
 author: Hope Staff

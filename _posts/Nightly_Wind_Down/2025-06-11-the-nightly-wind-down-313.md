@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/313_nwd_exodus_33_14_esv.png
 title: The Nightly Wind Down 313
+number: 313
 categories:
   - The Nightly Wind Down
 author: Hope Staff

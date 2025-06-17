@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/183_nwd_psalm_51_10_erv.png
 title: The Nightly Wind Down 183
+number: 183
 categories:
   - The Nightly Wind Down
 author: Hope Staff

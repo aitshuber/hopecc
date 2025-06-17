@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/191_nwd_john_14_1_cev.png
 title: The Nightly Wind Down 191
+number: 191
 categories:
   - The Nightly Wind Down
 author: Hope Staff

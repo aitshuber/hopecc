@@ -1,6 +1,7 @@
 ---
 image: /uploads/nwd-1-3.png
 title: The Nightly Wind Down 1
+number: 1001
 categories:
   - The Nightly Wind Down
 author: Hope Staff

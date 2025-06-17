@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/149_nwd_romans_8_39_tpt.png
 title: The Nightly Wind Down 149
+number: 149
 categories:
   - The Nightly Wind Down
 author: Hope Staff

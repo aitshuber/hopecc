@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/347_nwd_philippians_4_8_a_tlb.png
 title: The Nightly Wind Down 347
+number: 347
 categories:
   - The Nightly Wind Down
 author: Hope Staff

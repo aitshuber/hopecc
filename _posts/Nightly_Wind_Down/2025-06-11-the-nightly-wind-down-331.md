@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/331_nwd_isaiah_46_4b_niv.png
 title: The Nightly Wind Down 331
+number: 331
 categories:
   - The Nightly Wind Down
 author: Hope Staff

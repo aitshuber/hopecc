@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/104_nwd_1corinthians_2_9_b_erv.png
 title: The Nightly Wind Down 104
+number: 104
 categories:
   - The Nightly Wind Down
 author: Hope Staff

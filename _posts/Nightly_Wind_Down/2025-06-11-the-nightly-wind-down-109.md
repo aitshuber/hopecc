@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/109_nwd_psalm_23_4_nlt.png
 title: The Nightly Wind Down 109
+number: 109
 categories:
   - The Nightly Wind Down
 author: Hope Staff

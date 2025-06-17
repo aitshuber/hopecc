@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/205_nwd_john_3_18_nlt.png
 title: The Nightly Wind Down 205
+number: 205
 categories:
   - The Nightly Wind Down
 author: Hope Staff

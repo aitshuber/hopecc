@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/73_nwd_jeremiah_29_13_nlt.png
 title: The Nightly Wind Down 73
+number: 73
 categories:
   - The Nightly Wind Down
 author: Hope Staff

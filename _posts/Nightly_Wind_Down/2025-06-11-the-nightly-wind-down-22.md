@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/22_nwd_galations_3_26_nlt.png
 title: The Nightly Wind Down 22
+number: 22
 categories:
   - The Nightly Wind Down
 author: Hope Staff

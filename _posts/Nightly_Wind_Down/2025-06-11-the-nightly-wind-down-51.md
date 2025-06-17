@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/51_nwd_proverbs_3_5_nlt.png
 title: The Nightly Wind Down 51
+number: 51
 categories:
   - The Nightly Wind Down
 author: Hope Staff

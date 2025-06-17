@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/163_nwd_proverbs_16_6_a_msg.png
 title: The Nightly Wind Down 163
+number: 163
 categories:
   - The Nightly Wind Down
 author: Hope Staff

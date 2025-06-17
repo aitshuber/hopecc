@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/114_nwd_matthew_11_30_b_msg.png
 title: The Nightly Wind Down 114
+number: 114
 categories:
   - The Nightly Wind Down
 author: Hope Staff

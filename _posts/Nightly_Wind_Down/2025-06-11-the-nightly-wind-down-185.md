@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/185_nwd_isaiah_12_2_b_nlt.png
 title: The Nightly Wind Down 185
+number: 185
 categories:
   - The Nightly Wind Down
 author: Hope Staff

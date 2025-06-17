@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/95_nwd_1peter_2_9_b_nlt.png
 title: The Nightly Wind Down 95
+number: 95
 categories:
   - The Nightly Wind Down
 author: Hope Staff

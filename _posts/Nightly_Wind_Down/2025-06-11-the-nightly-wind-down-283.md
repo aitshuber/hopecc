@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/283_nwd_john_3_16_niv.png
 title: The Nightly Wind Down 283
+number: 283
 categories:
   - The Nightly Wind Down
 author: Hope Staff

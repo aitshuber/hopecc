@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/190_nwd_isaiah_65_24_nlt.png
 title: The Nightly Wind Down 190
+number: 190
 categories:
   - The Nightly Wind Down
 author: Hope Staff

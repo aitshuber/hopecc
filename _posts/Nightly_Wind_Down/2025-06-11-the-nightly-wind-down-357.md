@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/357_nwd_psalm_19_14_niv.png
 title: The Nightly Wind Down 357
+number: 357
 categories:
   - The Nightly Wind Down
 author: Hope Staff

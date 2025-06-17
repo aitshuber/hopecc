@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/278_nwd_luke_11_9_b_nlt.png
 title: The Nightly Wind Down 278
+number: 278
 categories:
   - The Nightly Wind Down
 author: Hope Staff

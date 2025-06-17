@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/222_nwd_hebrews_13_1_niv.png
 title: The Nightly Wind Down 222
+number: 222
 categories:
   - The Nightly Wind Down
 author: Hope Staff

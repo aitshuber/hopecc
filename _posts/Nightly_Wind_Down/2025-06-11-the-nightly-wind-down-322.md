@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/322_nwd_jeremiah_31_13_b_nlt.png
 title: The Nightly Wind Down 322
+number: 322
 categories:
   - The Nightly Wind Down
 author: Hope Staff

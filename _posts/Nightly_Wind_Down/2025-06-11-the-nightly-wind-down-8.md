@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/8_nwd_psalm_34_18_nlt.png
 title: The Nightly Wind Down 8
+number: 8
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/40_nwd_romans_12_12_nlv.png
 title: The Nightly Wind Down 40
+number: 40
 categories:
   - The Nightly Wind Down
 author: Hope Staff

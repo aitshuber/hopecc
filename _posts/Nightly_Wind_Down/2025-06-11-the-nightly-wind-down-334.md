@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/334_nwd_matthew_11_29_b_nlt.png
 title: The Nightly Wind Down 334
+number: 334
 categories:
   - The Nightly Wind Down
 author: Hope Staff

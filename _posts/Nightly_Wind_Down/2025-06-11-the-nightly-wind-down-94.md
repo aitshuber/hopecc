@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/94_nwd_1john_1_5_b_erv.png
 title: The Nightly Wind Down 94
+number: 94
 categories:
   - The Nightly Wind Down
 author: Hope Staff

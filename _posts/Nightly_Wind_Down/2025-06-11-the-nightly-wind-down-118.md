@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/118_nwd_philippians_4_6_nlt.png
 title: The Nightly Wind Down 118
+number: 118
 categories:
   - The Nightly Wind Down
 author: Hope Staff

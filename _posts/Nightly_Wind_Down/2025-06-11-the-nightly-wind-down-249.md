@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/249_nwd_1corinthians_3_16_erv.png
 title: The Nightly Wind Down 249
+number: 249
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/143_nwd_psalm_90_17_a_niv.png
 title: The Nightly Wind Down 143
+number: 143
 categories:
   - The Nightly Wind Down
 author: Hope Staff

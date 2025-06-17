@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/304_nwd_psalm_32_8_b_erv.png
 title: The Nightly Wind Down 304
+number: 304
 categories:
   - The Nightly Wind Down
 author: Hope Staff

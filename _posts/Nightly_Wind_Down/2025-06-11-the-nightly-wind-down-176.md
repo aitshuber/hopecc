@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/176_nwd_psalm_103_13_esv.png
 title: The Nightly Wind Down 176
+number: 176
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/98_nwd_ephesians_1_18_b_nlv.png
 title: The Nightly Wind Down 98
+number: 98
 categories:
   - The Nightly Wind Down
 author: Hope Staff

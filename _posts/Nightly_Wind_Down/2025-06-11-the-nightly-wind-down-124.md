@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/124_nwd_john_5_24_b_tpt.png
 title: The Nightly Wind Down 124
+number: 124
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/341_nwd_ephesians_4_29_b_nlt.png
 title: The Nightly Wind Down 341
+number: 341
 categories:
   - The Nightly Wind Down
 author: Hope Staff

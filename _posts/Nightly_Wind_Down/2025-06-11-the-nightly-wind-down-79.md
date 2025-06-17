@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/79_nwd_luke_10_27_a_niv.png
 title: The Nightly Wind Down 79
+number: 79
 categories:
   - The Nightly Wind Down
 author: Hope Staff

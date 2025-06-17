@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/268_nwd_luke_6_38a_nlt.png
 title: The Nightly Wind Down 268
+number: 268
 categories:
   - The Nightly Wind Down
 author: Hope Staff

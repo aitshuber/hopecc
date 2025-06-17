@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/55_nwd_psalm_86_11_esv.png
 title: The Nightly Wind Down 55
+number: 55
 categories:
   - The Nightly Wind Down
 author: Hope Staff

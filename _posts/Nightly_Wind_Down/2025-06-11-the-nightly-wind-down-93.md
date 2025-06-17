@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/93_nwd_jeremiah_15_20_b_nlt.png
 title: The Nightly Wind Down 93
+number: 93
 categories:
   - The Nightly Wind Down
 author: Hope Staff

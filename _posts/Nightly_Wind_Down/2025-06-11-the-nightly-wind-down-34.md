@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/34_nwd_psalm_138_7a_cev.png
 title: The Nightly Wind Down 34
+number: 34
 categories:
   - The Nightly Wind Down
 author: Hope Staff

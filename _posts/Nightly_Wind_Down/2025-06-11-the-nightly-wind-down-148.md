@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/148_nwd_psalm_30_11_a_erv.png
 title: The Nightly Wind Down 148
+number: 148
 categories:
   - The Nightly Wind Down
 author: Hope Staff

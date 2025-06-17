@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/226_nwd_revelation_21_4a_erv.png
 title: The Nightly Wind Down 226
+number: 226
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/1_nwd_matthew_11_28_niv.png
 title: The Nightly Wind Down 1
+number: 1
 categories:
   - The Nightly Wind Down
 author: Hope Staff

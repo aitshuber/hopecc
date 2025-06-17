@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/85_nwd_john_11_26_nlt.png
 title: The Nightly Wind Down 85
+number: 85
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/180_nwd_1corinthians_13_5_b_msg.png
 title: The Nightly Wind Down 180
+number: 180
 categories:
   - The Nightly Wind Down
 author: Hope Staff

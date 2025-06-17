@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/136_nwd_1john_4_18_a_erv.png
 title: The Nightly Wind Down 136
+number: 136
 categories:
   - The Nightly Wind Down
 author: Hope Staff

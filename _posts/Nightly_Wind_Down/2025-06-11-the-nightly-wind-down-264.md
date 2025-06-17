@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/264_nwd_luke_10_27_b_niv.png
 title: The Nightly Wind Down 264
+number: 264
 categories:
   - The Nightly Wind Down
 author: Hope Staff

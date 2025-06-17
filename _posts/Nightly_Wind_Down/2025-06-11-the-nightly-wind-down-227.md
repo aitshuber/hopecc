@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/227_nwd_proverbs_19_17_nlt.png
 title: The Nightly Wind Down 227
+number: 227
 categories:
   - The Nightly Wind Down
 author: Hope Staff

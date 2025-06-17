@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/53_nwd_psalm_90_12_niv.png
 title: The Nightly Wind Down 53
+number: 53
 categories:
   - The Nightly Wind Down
 author: Hope Staff

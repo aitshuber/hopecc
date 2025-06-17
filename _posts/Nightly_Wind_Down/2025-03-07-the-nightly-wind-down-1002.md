@@ -1,6 +1,7 @@
 ---
 image: https://source.unsplash.com/pjwbiuwXy00/1000x750
 title: 'Laying Your Burdens at Jesus'' Feet: The Path to True Rest'
+number: 1002
 categories:
   - The Nightly Wind Down
 author: Hope Staff

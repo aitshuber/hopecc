@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/310_nwd_psalm_27_5_nlt.png
 title: The Nightly Wind Down 310
+number: 310
 categories:
   - The Nightly Wind Down
 author: Hope Staff

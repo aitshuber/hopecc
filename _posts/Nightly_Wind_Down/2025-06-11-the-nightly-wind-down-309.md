@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/309_nwd_proverbs_3_5_erv.png
 title: The Nightly Wind Down 309
+number: 309
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/15_nwd_1corinthians_13_7_erv.png
 title: The Nightly Wind Down 15
+number: 15
 categories:
   - The Nightly Wind Down
 author: Hope Staff

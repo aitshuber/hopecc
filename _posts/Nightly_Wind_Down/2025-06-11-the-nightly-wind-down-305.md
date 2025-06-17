@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/305_nwd_psalm_68_19_b_nlt.png
 title: The Nightly Wind Down 305
+number: 305
 categories:
   - The Nightly Wind Down
 author: Hope Staff

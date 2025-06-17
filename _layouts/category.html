@@ -7,20 +7,30 @@ layout: default
   <h1 class="uk-text-center uk-margin uk-article-title article-title-font">{{ page.tag }}</h1>
   <hr class="uk-margin-remove">
 </div>
-
+{% assign category_posts = site.categories[page.tag] %}
+{% if category_posts %}
+{% assign recentPost = category_posts | sort: "number" | last %}
 <div class="uk-container uk-container-small uk-margin-medium-bottom">
-    {% assign post = site.categories[page.tag] | first  %}
+    {% assign post = recentPost %}
     {% if post %}
         {% include content-media-left-1-2.html %}
     {% endif %}
+    {% endif %}
+
+
+    {% if category_posts %}
+    {% assign sorted_posts = category_posts | sort: "number" %}
 
     <hr class="uk-margin-remove-top">
 
-    {% for post in site.categories[page.tag] offset:1 limit: 30 %}
+    {% for post in sorted_posts limit: 30 %}
 
         {% include content-media-left-1-3.html %}
 
     {% endfor %}
+    {% else %}
+    <p>No posts have been made to this category yet. Check out our other content!</p>
+    {% endif %}
 
     {% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Substack and stay up to date with what is happening in the city." button_text="Support Us" %}
 

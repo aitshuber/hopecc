@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/235_nwd_1corinthians_13_4-5_a_erv.png
 title: The Nightly Wind Down 235
+number: 235
 categories:
   - The Nightly Wind Down
 author: Hope Staff

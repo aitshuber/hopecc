@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/359_nwd_1peter_5_7_tlb.png
 title: The Nightly Wind Down 359
+number: 359
 categories:
   - The Nightly Wind Down
 author: Hope Staff

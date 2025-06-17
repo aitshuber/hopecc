@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/74_nwd_psalm_37_28_b_nlv.png
 title: The Nightly Wind Down 74
+number: 74
 categories:
   - The Nightly Wind Down
 author: Hope Staff

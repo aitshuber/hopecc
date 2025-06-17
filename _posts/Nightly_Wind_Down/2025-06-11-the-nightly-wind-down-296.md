@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/296_nwd_psalm_103_12-13_a_tpt.png
 title: The Nightly Wind Down 296
+number: 296
 categories:
   - The Nightly Wind Down
 author: Hope Staff

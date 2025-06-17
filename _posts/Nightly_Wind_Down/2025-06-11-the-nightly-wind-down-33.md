@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/33_nwd_john_3_17_erv.png
 title: The Nightly Wind Down 33
+number: 33
 categories:
   - The Nightly Wind Down
 author: Hope Staff

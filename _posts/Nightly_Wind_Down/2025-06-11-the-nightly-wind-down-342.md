@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/342_nwd_1john_4_16_b_erv.png
 title: The Nightly Wind Down 342
+number: 342
 categories:
   - The Nightly Wind Down
 author: Hope Staff

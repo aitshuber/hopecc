@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/350_nwd_psalm_103_5_msg.png
 title: The Nightly Wind Down 350
+number: 350
 categories:
   - The Nightly Wind Down
 author: Hope Staff

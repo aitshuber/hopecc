@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/87_nwd_psalm_103_13_gnt.png
 title: The Nightly Wind Down 87
+number: 87
 categories:
   - The Nightly Wind Down
 author: Hope Staff

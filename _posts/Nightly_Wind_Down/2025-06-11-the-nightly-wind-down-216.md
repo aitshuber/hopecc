@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/216_nwd_romans_10_17_a_msg.png
 title: The Nightly Wind Down 216
+number: 216
 categories:
   - The Nightly Wind Down
 author: Hope Staff

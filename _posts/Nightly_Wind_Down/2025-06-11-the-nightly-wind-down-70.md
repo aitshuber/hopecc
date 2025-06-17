@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/70_nwd_psalm_142_3_a_nlt.png
 title: The Nightly Wind Down 70
+number: 70
 categories:
   - The Nightly Wind Down
 author: Hope Staff

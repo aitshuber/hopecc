@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/128_nwd_psalm103_5_a_nlt.png
 title: The Nightly Wind Down 128
+number: 128
 categories:
   - The Nightly Wind Down
 author: Hope Staff

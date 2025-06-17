@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/137_nwd_hebrews_2_18_nlt.png
 title: The Nightly Wind Down 137
+number: 137
 categories:
   - The Nightly Wind Down
 author: Hope Staff

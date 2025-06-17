@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/175_nwd_1corinthians_16_14_niv.png
 title: The Nightly Wind Down 175
+number: 175
 categories:
   - The Nightly Wind Down
 author: Hope Staff

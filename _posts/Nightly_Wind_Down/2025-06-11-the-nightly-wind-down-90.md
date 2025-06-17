@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/90_nwd_1corinthians_13_13_nlt.png
 title: The Nightly Wind Down 90
+number: 90
 categories:
   - The Nightly Wind Down
 author: Hope Staff

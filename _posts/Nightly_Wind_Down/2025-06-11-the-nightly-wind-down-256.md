@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/256_nwd_ephesians_1_18_a_tlb.png
 title: The Nightly Wind Down 256
+number: 256
 categories:
   - The Nightly Wind Down
 author: Hope Staff

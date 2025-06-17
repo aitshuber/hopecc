@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/10_nwd_john_1_4_nlt.png
 title: The Nightly Wind Down 10
+number: 10
 categories:
   - The Nightly Wind Down
 author: Hope Staff

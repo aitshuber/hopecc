@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/76_nwd_psalm_118_14_a_nlt.png
 title: The Nightly Wind Down 76
+number: 76
 categories:
   - The Nightly Wind Down
 author: Hope Staff

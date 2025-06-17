@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/217_nwd_psalm_19_1_niv.png
 title: The Nightly Wind Down 217
+number: 217
 categories:
   - The Nightly Wind Down
 author: Hope Staff

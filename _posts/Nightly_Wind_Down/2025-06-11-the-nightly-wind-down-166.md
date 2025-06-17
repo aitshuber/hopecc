@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/166_nwd_matthew_11_28_tpt.png
 title: The Nightly Wind Down 166
+number: 166
 categories:
   - The Nightly Wind Down
 author: Hope Staff

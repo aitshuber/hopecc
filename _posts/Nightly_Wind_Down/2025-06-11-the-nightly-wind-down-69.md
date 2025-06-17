@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/69_nwd_2corinthians_5_17_nlt.png
 title: The Nightly Wind Down 69
+number: 69
 categories:
   - The Nightly Wind Down
 author: Hope Staff

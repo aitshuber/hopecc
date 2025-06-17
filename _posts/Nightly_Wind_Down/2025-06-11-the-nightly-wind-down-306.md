@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/306_nwd_psalm_107_29_tlb.png
 title: The Nightly Wind Down 306
+number: 306
 categories:
   - The Nightly Wind Down
 author: Hope Staff

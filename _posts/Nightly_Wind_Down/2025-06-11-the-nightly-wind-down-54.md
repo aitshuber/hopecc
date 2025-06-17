@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/54_nwd_romans_8_38_a_tlb.png
 title: The Nightly Wind Down 54
+number: 54
 categories:
   - The Nightly Wind Down
 author: Hope Staff

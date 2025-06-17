@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/38_nwd_john_8_12_nlt.png
 title: The Nightly Wind Down 38
+number: 38
 categories:
   - The Nightly Wind Down
 author: Hope Staff

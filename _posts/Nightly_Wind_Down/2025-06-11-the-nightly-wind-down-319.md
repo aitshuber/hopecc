@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/319_nwd_numbers_6_24-26_nlt-copy.png
 title: The Nightly Wind Down 319
+number: 319
 categories:
   - The Nightly Wind Down
 author: Hope Staff

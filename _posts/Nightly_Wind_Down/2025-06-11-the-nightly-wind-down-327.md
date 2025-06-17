@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/327_nwd_joshua_1_9_nlt.png
 title: The Nightly Wind Down 327
+number: 327
 categories:
   - The Nightly Wind Down
 author: Hope Staff

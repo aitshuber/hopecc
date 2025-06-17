@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/161_nwd_ephesians_1_18_a_cev.png
 title: The Nightly Wind Down 161
+number: 161
 categories:
   - The Nightly Wind Down
 author: Hope Staff

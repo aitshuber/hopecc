@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/202_nwd_psalm_34_18_nlt.png
 title: The Nightly Wind Down 202
+number: 202
 categories:
   - The Nightly Wind Down
 author: Hope Staff

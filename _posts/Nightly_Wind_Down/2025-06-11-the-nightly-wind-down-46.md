@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/46_nwd_isaiah_49_16_erv.png
 title: The Nightly Wind Down 46
+number: 46
 categories:
   - The Nightly Wind Down
 author: Hope Staff

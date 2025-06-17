@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/24_nwd_1peter_2_9_b_nlv.png
 title: The Nightly Wind Down 24
+number: 24
 categories:
   - The Nightly Wind Down
 author: Hope Staff

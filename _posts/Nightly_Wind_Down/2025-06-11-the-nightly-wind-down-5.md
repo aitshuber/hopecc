@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/5_nwd_philippians_4_8_niv.png
 title: The Nightly Wind Down 5
+number: 5
 categories:
   - The Nightly Wind Down
 author: Hope Staff

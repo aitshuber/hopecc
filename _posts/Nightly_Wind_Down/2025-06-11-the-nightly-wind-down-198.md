@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/198_nwd_romans_12_12_cev.png
 title: The Nightly Wind Down 198
+number: 198
 categories:
   - The Nightly Wind Down
 author: Hope Staff

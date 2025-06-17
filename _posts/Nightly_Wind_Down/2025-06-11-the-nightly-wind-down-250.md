@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/250_nwd_jeremiah_31_13_b_nlt.png
 title: The Nightly Wind Down 250
+number: 250
 categories:
   - The Nightly Wind Down
 author: Hope Staff

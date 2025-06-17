@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/144_nwd_2corinthians_4_16_b_erv.png
 title: The Nightly Wind Down 144
+number: 144
 categories:
   - The Nightly Wind Down
 author: Hope Staff

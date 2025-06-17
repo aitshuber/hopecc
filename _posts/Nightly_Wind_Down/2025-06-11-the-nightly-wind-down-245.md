@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/245_nwd_psalm_103_5_nlv.png
 title: The Nightly Wind Down 245
+number: 245
 categories:
   - The Nightly Wind Down
 author: Hope Staff

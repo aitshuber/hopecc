@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/21_nwd_psalm_28_7a_nlt.png
 title: The Nightly Wind Down 21
+number: 21
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/142_nwd_romans_8_11_b_cev.png
 title: The Nightly Wind Down 142
+number: 142
 categories:
   - The Nightly Wind Down
 author: Hope Staff

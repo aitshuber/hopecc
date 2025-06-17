@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/105_nwd_1corinthians_13_7_a_tpt.png
 title: The Nightly Wind Down 105
+number: 105
 categories:
   - The Nightly Wind Down
 author: Hope Staff

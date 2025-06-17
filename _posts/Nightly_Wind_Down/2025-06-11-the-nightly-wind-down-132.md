@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/132_nwd_psalm_10_14_b_msg.png
 title: The Nightly Wind Down 132
+number: 132
 categories:
   - The Nightly Wind Down
 author: Hope Staff

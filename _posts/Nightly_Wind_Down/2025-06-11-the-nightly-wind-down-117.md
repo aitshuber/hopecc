@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/117_nwd_james_4_10_nlt.png
 title: The Nightly Wind Down 117
+number: 117
 categories:
   - The Nightly Wind Down
 author: Hope Staff

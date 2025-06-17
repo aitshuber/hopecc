@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/78_nwd_psalm_119_50_nlt.png
 title: The Nightly Wind Down 78
+number: 78
 categories:
   - The Nightly Wind Down
 author: Hope Staff

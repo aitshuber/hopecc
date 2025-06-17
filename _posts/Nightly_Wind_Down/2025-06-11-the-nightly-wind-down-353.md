@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/353_nwd_proverbs_8_35a_erv.png
 title: The Nightly Wind Down 353
+number: 353
 categories:
   - The Nightly Wind Down
 author: Hope Staff

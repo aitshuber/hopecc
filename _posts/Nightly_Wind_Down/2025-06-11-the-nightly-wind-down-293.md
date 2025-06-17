@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/293_nwd_mark_9_23_b_niv.png
 title: The Nightly Wind Down 293
+number: 293
 categories:
   - The Nightly Wind Down
 author: Hope Staff

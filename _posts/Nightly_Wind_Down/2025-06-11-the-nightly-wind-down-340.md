@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/340_nwd_psalm_34_18_a_tpt.png
 title: The Nightly Wind Down 340
+number: 340
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/270_nwd_matthew_11_28_erv.png
 title: The Nightly Wind Down 270
+number: 270
 categories:
   - The Nightly Wind Down
 author: Hope Staff

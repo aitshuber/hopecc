@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/116_nwd_proverbs_16_3_erv.png
 title: The Nightly Wind Down 116
+number: 116
 categories:
   - The Nightly Wind Down
 author: Hope Staff

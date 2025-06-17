@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/333_nwd_psalm_147_3_nlt.png
 title: The Nightly Wind Down 333
+number: 333
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/272_nwd_psalm_139_23_niv.png
 title: The Nightly Wind Down 272
+number: 272
 categories:
   - The Nightly Wind Down
 author: Hope Staff

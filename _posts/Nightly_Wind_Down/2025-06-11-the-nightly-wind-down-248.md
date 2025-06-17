@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/248_nwd_matthew_19_26_b_nlt.png
 title: The Nightly Wind Down 248
+number: 248
 categories:
   - The Nightly Wind Down
 author: Hope Staff

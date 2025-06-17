@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/141_nwd_psalm_103_12_nlt.png
 title: The Nightly Wind Down 141
+number: 141
 categories:
   - The Nightly Wind Down
 author: Hope Staff

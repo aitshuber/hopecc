@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/30_nwd_1corinthians_13_4-5_b_niv.png
 title: The Nightly Wind Down 30
+number: 30
 categories:
   - The Nightly Wind Down
 author: Hope Staff

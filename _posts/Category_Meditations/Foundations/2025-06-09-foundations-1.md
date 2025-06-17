@@ -1,6 +1,7 @@
 ---
 image: /assets/img/meditations/kl_foundation_1.png
 title: 'New Beginnings...'
+number: 1
 categories:
   - Meditations
   - Foundations

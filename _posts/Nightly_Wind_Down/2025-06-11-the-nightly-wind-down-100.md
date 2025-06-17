@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/100_nwd_genesis_1_31_a_niv.png
 title: The Nightly Wind Down 100
+number: 100
 categories:
   - The Nightly Wind Down
 author: Hope Staff

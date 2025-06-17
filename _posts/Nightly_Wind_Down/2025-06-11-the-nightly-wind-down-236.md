@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/236_nwd_psalm_118_14_erv.png
 title: The Nightly Wind Down 236
+number: 236
 categories:
   - The Nightly Wind Down
 author: Hope Staff

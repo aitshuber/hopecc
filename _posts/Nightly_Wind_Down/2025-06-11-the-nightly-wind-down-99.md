@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/99_nwd_psalm_19_14_a_cev.png
 title: The Nightly Wind Down 99
+number: 99
 categories:
   - The Nightly Wind Down
 author: Hope Staff

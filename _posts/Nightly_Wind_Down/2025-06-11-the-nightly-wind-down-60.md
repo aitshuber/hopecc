@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/60_nwd_numbers_6_24-26_nlt.png
 title: The Nightly Wind Down 60
+number: 60
 categories:
   - The Nightly Wind Down
 author: Hope Staff

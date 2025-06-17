@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/269_nwd_proverbs_11_25_b_nlt.png
 title: The Nightly Wind Down 269
+number: 269
 categories:
   - The Nightly Wind Down
 author: Hope Staff

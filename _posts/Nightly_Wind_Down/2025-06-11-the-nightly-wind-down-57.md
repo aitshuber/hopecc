@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/57_nwd_isaiah_41_10_a_erv.png
 title: The Nightly Wind Down 57
+number: 57
 categories:
   - The Nightly Wind Down
 author: Hope Staff

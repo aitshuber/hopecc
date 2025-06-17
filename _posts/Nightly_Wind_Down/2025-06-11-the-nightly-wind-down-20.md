@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/20_nwd_proverbs_8_35_gnt.png
 title: The Nightly Wind Down 20
+number: 20
 categories:
   - The Nightly Wind Down
 author: Hope Staff

@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/288_nwd_1corinthians_13_13_nlt.png
 title: The Nightly Wind Down 288
+number: 288
 categories:
   - The Nightly Wind Down
 author: Hope Staff

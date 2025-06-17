@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/224_nwd_psalm_138_7_a_tpt.png
 title: The Nightly Wind Down 224
+number: 224
 categories:
   - The Nightly Wind Down
 author: Hope Staff

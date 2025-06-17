@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/11_nwd_philippians_3_13_b_nlt.png
 title: The Nightly Wind Down 11
+number: 11
 categories:
   - The Nightly Wind Down
 author: Hope Staff

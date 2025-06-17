@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/297_nwd_psalm_34_18_nlt.png
 title: The Nightly Wind Down 297
+number: 297
 categories:
   - The Nightly Wind Down
 author: Hope Staff

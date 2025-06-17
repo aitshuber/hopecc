@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/23_nwd_isaiah_25_8_b_tlb.png
 title: The Nightly Wind Down 23
+number: 23
 categories:
   - The Nightly Wind Down
 author: Hope Staff

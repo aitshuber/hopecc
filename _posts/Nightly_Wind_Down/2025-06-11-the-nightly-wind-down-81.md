@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/81_nwd_psalm_139_17a-18b_nlt.png
 title: The Nightly Wind Down 81
+number: 81
 categories:
   - The Nightly Wind Down
 author: Hope Staff

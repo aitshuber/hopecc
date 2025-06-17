@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/120_nwd_1corinthians_13_4_b_tpt.png
 title: The Nightly Wind Down 120
+number: 120
 categories:
   - The Nightly Wind Down
 author: Hope Staff

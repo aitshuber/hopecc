@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/154_nwd_genesis_1_1_nlt.png
 title: The Nightly Wind Down 154
+number: 154
 categories:
   - The Nightly Wind Down
 author: Hope Staff

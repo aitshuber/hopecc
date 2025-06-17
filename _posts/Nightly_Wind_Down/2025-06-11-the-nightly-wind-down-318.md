@@ -1,6 +1,7 @@
 ---
 image: /assets/img/nwd/318_nwd_ezekiel_34_31_niv.png
 title: The Nightly Wind Down 318
+number: 318
 categories:
   - The Nightly Wind Down
 author: Hope Staff
