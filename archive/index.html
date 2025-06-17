@@ -2,15 +2,9 @@
 layout: default
 featured: true
 latest_title: The Latest
+pagination:
+  enabled: true
 ---
-
-{% if page.title %}
-  <div class="uk-container uk-margin-medium-bottom">
-    <hr class="uk-margin-remove-top">
-    <h1 class="section-title uk-text-center uk-margin">{{ page.title | escape }}</h1>
-    <hr class="uk-margin-remove">
-  </div>
-{% endif %}
 
 {% include section-featured.html %}
 
