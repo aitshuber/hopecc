@@ -9,7 +9,7 @@ layout: default
 </div>
 {% assign category_posts = site.categories[page.tag] %}
 {% if category_posts %}
-{% assign recentPost = category_posts | sort: "number" | last %}
+{% assign recentPost = category_posts | sort: "number" | first %}
 <div class="uk-container uk-container-small uk-margin-medium-bottom">
     {% assign post = recentPost %}
     {% if post %}
@@ -23,7 +23,7 @@ layout: default
 
     <hr class="uk-margin-remove-top">
 
-    {% for post in sorted_posts limit: 30 %}
+    {% for post in sorted_posts offset: 1 limit: 29 %}
 
         {% include content-media-left-1-3.html %}
 
