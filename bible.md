@@ -17,19 +17,19 @@ permalink: /bible
 	{% for item in sorted_items %}
 	{% if item.type == 'Old Testament' %}
 	<div>
-		<a href="{{item.url}}" class="uk-card uk-card-default uk-card-hover">{% if item.image_thumb %}<img src="{{item.image_thumb}}" class="uk-card-media-top">{% else %}<h3 class="uk-card-title uk-text-center uk-text-middle">{{ item.title }}</h3>{% endif %}</a>
+		<a href="{{item.url}}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if item.image_thumb %}<img src="{{item.image_thumb}}" class="uk-card-media-top">{% else %}<h3 class="uk-card-title uk-text-center uk-text-middle">{{ item.book }}</h3>{% endif %}</a>
 	</div>
 	{% endif %}
 	{% endfor %}
 	</div>
 	<hr/>
 	<h5>New Testament </h5>
-	<div class="uk-grid-small uk-flex uk-flex-left@l">
+	<div class="uk-grid-small uk-child-width-1-3@s uk-child-width-1-3@m uk-child-width-1-3@l uk-grid-match" uk-grid>
 	{% assign sorted_items = site.bible | sort: 'weight' %}
 	{% for item in sorted_items %}
 	{% if item.type == 'New Testament' %}
 	<div>
-		<a href="{{item.url}}"><img src="{{item.image_thumb}}" class=""/></a>
+		<a href="{{item.url}}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if item.image_thumb %}<img src="{{item.image_thumb}}" class="uk-card-media-top">{% else %}<h3 class="uk-card-title uk-text-center uk-text-middle">{{ item.book }}</h3>{% endif %}</a>
 	</div>
 	{% endif %}
 	{% endfor %}
