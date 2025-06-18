@@ -1,5 +1,5 @@
 ---
 tag: Health
 permalink: "/category/meditations/health/"
-layout: category
+layout: category-overview
 ---

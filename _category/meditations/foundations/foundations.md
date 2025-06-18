@@ -1,5 +1,5 @@
 ---
 tag: Foundations
 permalink: "/category/foundations/"
-layout: category
+layout: category-overview
 ---

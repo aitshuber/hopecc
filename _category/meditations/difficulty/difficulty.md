@@ -1,5 +1,5 @@
 ---
 tag: Difficulty
 permalink: "/category/meditations/difficulty"
-layout: category
+layout: category-overview
 ---

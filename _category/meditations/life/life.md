@@ -1,5 +1,5 @@
 ---
 tag: Life
 permalink: "/category/meditations/life/"
-layout: category
+layout: category-overview
 ---

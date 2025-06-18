@@ -1,5 +1,5 @@
 ---
 tag: Virtues
 permalink: "/category/meditations/virtues/"
-layout: category
+layout: category-overview
 ---

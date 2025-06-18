@@ -17,9 +17,16 @@
       <div class="uk-card-body">
         {% if post.id and post.categories %}
           <div class="uk-text-uppercase article-title-font card-categories">
+            {% assign is_meditation = post.categories contains "Meditations" %}
+
             {% for category in post.categories %}
+            {% if is_meditation %}
+            <a class="link-primary" {% if category == 'Meditations' %}href="/category/{{ category | replace: ' ','-' | downcase }}"{% else %}href="/category/meditations/{{ category | replace: ' ','-' | downcase }}"{% endif %}>{{ category }}</a>
+            {% else %}
+
                 <a class="link-primary" {% if category == 'The Nightly Wind Down'%} href="/category/{{ category | replace: ' ','-' | downcase | remove: 'the-' }}" {% else %} href="/category/{{ category | replace: ' ','-' | downcase }}" {% endif %}>{{category}}</a>
                 {% unless forloop.last %}{% endunless %}
+            {% endif %}
             {% endfor %}
           </div>
         {% endif %}

@@ -1,9 +1,9 @@
 ---
-image: /assets/img/meditations/kl_foundation_1.png
+image: /assets/img/kl/kl_foundation_1.png
 title: 'New Beginnings...'
 number: 1
 categories:
-  - Meditations
+  - Meditationss
   - Foundations
 author: Hope Staff
 notes: Foundations 1

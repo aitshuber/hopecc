@@ -1,9 +1,9 @@
 ---
-image: /assets/img/meditations/kl_foundation_1.png
+image: /assets/img/kl/kl_foundation_1.png
 title: 'The Problems We Face...'
 number: 1
 categories:
-  - Meditations
+  - Meditationss
   - Difficulty
 author: Hope Staff
 notes: Difficulty 1
