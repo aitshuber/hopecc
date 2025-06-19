@@ -39,22 +39,25 @@ social_share:
   linkedin:         true
   pinterest:        true
   reddit:           true
+  tiktok:           true
+  x:                true
 
 # Social networks
 social_networks:
   email:
   website:
-  facebook:         https://www.facebook.com/
+  facebook:
   flickr:
   dribbble:
   github:
   reddit:
-  instagram:        https://www.instagram.com/
+  instagram:        https://www.instagram.com/hopemindfulness/
   linkedin:
   pinterest:
-  twitter:          https://twitter.com/
+  x:          https://x.com/hopemindfulness
+  tiktok:          https://www.tiktok.com/@hopemindfulness
   vimeo:
-  youtube:          https://www.youtube.com/
+  youtube:          https://www.youtube.com/@hopemindfulness
 
 # Strings
 strings:
