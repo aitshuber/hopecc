@@ -101,12 +101,9 @@ _select_data:
     search: true
   social_share:
     twitter: true
-    facebook: true
-    linkedin: true
-    pinterest: true
-    reddit: true
     tiktok: true
     x: true
+    youtube: true
   social_networks:
     email:
     website:

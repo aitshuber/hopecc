@@ -2,37 +2,88 @@
 layout: default
 ---
 
-<div class="uk-container uk-margin-medium-bottom uk-margin-xlarge-top">
-  <hr class="uk-margin-remove-top">
-  <h1 class="uk-text-center uk-margin uk-article-title article-title-font">{{ page.tag }}</h1>
-  <hr class="uk-margin-remove">
-</div>
 {% assign category_posts = site.categories[page.tag] %}
-{% if category_posts %}
-{% assign recentPost = category_posts | sort: "number" | first %}
-<div class="uk-container uk-container-small uk-margin-medium-bottom">
-    {% assign post = recentPost %}
-    {% if post %}
-        {% include content-media-left-1-2.html %}
-    {% endif %}
-    {% endif %}
+
+<div class="uk-container uk-container-xsmall uk-margin-medium-bottom uk-margin-large-top">
+    <div class="uk-text-lead uk-margin-medium-bottom">
+        <h1>{{page.tag}}</h1>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <hr/>
+        <div class="uk-container uk-margin-large-top uk-margin-medium-bottom">
+            <div class="uk-grid-small uk-child-width-1-3@s uk-child-width-1-3@m uk-child-width-1-3@l uk-grid-match" uk-grid>
+                {% if category_posts %}
+                {% assign sorted_posts = category_posts | sort: "number" %}
+
+                {% for post in sorted_posts limit: 30 %}
+                <div>
+                    <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
+                    <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
 
 
-    {% if category_posts %}
-    {% assign sorted_posts = category_posts | sort: "number" %}
+                    {% comment %}
+                    {% if post.id and post.categories %}
+                    {% for category in post.categories %}
+                    {% if post.categories contains "Meditations" %}
+                    <a class="link-primary uk-h6 uk-text-center uk-margin-remove" {% if category == 'Meditations' %}href="/category/{{ category | replace: ' ','-' | downcase }}"{% else %} href="/category/meditations/{{ category | replace: ' ','-' | downcase }}"{% endif %}>{{ category }}</a>
+                    {% else %}
+                    <a class="link-primary uk-h6 uk-text-center uk-margin-remove" {% if category == 'The Nightly Wind Down'%} href="/category/{{ category | replace: ' ','-' | downcase | remove: 'the-' }}" {% else %} href="/category/{{ category | replace: ' ','-' | downcase }}" {% endif %}>{{category}}</a>
+                    {% unless forloop.last %}{% endunless %}
+                    {% endif %}
+                    {% endfor %}
+                    {% endif %}
+                    {% endcomment %}
 
-    <hr class="uk-margin-remove-top">
 
-    {% for post in sorted_posts offset: 1 limit: 29 %}
+                </div>
+                {% endfor %}
 
-        {% include content-media-left-1-3.html %}
+                {% endif %}
+            </div>
+        </div>
+            {% if sorted_posts.size > 30 %}
+        <div class="uk-text-center">
+            <a class="uk-button uk-button-default" uk-toggle="target: .more-content" onclick="this.style.display='none'">LOAD MORE CONTENT</a>
+        </div>
 
-    {% endfor %}
-    {% else %}
-    <p>No posts have been made to this category yet. Check out our other content!</p>
-    {% endif %}
+        <div class="more-content" hidden>
 
+            <div class=" uk-grid-small uk-child-width-1-3@s uk-child-width-1-3@m uk-child-width-1-3@l uk-grid-match uk-grid">
+                {% if category_posts %}
+                {% assign sorted_posts = category_posts | sort: "number" %}
+                {% for post in sorted_posts limit: 30 offset: 30 %}
+                <div class="category-post">
+                    <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
+                    <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+
+                </div>
+                {% endfor %}
+                {% endif %}
+            </div>
+            {% if sorted_posts.size > 60 %}
+            <div class="uk-text-center">
+                <a class="uk-button uk-button-default" uk-toggle="target: .remaining-content" onclick="this.style.display='none'">LOAD MORE CONTENT</a>
+            </div>
+        </div>
+        <div class="remaining-content" hidden>
+            <div class=" uk-grid-small uk-child-width-1-3@s uk-child-width-1-3@m uk-child-width-1-3@l uk-grid-match uk-grid">
+                {% if category_posts %}
+                {% assign sorted_posts = category_posts | sort: "number" %}
+                {% for post in sorted_posts offset: 60 %}
+                <div class="category-post">
+                    <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
+                    <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
+
+                </div>
+                {% endfor %}
+                {% endif %}
+            </div>
+        </div>
+
+
+            {% endif %}
+        {% else %}
+        </div>
+        {% endif %}
+    </div>
     {% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Substack and stay up to date with what is happening in the city." button_text="Support Us" %}
-
 </div>
-

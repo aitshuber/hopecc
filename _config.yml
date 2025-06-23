@@ -35,12 +35,9 @@ navbar_primary:
 # Social share buttons
 social_share:
   twitter:          true
-  facebook:         true
-  linkedin:         true
-  pinterest:        true
-  reddit:           true
   tiktok:           true
   x:                true
+  youtube:          true
 
 # Social networks
 social_networks:
