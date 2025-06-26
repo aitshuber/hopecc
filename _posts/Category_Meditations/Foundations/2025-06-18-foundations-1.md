@@ -8,10 +8,8 @@ categories:
 author: Hope Staff
 notes: Foundations 1
 embed: >-
-  <iframe style=“border-radius:12px”
-  src=“https://open.spotify.com/embed/episode/18xps4OpMYK6mo4rWurBXO?utm_source=generator&theme=0”
-  width=“100%” height=“152" frameBorder=“0” allowfullscreen=“” allow=“autoplay;
-  clipboard-write; encrypted-media; fullscreen; picture-in-picture”
-  loading=“lazy”></iframe>
+  <iframe
+  src=“https://creators.spotify.com/pod/show/hopemindfulness/embed/episodes/Foundation-1---Psalm-4610-e34fr2j/a-ac0p2i7”
+  height=“102px” width=“400px” frameborder=“0" scrolling=“no”></iframe>
 transcript: SOME LINES OF TEXT START HERE
 ---
