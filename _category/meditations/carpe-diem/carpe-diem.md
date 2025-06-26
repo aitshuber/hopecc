@@ -1,5 +1,5 @@
 ---
 tag: Carpe Diem
-permalink: "/category/meditations/carpe_diem/"
+permalink: "/category/meditations/carpe-diem/"
 layout: category-overview
 ---

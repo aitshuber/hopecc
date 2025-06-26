@@ -1,2 +1,14 @@
+- title: Home
+  url: /
+- title: Meditations
+  url: /category/meditations/
+- title: Daily Hope
+  url: /category/daily-hope/
+- title: Nightly Wind Down
+  url: /category/nightly-wind-down/
+- title: Audio Bible
+  url: /bible
+- title: Archive
+  url: /archive/
 - title: Contact
   url: /contact/

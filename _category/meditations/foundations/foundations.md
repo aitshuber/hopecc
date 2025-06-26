@@ -1,5 +1,5 @@
 ---
 tag: Foundations
-permalink: "/category/foundations/"
+permalink: "/category/meditations/foundations/"
 layout: category-overview
 ---

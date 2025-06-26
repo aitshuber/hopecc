@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const posts = document.querySelectorAll(".post-item"); // All post elements
     const loadMoreButton = document.querySelector(".loadmore-button"); // "Load More Content" button
     const allButton = document.querySelector(".all-button");
-    const filterButtons = document.querySelectorAll(".uk-subnav-pill li"); // All filter buttons
+    const filterButtons = document.querySelectorAll(".uk-nav.uk-dropdown-nav li"); // All filter buttons
 
     // Helper function: Show or hide posts based on the selected category
     function filterPosts(category) {
@@ -41,4 +41,17 @@ document.addEventListener("DOMContentLoaded", function () {
         filterPosts("All");
     });
 
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    const dropdown = document.querySelector("#responsive-dropdown");
+    function updateDropdownPosition(){
+        if (window.innerWidth < 1024) {
+            dropdown.setAttribute('uk-dropdown', 'mode: click; animation: slide-top; animate-out: true; pos: bottom-center;');
+        } else {
+            dropdown.setAttribute('uk-dropdown', 'mode: click; animation: slide-top; animate-out: true; pos: bottom-left;');
+        }
+    }
+    updateDropdownPosition();
+    window.addEventListener('resize', updateDropdownPosition);
 });

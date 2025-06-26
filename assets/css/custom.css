@@ -8,3 +8,25 @@ iframe{
 .uk-navbar .uk-drop {
 	width: 250px
 }
+
+@media (min-width: 1200px) {
+	.large-dropdown-section {
+		min-width: 425px;
+	}
+}
+@media (max-width: 1199px){
+	.large-dropdown-section {
+		min-width: 380px;
+	}
+}
+
+
+
+@media (max-width: 320px) {
+	.large-dropdown-section {
+		min-width: 288px;
+	}
+}
+.large-dropdown-section {
+	transition: all 0.2s ease-in-out;
+}
