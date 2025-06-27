@@ -12,7 +12,7 @@ logo_image:
   dark:             Hope-Transparent-Logo.png
   light:
 favicon:            /assets/img/favicon.ico
-permalink:          /:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
+permalink:          /:slugified_categories/:title/ # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 date_format:        "%B %-d, %Y" # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 uploads:            /uploads/ # Path to post content assets directory i.e post images, pdfs etc
 #paginate:           10 # Number of posts displayed on archive page
