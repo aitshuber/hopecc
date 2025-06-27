@@ -8,7 +8,8 @@ categories:
 author: Hope Staff
 notes: Foundations 2
 embed: >-
-  EMBED_GOES_HERE
-transcript: >-
-  SOME LINES OF TEXT START HERE
+  <iframe
+  src=“https://creators.spotify.com/pod/show/hopemindfulness/embed/episodes/Foundation-2---Genesis-27-e34fr85/a-ac0p2pc”
+  height=“102px” width=“400px” frameborder=“0" scrolling=“no”></iframe>
+transcript: SOME LINES OF TEXT START HERE
 ---
