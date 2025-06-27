@@ -42,8 +42,9 @@ layout: default
       <h1 class="uk-article-title uk-margin-small-top uk-margin-bottom article-title-font">{{ page.title | escape }}</h1>
 
       {% if page.embed %}
+      {% assign embed = page.embed | replace: '“', '"' | replace: '”', '"' %}
       <div style="width:100%; height:200px; display:flex;">
-        {{ page.embed }}
+        {{ embed | raw }}
       </div>
       {% endif %}
 
