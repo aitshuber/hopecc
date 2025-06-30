@@ -1,12 +1,12 @@
 ---
 image: /assets/img/kl/kl_foundation_1.png
 title: 'New Beginnings...'
-number: 1
+number: 1001
 categories:
   - Meditationss
   - Foundations
 author: Hope Staff
-notes: Foundations 1
+notes: Foundations 1001
 embed: >-
   <iframe width="100%" height="100%" src="https://www.youtube.com/embed/NvYt3lDo5wI?si=iGHoH37XgmCaTMUz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 transcript: >-
