@@ -1,6 +1,13 @@
 ---
 layout: default
 ---
+
+{% if page.author %}
+{% assign author = site.authors | where: 'username', page.author | first %}
+{% else %}
+{% assign author = site.authors | where: 'default', true | first %}
+{% endif %}
+
 <div class="uk-container uk-container-xsmall uk-margin-medium-bottom uk-margin-large-top">
   {% if author.title %}
   <div class="uk-margin-large-bottom article-author" itemscope itemtype="http://schema.org/Person">
@@ -8,35 +15,34 @@ layout: default
   </div>
   {% endif %}
   <div class="uk-text-lead uk-margin-medium-bottom">
-    {% if page.embed %}
-    {% else %}
+    {% if page.embed == "" or page.embed == nil %}
     <h1>{{page.title}}</h1>
+    {% else %}
     {% endif %}
-    {% if page.embed %}
+    {% unless page.embed == "" or page.embed == nil %}
     {% if page.embed contains '“' or page.embed contains '”' %}
     {% assign embed = page.embed | replace: '“', '"' | replace: '”', '"' %}
     {% else %}
     {% assign embed = page.embed %}
     {% endif %}
-    <div style="width:100%; height:200px; display:flex;">
+    <div class="embed-container">
       {{ embed | raw }}
     </div>
-    {% endif %}
+    {% endunless %}
     <div class="col-md-8 mx-auto">
       <h5>Transcript:</h5>
       {{page.transcript}}
     </div>
     <br>
-    {% if page.share %}
+
     <div class="share-side uk-position-absolute uk-visible@m" data-uk-scrollspy="cls: uk-animation-fade; target: .share; repeat: true">
       <div class="share" data-uk-sticky="offset: 150; bottom: .content-primary;">{% include share.html %}</div>
     </div>
-    {% endif %}
 
     {{ content }}
 
     {% if page.share %}
-    <div class="share uk-hidden@m uk-text-center uk-margin-medium">{% include share.html %}</div>
+    <div class="share uk-text-center uk-margin-medium">{% include share.html %}</div>
     {% endif %}
   </div>
 </div>

@@ -16,27 +16,8 @@
       {% endif %}
     </div>
     <div class="uk-card-body">
-        {% if post.id and post.categories %}
-          <div class="uk-text-uppercase article-title-font card-categories">
-            {% for category in post.categories %}
-              {% if category == 'The Nightly Wind Down' %}
-              <a class="link-primary" href="/category/{{ category | replace: ' ', '-' | remove: 'the' | downcase }}">{{category}}</a>
-              {% else %}
-                <a class="link-primary" href="/category/{{ category | replace: ' ', '-' }}">{{category}}</a>
-                {% unless forloop.last %}{% endunless %}
-              {% endif %}
-            {% endfor %}
-          </div>
-        {% endif %}
-      <h3 class="card-title-small article-title-font"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <h3 class="card-title-small article-title-font uk-text-center"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <div class="content-secondary">{{ post.excerpt }}</div>
-      <div class="card-meta">
-        <b>{{ site.strings.author_by | default: 'By' }} <a href="{{ author.url }}" rel="author" title="{{ author.title }}">{{ author.title }}</a></b>
-        <time class="uk-margin-small-left" datetime="{{ post.date | date_to_xmlschema }}">
-          {% assign date_format = site.date_format | default: "%b %-d, %Y" %}
-          {{ post.date | date: date_format }}
-        </time>
-      </div>
     </div>
   </div>
 </div>
