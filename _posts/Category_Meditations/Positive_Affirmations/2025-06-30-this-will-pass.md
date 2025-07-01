@@ -1,11 +1,12 @@
 ---
-image: /assets/img/pa/i_am_enough.png
-title: I Am Enough 2
+image: /assets/img/pa/this_will_pass.png
+title: This Will Pass
 number: 1
 categories:
+  - Meditations
   - Positive Affirmations
 author: Hope Staff
-notes: I Am Enough 2
+notes: This Will Pass 1
 embed: >-
   
 transcript: >-

@@ -7,7 +7,7 @@ image_wide:
 podcast:
 type: Other
 book: Judith
-weight: 1
+weight: 83
 chapters:
 - chapter: 1
   verses:

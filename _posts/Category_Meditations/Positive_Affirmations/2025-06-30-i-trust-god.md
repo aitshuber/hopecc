@@ -1,11 +1,12 @@
 ---
-image: /assets/img/pa/this_will_pass.png
-title: This Will Pass
+image: /assets/img/pa/i_trust_god.png
+title: I Trust God
 number: 1
 categories:
+  - Meditations
   - Positive Affirmations
 author: Hope Staff
-notes: This Will Pass 1
+notes: I Trust God 1
 embed: >-
   
 transcript: >-

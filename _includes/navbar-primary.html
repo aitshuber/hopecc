@@ -7,22 +7,21 @@
             <div>
                 <a class="uk-navbar-toggle" data-uk-search-icon="ratio: 0.9" href="#"></a>
                 <div class="uk-drop uk-background-default" data-uk-drop="mode: click; pos: left-center; offset: 0">
-                    <form class="uk-search uk-search-navbar uk-width-1-1" onsubmit="return false;">
-                        <input id="search-input" class="uk-search-input" type="search" placeholder="Search..." autofocus>
-                        <ul id="search-results" class="uk-position-absolute uk-width-1-1 uk-list uk-box-shadow-medium"></ul>
+                    <form class="uk-search uk-search-navbar uk-width-1-1" action="/search" method="get">
+                        <input id="search-box" class="uk-search-input" type="text" placeholder="Search..." autofocus name="query">
                     </form>
                 </div>
             </div>
-            <script>
-                SimpleJekyllSearch({
-                searchInput: document.getElementById('search-input'),
-                resultsContainer: document.getElementById('search-results'),
-                noResultsText: '<li>No results found</li>',
-                searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
-                limit: 100,
-                json: "{{ '/search.json' | relative_url }}"
-                });
-            </script>
+<!--            <script>-->
+<!--                SimpleJekyllSearch({-->
+<!--                searchInput: document.getElementById('search-input'),-->
+<!--                resultsContainer: document.getElementById('search-results'),-->
+<!--                noResultsText: '<li>No results found</li>',-->
+<!--                searchResultTemplate: '<li><a href="{url}">{title}</a></li>',-->
+<!--                limit: 100,-->
+<!--                json: "{{ '/search.json' | relative_url }}"-->
+<!--                });-->
+<!--            </script>-->
             {% endif %}
   
 
