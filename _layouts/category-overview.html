@@ -13,6 +13,7 @@ layout: default
 {% endfor %}
 {% endfor %}
 {% assign subcategories = subcategories | split: "," | uniq | sort %}
+
 <a href="#" uk-totop uk-scroll class="uk-position-fixed uk-position-bottom-right scrollup-button"></a>
 
 <div class="uk-container uk-container-xsmall uk-margin-medium-bottom uk-margin-large-top">
@@ -39,7 +40,7 @@ layout: default
                                     {% for subcategory in subcategories offset: offset limit: items_per_section %}
 
                                     {% unless subcategory == " " or already_rendered contains subcategory %}
-                                    <li uk-filter-control=".{{subcategory | strip}}"><a href="#">{{subcategory}}</a></li>
+                                    <li uk-filter-control="{% if subcategory contains ' ' %}.{{subcategory | strip | replace: ' ', '-'}}{% else %}.{{subcategory | strip}}{% endif %}"><a href="#">{{ subcategory | truncate: 16 }}</a></li>
                                     {% assign already_rendered = already_rendered | append: subcategory | append: "," %}
 
                                     {% endunless %}
@@ -60,13 +61,14 @@ layout: default
 
 
                     {% assign post_count = post_count | plus: 1 %}
+                    {% assign trimmed_category = subcategory | strip %}
                     {% if post_count >= 30 %}
-                <li class="{{post.categories | join: ' ' | remove: 'Meditations' }} more-content post-item" data-category="{{post.categories | join: ' '}}" data-sort="{{post.number}}" hidden>
+                <li class="{% if subcategory contains ' ' %} {{ subcategory | join: ' ' | remove: 'Meditations' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' | remove: 'Meditations' }} {% endif %} more-content post-item" data-category="{{post.categories | join: ' '}}" data-sort="{{post.number}}" hidden>
                     <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
                     <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 </li>
                 {% else %}
-                <li class="{{post.categories | join: ' ' | remove: 'Meditations' }} post-item" data-category="{{post.categories | join: ' '}}" data-sort="{{post.number}}">
+                <li class="{% if subcategory contains ' ' %} {{ categories | join: ' ' | remove: 'Meditations' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' | remove: 'Meditations' }} {% endif %} post-item" data-category="{{post.categories | join: ' '}}" data-sort="{{post.number}}">
                     <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
                     <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 </li>
