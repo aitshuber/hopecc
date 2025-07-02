@@ -3,7 +3,7 @@
     var numberChecker = false;
 
     function displaySearchResults(results, store) {
-        const searchResults = document.getElementById('search-results');
+        const searchResults = document.getElementById('search_results');
 
         if (results.length) {
             // Map results to objects with data from the store
@@ -36,16 +36,31 @@
             sortedResults.forEach(item => {
                 console.log('Rendering item:', item); // Debug: Check item structure here
 
+                // var category_urls = [];
+                //
                 if (item.url) { // Ensure `url` exists before rendering
-                    
 
 
-                    appendString += '<li>';
-                    appendString += `<a href="${item.url}"><h3>${item.title}</h3></a>`;
-                    appendString += `<p>Number: ${item.number}</p>`; // Show the number field
-                    appendString += `<p>Weight: ${item.weight}</p>`; // Show the weight field
-                    appendString += `<p>${item.content.substring(0, 150)}...</p>`;
-                    appendString += '</li>';
+                    appendString += `<article class="uk-card uk-grid-collapse uk-margin-large" data-uk-grid>
+  <div class="uk-width-1-3@s uk-card-media-left media-1-3 uk-cover-container">
+    <a href="${item.url}">
+      <img src="${item.image}" alt="${item.title}" data-uk-cover>
+      <canvas width="600" height="450"></canvas>
+    </a>
+  </div>
+  <div class="uk-width-expand@s">
+    <div class="uk-card-body uk-position-center-right search-query">
+      <div class="uk-text-uppercase article-title-font card-categories">
+      </div>
+      <h3 class="uk-card-title article-title-font"><a href="${item.url}">${item.title}</a></h3>
+    </div>
+  </div>
+</article>`;
+
+                    // appendString += '<li>';
+                    // appendString += `<a href="${item.url}"><h3>${item.title}</h3></a>`;
+                    // appendString += `<p>${item.content.substring(0, 150)}...</p>`;
+                    // appendString += '</li>';
                 } else {
                     console.warn(`Missing URL for item: ${JSON.stringify(item)}`);
                 }
@@ -82,7 +97,7 @@
             this.field('id');
             this.field('title', { boost: 10 });
             this.field('author');
-            this.field('category');
+            this.field('categories');
             this.field('content');
             this.field('number', { boost: 5 }); // Add the number field
             this.field('type');
@@ -94,7 +109,7 @@
                 'id': key,
                 'title': window.store[key].title,
                 'author': window.store[key].author,
-                'category': window.store[key].category,
+                'categories': window.store[key].category,
                 'content': window.store[key].content,
                 'number': window.store[key].number, // Add the number field
                 'type': window.store[key].type,

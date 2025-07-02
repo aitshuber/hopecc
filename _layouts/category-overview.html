@@ -63,12 +63,12 @@ layout: default
                     {% assign post_count = post_count | plus: 1 %}
                     {% assign trimmed_category = subcategory | strip %}
                     {% if post_count >= 30 %}
-                <li class="{% if subcategory contains ' ' %} {{ subcategory | join: ' ' | remove: 'Meditations' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' | remove: 'Meditations' }} {% endif %} more-content post-item" data-category="{{post.categories | join: ' '}}" data-sort="{{post.number}}" hidden>
+                <li class="{% if subcategory contains ' ' %} {{ subcategory | join: ' ' | remove: 'Meditations' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' | remove: 'Meditations' }} {% endif %} more-content post-item" data-category="{% if subcategory contains ' ' %}{{ post.categories | join: ' ' | replace: ' ', '-' }}{% else %}{{ post.categories | join: ' ' }}{% endif %}" data-sort="{{post.number}}" hidden>
                     <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
                     <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 </li>
                 {% else %}
-                <li class="{% if subcategory contains ' ' %} {{ categories | join: ' ' | remove: 'Meditations' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' | remove: 'Meditations' }} {% endif %} post-item" data-category="{{post.categories | join: ' '}}" data-sort="{{post.number}}">
+                <li class="{% if subcategory contains ' ' %} {{ categories | join: ' ' | remove: 'Meditations' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' | remove: 'Meditations' }} {% endif %} post-item" data-category="{% if subcategory contains ' ' %}{{ post.categories | join: ' ' | replace: ' ', '-' }}{% else %}{{ post.categories | join: ' ' }}{% endif %}" data-sort="{{post.number}}">
                     <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
                     <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 </li>

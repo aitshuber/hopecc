@@ -5,6 +5,8 @@ document.addEventListener("DOMContentLoaded", function () {
     const filterButtons = document.querySelectorAll(".uk-nav.uk-dropdown-nav li"); // All filter buttons
     const postContainer = document.querySelector(".js-filter");
 
+    var debug_category = "";
+
     function sortPosts(postsArray) {
         return Array.from(postsArray).sort((a, b) => {
             const sortA = parseInt(a.dataset.sort || 0, 10);
@@ -76,9 +78,13 @@ document.addEventListener("DOMContentLoaded", function () {
     // Event listener for category filters
     filterButtons.forEach((filterButton) => {
         filterButton.addEventListener("click", function () {
-            const filter = this.textContent.trim(); // Get the text content of the clicked filter
+            var filter = this.textContent.trim(); // Get the text content of the clicked filter
+            if (filter.includes("...")){
+                filter = this.getAttribute("uk-filter-control").replace(".", "");
+            }
             filterButtons.forEach((button) => button.classList.remove("uk-active")); // Reset active class
             this.classList.add("uk-active"); // Mark the clicked filter as active
+            debug_category = filter;
             filterPosts(filter); // Apply the filter
         });
     });
