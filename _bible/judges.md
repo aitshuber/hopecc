@@ -4,10 +4,7 @@ title:
 description:
 image_thumb:
 image_wide:
-podcast: >-
-    <iframe
-    src="https://podcasters.spotify.com/pod/show/scrollandvoice/embed/episodes/Genesis---Full-Book-e2jhhcv/a-ab8o8nc"
-    height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+podcast: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6S3yTgy9evFguXzGorLMWq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 type: Old Testament
 book: Judges
 weight: 7

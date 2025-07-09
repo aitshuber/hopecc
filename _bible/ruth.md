@@ -4,7 +4,7 @@ title:
 description:
 image_thumb:
 image_wide:
-podcast:
+podcast: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3w3Y4lfrZgVNOwioQJgB2k?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 type: Old Testament
 book: Ruth
 weight: 8

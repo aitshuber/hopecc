@@ -4,7 +4,7 @@ title:
 description:
 image_thumb:
 image_wide:
-podcast:
+podcast: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/38L8IDRpmIg4qiooZ6gnKY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 type: Other
 book: The Second Book of the Maccabees
 weight: 76

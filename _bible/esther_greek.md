@@ -4,7 +4,7 @@ title:
 description:
 image_thumb:
 image_wide:
-podcast:
+podcast: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3dw5ktFhR1SqKJgDZMG0pN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 type: Other
 book: Esther (Greek)
 weight: 69

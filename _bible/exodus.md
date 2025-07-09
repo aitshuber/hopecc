@@ -4,7 +4,7 @@ title:
 description:
 image_thumb: /assets/img/bible/Exodus_Square_123404.png
 image_wide:
-podcast:
+podcast: <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0LNxIcxOg2aNnAbKqDCr25?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 type: Old Testament
 book: Exodus
 weight: 2
