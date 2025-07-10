@@ -8,9 +8,7 @@ categories:
 author: Hope Staff
 notes: Foundations 2
 embed: >-
-  <iframe
-  src=“https://creators.spotify.com/pod/show/hopemindfulness/embed/episodes/Foundation-2---Genesis-27-e34fr85/a-ac0p2pc”
-  height=“102px” width=“400px” frameborder=“0" scrolling=“no”></iframe>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6eEY17s5b22zp8sWIpUakC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 transcript: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris dictum, metus nec placerat pulvinar, enim est tincidunt enim, eu consequat nisl metus at ex. Phasellus felis leo, suscipit sed congue sed, tempor at arcu. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nunc varius, tortor eget convallis vestibulum, est ligula dictum lacus, a luctus justo magna eget nisi. Curabitur maximus nisi sit amet dolor tincidunt fringilla. Sed volutpat bibendum sem sed gravida. Suspendisse congue sodales felis, id condimentum justo feugiat non.
   Praesent non est in tortor tempor bibendum sed a ligula. Etiam fringilla lectus sit amet pharetra dignissim. Nunc pellentesque lectus ut tortor fringilla, id ullamcorper ligula elementum. Nam rutrum tincidunt mauris, at dignissim metus imperdiet quis. Sed eu sapien quam. Integer scelerisque fringilla augue, ac finibus nisl euismod scelerisque. Nunc eget justo eu eros accumsan viverra id nec risus. Nulla luctus tristique turpis, vitae scelerisque justo consectetur eu. Nullam gravida ligula sit amet ex suscipit, fit luctus est venenatis.

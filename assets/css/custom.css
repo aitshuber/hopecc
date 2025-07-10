@@ -29,10 +29,28 @@ iframe{
 .large-dropdown-section {
 	transition: all 0.2s ease-in-out;
 }
+.scrollup-button {
+	width: 60px; /* Fixed width */
+	height: 60px; /* Fixed height */
+	border-radius: 50%; /* Makes it perfectly circular */
+	background-color: #266467;
+	color: #fff;
+	display: flex;
+	align-items: center; /* Centers content vertically */
+	justify-content: center; /* Centers content horizontally */
+	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Optional: Adds a nice shadow */
+	cursor: pointer; /* Makes it look like a button */
+}
+.scrollup-button:hover {
+	color: black !important;
+}
+.scrollup-button:focus {
+	color: black !important;
+}
 .embed-container {
 	width: 100%;
 	display: flex;
-	height: 350px;
+	height: 380px;
 }
 .search-query {
 	right: auto !important;
