@@ -1,17 +1,21 @@
 <div class="widget">
-  <div class="uk-margin">
-    <a class="uk-logo" href="{{ "/" | relative_url }}">
-      {% if site.logo_image.light or site.logo_image.dark %}
-        {% if site.logo_image.light %}
-          <img class="uk-logo-inverse" src="{{ site.uploads | absolute_url }}{{ site.logo_image.light }}" alt="{{ site.title }}">
-        {% endif %}
-        {% if site.logo_image.dark %}
-          <img src="{{ site.uploads | absolute_url }}{{ site.logo_image.dark }}" alt="{{ site.title }}">
-        {% endif %}
-      {% else %}
-        {{ site.title }}
-      {% endif %}
-    </a>
+  <div class="" uk-grid>
+    <div class="uk-margin">
+      <a class="uk-logo" href="{{ "/" | relative_url }}">
+          {% if site.logo_image.light %}
+            <img class="footer-logo" src="{{ site.uploads | absolute_url }}{{ site.logo_image.light }}" alt="{{ site.title }}">
+          {% else %}
+          {{ site.title }}
+          {% endif %}
+      </a>
+    </div>
+    {% if site.social_networks %}
+      <div class="uk-margin">
+        <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-flex-left@m">
+          {% include social-networks.html icon_ratio="2" %}
+        </div>
+      </div>
+    {% endif %}
   </div>
   {% if include.content %}
     <div class="uk-margin">{{ include.content }}</div>
@@ -22,11 +26,6 @@
   {% if include.copyright %}
     <p>{{ site.footer.copyright }}</p>
   {% endif %}
-  {% if site.social_networks %}
-    <div class="uk-margin">
-      <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-flex-left@m">
-        {% include social-networks.html %}
-      </div>
-    </div>
-  {% endif %}
+
+
 </div>
