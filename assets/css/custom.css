@@ -55,3 +55,11 @@ iframe{
 .search-query {
 	right: auto !important;
 }
+
+.uk-background-secondary {
+	background-color: #266467 !important;
+}
+
+.footer-logo {
+	width: 25%
+}
