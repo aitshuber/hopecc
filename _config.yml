@@ -34,6 +34,7 @@ navbar_primary:
 
 # Social share buttons
 social_share:
+  email:            true
   twitter:          true
   tiktok:           true
   x:                true
@@ -41,19 +42,11 @@ social_share:
 
 # Social networks
 social_networks:
-  email:
+  email:        https://www.hopemindfulness.com/
   website:
-  facebook:
-  flickr:
-  dribbble:
-  github:
-  reddit:
   instagram:        https://www.instagram.com/hopemindfulness/
-  linkedin:
-  pinterest:
   x:          https://x.com/hopemindfulness
   tiktok:          https://www.tiktok.com/@hopemindfulness
-  vimeo:
   youtube:          https://www.youtube.com/@hopemindfulness
 
 # Strings

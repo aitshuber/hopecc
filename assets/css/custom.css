@@ -63,3 +63,29 @@ iframe{
 .footer-logo {
 	width: 25%
 }
+
+.title-section {
+	order: 1;
+}
+.image-section {
+	order: 2;
+}
+
+@media (max-width: 1024px) {
+	.responsive-content{
+		display: flex;
+		flex-direction: column;
+	}
+	.title-section {
+		order: 2;
+	}
+	.image-section {
+		order: 1;
+	}
+}
+.rounded {
+	border-radius: 200px;
+}
+.social-card {
+	background-color: #0d9488;
+}

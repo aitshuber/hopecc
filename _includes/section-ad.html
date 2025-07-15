@@ -5,9 +5,30 @@
     <hr class="uk-margin-remove">
   </div>
 {%- endif -%}
+<div uk-grid class="uk-flex-center">
+    <div class="title-section uk-flex uk-flex-middle uk-flex-center uk-text-center uk-flex-column    uk-margin-large-bottom ">
+        <div class="uk-text-left@xl uk-margin-large-bottom ">
+            <h1>Welcome to the City</h1>
+            <h2>Explore what Hope has to offer to help you <br>build a better life and establish a meaningful existence.</h2>
+            <a class="uk-button uk-button-primary uk-button-large rounded" uk-toggle="target: #subscribe-modal" type="button">Subscribe for news</a>
+        </div>
+    </div>
+    <div class="image-section {% if include.width != 'full' %}uk-container {% endif %}uk-margin-medium-bottom uk-padding-remove">
+        <div class="uk-flex uk-flex-center">
+            <img class="{% if include.width == 'full' %}uk-width-1-1{% endif %}" src="{% if include.image contains 'http' %}{{ include.image }}{% else %}{{ site.uploads | absolute_url }}{{ include.image }}{% endif %}" alt="{{ include.alt }}">
+        </div>
+    </div>
+</div>
 
-<div class="{% if include.width != 'full' %}uk-container {% endif %}uk-margin-medium-bottom">
-  <div class="uk-flex uk-flex-center">
-    <a class="uk-display-block uk-position-relative {% if include.width == 'full' %}uk-width-1-1{% endif %}" href="{{ include.url }}" target="{% if include.blank %}_blank{% endif %}"><img class="{% if include.width == 'full' %}uk-width-1-1{% endif %}" src="{% if include.image contains 'http' %}{{ include.image }}{% else %}{{ site.uploads | absolute_url }}{{ include.image }}{% endif %}" alt="{{ include.alt }}"></a>
-  </div>
+
+<div id="subscribe-modal" uk-modal>
+    <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical rounded">
+        <h2 class="uk-modal-title">Sign up for Our News Letter</h2>
+        <p>Sign up for our weekly newsletter through Substack and stay up to date with what is happening in the city.</p>
+        <iframe src="https://hopemindfulness.substack.com/embed" frameborder="0" scrolling="no"></iframe>
+        <hr>
+        <p class="uk-text-right">
+            <button class="uk-button uk-button-default uk-modal-close" type="button">Cancel</button>
+        </p>
+    </div>
 </div>

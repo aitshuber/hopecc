@@ -48,19 +48,14 @@
       <canvas width="600" height="450"></canvas>
     </a>
   </div>
-  <div class="uk-width-expand@s">
-    <div class="uk-card-body uk-position-center-right search-query">
+  <div class="uk-width-expand@s uk-flex">
+    <div class="uk-card-body search-query uk-margin-auto-vertical uk-text-center ">
       <div class="uk-text-uppercase article-title-font card-categories">
       </div>
       <h3 class="uk-card-title article-title-font"><a href="${item.url}">${item.title}</a></h3>
     </div>
   </div>
 </article>`;
-
-                    // appendString += '<li>';
-                    // appendString += `<a href="${item.url}"><h3>${item.title}</h3></a>`;
-                    // appendString += `<p>${item.content.substring(0, 150)}...</p>`;
-                    // appendString += '</li>';
                 } else {
                     console.warn(`Missing URL for item: ${JSON.stringify(item)}`);
                 }
@@ -68,7 +63,9 @@
 
             searchResults.innerHTML = appendString; // Update the results container in the DOM
         } else {
-            searchResults.innerHTML = '<li>No results found</li>'; // Display message for no results
+            const results_title = document.getElementById('results-title');
+            results_title.innerHTML = 'No Results Found';
+            // searchResults.innerHTML = '<li>No results found</li>'; // Display message for no results
         }
     }
 

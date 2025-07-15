@@ -100,24 +100,17 @@ _select_data:
     social: true
     search: true
   social_share:
+    email: true
     twitter: true
     tiktok: true
     x: true
     youtube: true
   social_networks:
-    email:
-    website:
-    facebook:
-    flickr:
-    dribbble:
-    github:
-    reddit:
+    email: https://www.hopemindfulness.com/
+    website: https://www.hopemindfulness.com/
     instagram: https://www.instagram.com/hopemindfulness/
-    linkedin:
-    pinterest:
     x: https://x.com/hopemindfulness
     tiktok: https://www.tiktok.com/@hopemindfulness
-    vimeo:
     youtube: https://www.youtube.com/@hopemindfulness
   strings:
     author_by: By
