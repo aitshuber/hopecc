@@ -6,6 +6,13 @@
             {% if site.navbar_primary.search %}
             <div>
                 <a class="uk-navbar-toggle" data-uk-search-icon="ratio: 0.9" href="#"></a>
+
+                <div class="uk-drop uk-background-default" data-uk-drop="mode: click; pos: left-center; offset: 0">
+                    <form class="uk-search uk-search-navbar uk-width-1-1" action="/search" method="get">
+                        <input id="search-box" class="uk-search-input" type="text" placeholder="Search..." autofocus name="query">
+                    </form>
+                </div>
+
             </div>
             {% endif %}
   
@@ -171,11 +178,4 @@
     </div>
     
 </div>
-{% if site.navbar_primary.search %}
-<div class="uk-drop uk-background-default" data-uk-drop="mode: click; pos: left-center; offset: 0">
-    <form class="uk-search uk-search-navbar uk-width-1-1" action="/search" method="get">
-        <input id="search-box" class="uk-search-input" type="text" placeholder="Search..." autofocus name="query">
-    </form>
-</div>
-{% endif %}
 <div class="uk-margin-remove"><hr></div>
