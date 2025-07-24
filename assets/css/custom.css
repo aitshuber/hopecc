@@ -1,3 +1,7 @@
+body {
+	overflow-x: hidden;
+}
+
 .img-logo{
 width: 4em;
 }
@@ -88,4 +92,31 @@ iframe{
 }
 .social-card {
 	background-color: #0d9488;
+}
+.social-block {
+	padding-top: 0;
+}
+.slider-nav-circle {
+  width: 40px; /* Set the dimension of the circle */
+  height: 40px; /* Height equal to width for a circle */
+  border-radius: 50%; /* Make the shape circular */
+  background-color: #0d9488; /* Background color for the circle */
+  border: none; /* Remove the border */
+  text-align: center; /* Center text/icon horizontally */
+  line-height: 40px; /* Match the line-height to the height to center vertically */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add some depth with shadow */
+  color: #fff; /* Color for the arrow icon */
+  cursor: pointer; /* Change cursor to pointer */
+  transition: background-color 0.3s ease,
+
+}
+
+.slider-nav-circle:hover {
+  background-color: #266467; /* Slightly darker on hover */
+  transform: scale(1.1); /* Scale up slightly on hover */
+}
+
+.slider-nav-circle:focus {
+  outline: none; /* Remove focus outline */
+  box-shadow: 0 0 6px #266467; /* Add a focus shadow */
 }

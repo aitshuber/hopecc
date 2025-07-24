@@ -1,6 +1,6 @@
 <div class="widget">
-  <div class="" uk-grid>
-    <div class="uk-margin">
+  <div class="" >
+    <div class="uk-margin uk-flex uk-flex-right">
       <a class="uk-logo" href="{{ "/" | relative_url }}">
           {% if site.logo_image.light %}
             <img class="footer-logo" src="{{ site.uploads | absolute_url }}{{ site.logo_image.light }}" alt="{{ site.title }}">
@@ -11,7 +11,7 @@
     </div>
     {% if site.social_networks %}
       <div class="uk-margin">
-        <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-flex-left@m">
+        <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center">
           {% include social-networks.html icon_ratio="2" %}
         </div>
       </div>
@@ -22,9 +22,6 @@
   {% endif %}
   {% if site.description %}
     <div class="uk-margin copyright">{{ site.description }}</div>
-  {% endif %}
-  {% if include.copyright %}
-    <p>{{ site.footer.copyright }}</p>
   {% endif %}
 
 
