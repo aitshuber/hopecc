@@ -24,7 +24,7 @@ disqus:
 instagram_accesstoken:
 
 footer:             # Default footer image settings
-  copyright:        Made by hope
+  copyright:
 
 # navbar settings
 navbar_primary:

@@ -47,7 +47,7 @@
       {% assign site_url = social_site[1] %}
       <div class="uk-card uk-card-default">
           <a class=" uk-margin-large" href="{{ site_url }}" {% if forloop.first %} style="margin: 0px; padding: 0px; box-shadow: none;"{% endif %}>
-            <div class="uk-position-center" data-uk-icon="icon:{% unless site_name == 'email' or site_name == 'website' %} {{ site_name }}{% else %}mail{% endunless %}; ratio: 7"></div>
+            <div class="uk-position-center" data-uk-icon="icon:{% unless site_name == 'email' or site_name == 'website' %} {{ site_name }}{% elsif site_name == 'email' %}mail{% elsif site_name == 'website' %}link-external{% endunless %}; ratio: 7"></div>
           </a>
       </div>
       {% endfor %}

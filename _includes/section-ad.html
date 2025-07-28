@@ -23,8 +23,10 @@
 
 <div id="subscribe-modal" uk-modal>
     <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical rounded">
-        <h2 class="uk-modal-title">Sign up for Our News Letter</h2>
-        <p>Sign up for our weekly newsletter through Substack and stay up to date with what is happening in the city.</p>
+        <h2 class="uk-modal-title">Sign up for our News Letter</h2>
+        {% for item in site.data.footer %}
+        <p>{{ item.footer-text }}</p>
+        {% endfor %}
         <iframe src="https://hopemindfulness.substack.com/embed" frameborder="0" scrolling="no"></iframe>
         <hr>
         <p class="uk-text-right">

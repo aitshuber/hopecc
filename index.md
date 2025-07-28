@@ -5,4 +5,9 @@ layout: full
 
 {% include section-latest.html title="Our Favorites" limit="6" more="More Articles" %}
 
-{% include section-mailchimp.html title="Newsletter Signup" text="Sign up for our weekly newsletter through Substack and stay up to date with what is happening in the city." button_text="Support Us" %}
+{% assign footer_text = "" %}
+{% for item in site.data.footer %}
+{% assign footer_text = footer_text | append: item.footer-text | append: " " %}
+{% endfor %}
+
+{% include section-mailchimp.html title="Newsletter Signup" text=footer_text button_text="Support Us" %}

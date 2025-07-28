@@ -97,7 +97,6 @@ iframe{
 	padding-top: 0;
 }
 .slider-nav-circle {
-  width: 40px; /* Set the dimension of the circle */
   height: 40px; /* Height equal to width for a circle */
   border-radius: 50%; /* Make the shape circular */
   background-color: #0d9488; /* Background color for the circle */
@@ -107,8 +106,8 @@ iframe{
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add some depth with shadow */
   color: #fff; /* Color for the arrow icon */
   cursor: pointer; /* Change cursor to pointer */
-  transition: background-color 0.3s ease,
-
+  padding-right: 18px;
+  padding-left: 20px;
 }
 
 .slider-nav-circle:hover {
