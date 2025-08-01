@@ -9,7 +9,7 @@ notes: The Nightly Wind Down 167
 embed: >-
   EMBED_GOES_HERE
 transcript: >-
-  SOME LINES OF TEXT START HERE
+  
 ---
 Let's go ahead and get comfortable in your bed or in your chair,
 

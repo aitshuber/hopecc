@@ -9,7 +9,7 @@ notes: The Nightly Wind Down 296
 embed: >-
   EMBED_GOES_HERE
 transcript: >-
-  SOME LINES OF TEXT START HERE
+  
 ---
 Let's get started by taking a moment just to be thankful for all the blessings in life.
 

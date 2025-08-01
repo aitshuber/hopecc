@@ -9,7 +9,7 @@ notes: The Nightly Wind Down 66
 embed: >-
   EMBED_GOES_HERE
 transcript: >-
-  SOME LINES OF TEXT START HERE
+  
 ---
 Go ahead and get comfortable in your position,
 

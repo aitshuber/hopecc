@@ -9,7 +9,7 @@ notes: The Nightly Wind Down 224
 embed: >-
   EMBED_GOES_HERE
 transcript: >-
-  SOME LINES OF TEXT START HERE
+  
 ---
 Begin by getting comfortable, and when you're ready, allow your eyes to slowly close.
 

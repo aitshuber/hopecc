@@ -9,7 +9,7 @@ notes: The Nightly Wind Down 54
 embed: >-
   EMBED_GOES_HERE
 transcript: >-
-  SOME LINES OF TEXT START HERE
+  
 ---
 Let's start by taking a few nice, deep breaths.
 

@@ -9,7 +9,7 @@ notes: The Nightly Wind Down 338
 embed: >-
   EMBED_GOES_HERE
 transcript: >-
-  SOME LINES OF TEXT START HERE
+  
 ---
 Let's begin by consciously turning off the body,
 
