@@ -11,3 +11,205 @@ embed: >-
 transcript: >-
   SOME LINES OF TEXT START HERE
 ---
+Let's go ahead and get comfortable in your bed or in your chair,
+
+and when you're ready, allow your eyes to slowly close.
+
+Take a moment to consider this verse and prayer.
+
+Come to me, all you who are weary and burdened, and I will give you rest.
+
+And again, come to me, all you who are weary and burdened. and burdened, and I will give you rest.
+
+Now bring your attention to the breath,
+
+taking some nice, slow, deep, full breaths
+
+in through the nose and letting go out through the mouth.
+
+Deep breath in and feel the body expand and slowly exhaling, letting all the air out of the lungs.
+
+Let the breath be natural. Let the breath naturally relax the body.
+
+Feel the stomach and the chest rise with each inhale
+
+and feel the body relax with each exhale.
+
+Feel the weight of the body in the bed or the chair.
+
+As you breathe, Allow the face to soften and let go.
+
+Allow the forehead to relax and the jaw to fall away from the face.
+
+Just relaxing and releasing.
+
+Now, let go of the breath. Let it find a nice, natural, effortless rhythm. Simply let go.
+
+Now, bring your awareness to the space around the body.
+
+Notice any sensations on the skin.
+
+Feel the clothes on the skin.
+
+Feel the temperature of the room.
+
+Listen to the sounds in the room with a nice Easy focus.
+
+Notice the rise and the fall of the breath.
+
+The air moving in and the air moving out
+
+without even having to think about it. It just happens. The breath breathes itself.
+
+Feel the inhale and relax. Allow the exhale and let go.
+
+This is a safe place. There's no need to rush. God is watching over you. And he loves you.
+
+There's no goal. There's no destination. Allow
+
+your awareness to rest with the presence of God.
+
+Take this verse with you. Come to me, all you who are weary and burdened, and I will give you rest.
+
+God, I know you're always with me. Thank you for all of your blessings. Help me to relax and let go in your presence. I trust your plan for my life. 
+
+
+Let's go ahead and get comfortable in your bed or in your chair.
+
+And when you're ready, allow your eyes to slowly close.
+
+Take a moment to consider this verse and prayer.
+
+I focus on this one thing, forgetting the past and looking forward to what lies ahead.
+
+And again, I focus on this one thing. forgetting the past and looking forward to what lies ahead.
+
+Now, take a moment to be grateful for this opportunity to relax.
+
+Notice how good it feels just to be here in this moment.
+
+Take a few nice big deep breaths in.
+
+Allow your body mind to relax.
+
+Nothing else matters right now. There is nowhere to go. There is nothing to do. Here you are.
+
+Allow your body to relax and feel the calm of God's presence.
+
+The thoughts may take you away and that's okay. Don't resist the thoughts. Don't force them back. Be friendly. with your thoughts.
+
+When it feels natural, come back to the feeling of relaxation in the body.
+
+Now, bring your attention to the breath.
+
+Let's take some nice, deep breaths.
+
+Make them feel easy and effortless,
+
+in through the nose and out through the mouth,
+
+feeling life enter your body. As you breathe in,
+
+inhale, feel how the body expands. Then slowly exhale, releasing tension as you go.
+
+Feel the air as it travels in through the nose
+
+and feel the body fall. With each exhale,
+
+with each breath, allow the chest and shoulders to soften and relax.
+
+Notice how the body feels.
+
+Allow your breath to soften and release the tension in your body,
+
+just relaxing and releasing.
+
+There's no way to do this wrong. The breath breathes itself
+
+effortlessly. Rest into the arms of God.
+
+Take this verse with you.
+
+I focus on this one thing, forgetting the past and looking forward. To what lies ahead.
+
+God, I know you're always with me. Thank you for all of your blessings. Help me to relax and let go in your presence. I trust your plan for my life.
+
+
+Let's get started by allowing the body to relax.
+
+And when you're ready, let your eyes close like the sun sets.
+
+Let your awareness rest with this verse and prayer.
+
+Turn to the Lord for help in everything you do, and you will be successful.
+
+And again, turn to the Lord for help in everything you do. And you will be successful
+
+when it feels natural. Begin releasing the tension in your hands, shoulders, and neck.
+
+Let go of that stress.
+
+Release your anxieties and worries to God.
+
+Let go of your grip on control.
+
+Take a big, deep breath in.
+
+Release your stress.
+
+Let go of your frustrations.
+
+Let it all go on the exhale.
+
+We aren't holding on to the thoughts. We're just letting them release.
+
+Now bring your awareness to the way the body feels.
+
+Allow yourself to sink. into your chair or your bed.
+
+Let the body relax and release.
+
+When it feels comfortable, bring your attention to the heart.
+
+Feel the heartbeat,
+
+just noticing it.
+
+Allow that natural rhythm and stillness to relax the body.
+
+Just notice the way that you feel,
+
+not trying to change it. just accepting it the way that it is.
+
+Gently bring your awareness to the feeling of the body,
+
+just noticing any sensations in the body.
+
+Maybe it's the air on the skin
+
+or the weight of the body in the bed.
+
+Follow your breath and notice how it changes the body. The
+
+inhales expanding the body and
+
+the exhales relaxing the body.
+
+Follow it. as it comes in through the nose and goes back out through the mouth.
+
+It's natural and effortless. Your body knows how to relax.
+
+You're simply unearthing the calm that was already there.
+
+Begin to feel the space around the body.
+
+Notice it with a subtle sense of gratitude and acceptance.
+
+Try not to resist anything. You're just revealing the peace that's already present in your heart.
+
+Let go of your worries. This is a safe place of love and deep rest. Allow your mind to find refuge in God.
+
+Take this verse with you. Turn to the Lord for help in everything you do, and you will be successful.
+
+God, I know you're always with me. Thank you for all of your blessings. Help me to relax and let go in your presence. I trust your plan for my life.
+
