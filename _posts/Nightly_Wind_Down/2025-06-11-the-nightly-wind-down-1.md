@@ -9,7 +9,6 @@ notes: The Nightly Wind Down 1
 embed: >-
   EMBED_GOES_HERE
 transcript: >-
-  
 ---
 Let's go ahead and get comfortable in your bed or in your chair,
 
