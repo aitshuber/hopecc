@@ -5,17 +5,18 @@
     <hr class="uk-margin-remove">
   </div>
 {%- endif -%}
-<div uk-grid class="uk-flex-center">
-    <div class="title-section uk-flex uk-flex-middle uk-flex-center uk-text-center uk-flex-column    uk-margin-large-bottom ">
-        <div class="uk-text-left@xl uk-margin-large-bottom ">
-            <h1>Welcome to the City</h1>
-            <h2>Explore what Hope has to offer to help you <br>build a better life and establish a meaningful existence.</h2>
-            <a class="uk-button uk-button-primary uk-button-large rounded" uk-toggle="target: #subscribe-modal" type="button">Subscribe for news</a>
+<div uk-grid class="uk-flex-around uk-padding index-hero-image uk-padding-remove-right">
+    <div class="title-section uk-flex uk-flex-middle uk-flex-center uk-text-center uk-flex-column uk-margin-large-bottom ">
+        <div class="uk-text-left@xl">
+            <h1>Scripture. Stillness. Hope</h1>
+            <h2>Explore ancient Christian meditation that guides you to
+            <br>slow down, hear God, and find spiritual rest in scripture.</h2>
+            <a class="uk-button uk-button-primary uk-button-large rounded" uk-toggle="target: #subscribe-modal" type="button">Stay in Touch</a>
         </div>
     </div>
     <div class="image-section {% if include.width != 'full' %}uk-container {% endif %}uk-margin-medium-bottom uk-padding-remove">
-        <div class="uk-flex uk-flex-center">
-            <img class="{% if include.width == 'full' %}uk-width-1-1{% endif %}" src="{% if include.image contains 'http' %}{{ include.image }}{% else %}{{ site.uploads | absolute_url }}{{ include.image }}{% endif %}" alt="{{ include.alt }}">
+        <div class="uk-flex uk-flex-center uk-flex-around@xl">
+            <img class="{% if include.width == 'full' %}uk-width-1-1{% endif %} index-hero-image-actual" src="{% if include.image contains 'http' %}{{ include.image }}{% else %}{{ site.uploads | absolute_url }}{{ include.image }}{% endif %}" alt="{{ include.alt }}">
         </div>
     </div>
 </div>

@@ -8,7 +8,7 @@ permalink: /bible
 <div class="uk-container uk-container-xsmall uk-margin-medium-bottom uk-margin-large-top">
 	<div class="uk-text-lead uk-margin-medium-bottom">
 	<h1>Bible</h1>
-	<p>Embark on a transformative journey through Scripture with Scroll & Voice, the captivating audio Bible. Discover the rich narratives and enduring wisdom of the Old and New Testaments, from Genesis to Revelation, brought vividly to life through skilled narration. Enrich your understanding of the faith with the complete Deuterocanon, including Tobit, Judith, Wisdom, Sirach, Baruch, and more. Listen here or wherever you enjoy podcasts.</p>
+	<p>Embark on a transformative journey through the Scriptures with this captivating audio Bible, Scroll & Voice, complete with the Deuterocanon. Experience the profound narratives and timeless teachings of the Old and New Testaments, from Genesis to Revelation, brought to life through skilled narration. Dive deeper into the spiritual heritage with the inclusion of the Deuterocanon, featuring Tobit, Judith, Wisdom, Sirach, Baruch, and more.</p>
 	<hr/>
 	<h2>Old Testament </h2>
 	<div class="uk-container uk-margin-large-top uk-margin-large-bottom">

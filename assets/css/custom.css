@@ -37,16 +37,21 @@ iframe{
 	width: 60px; /* Fixed width */
 	height: 60px; /* Fixed height */
 	border-radius: 50%; /* Makes it perfectly circular */
-	background-color: #266467;
+	background-color: #0d9488;
 	color: #fff;
 	display: flex;
 	align-items: center; /* Centers content vertically */
 	justify-content: center; /* Centers content horizontally */
 	box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Optional: Adds a nice shadow */
 	cursor: pointer; /* Makes it look like a button */
+    right: 50px;
+    bottom: 50px;
+    z-index: 5;
 }
 .scrollup-button:hover {
+    transition: all 0.2s ease-in-out;
 	color: black !important;
+    background-color: #266467;
 }
 .scrollup-button:focus {
 	color: black !important;
@@ -75,7 +80,7 @@ iframe{
 	order: 2;
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1440px) {
 	.responsive-content{
 		display: flex;
 		flex-direction: column;
@@ -118,4 +123,74 @@ iframe{
 .slider-nav-circle:focus {
   outline: none; /* Remove focus outline */
   box-shadow: 0 0 6px #266467; /* Add a focus shadow */
+}
+
+.social-site-title {
+	margin-top: 135px;
+}
+
+/*Start Search Bar Area*/
+
+@media (min-width: 1400px){
+    .nav-search-bar {
+        width: 62em !important;
+    }
+}
+@media (min-width: 1024px) and (max-width: 1399px){
+    .nav-search-bar {
+        width: 46em !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 1023px){
+    .nav-search-bar {
+        width: 37em !important;
+    }
+}
+@media (min-width: 425px) and (max-width: 767px){
+    .nav-search-bar {
+        width: 18em !important;
+    }
+}
+@media (min-width: 375px) and (max-width: 424px){
+    .nav-search-bar {
+        width: 15em !important;
+    }
+}
+@media (max-width: 320px) {
+    .nav-search-bar {
+        width: 12em !important;
+    }
+    /*    .scrollup-button {*/
+    /*    width: 60px; !* Fixed width *!*/
+    /*    height: 60px; !* Fixed height *!*/
+    /*        */
+    /*    border-radius: 50%; !* Makes it perfectly circular *!*/
+    /*    background-color: #0d9488;*/
+    /*    color: #fff;*/
+    /*    display: flex;*/
+    /*    align-items: center; !* Centers content vertically *!*/
+    /*    justify-content: center; !* Centers content horizontally *!*/
+    /*    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); !* Optional: Adds a nice shadow *!*/
+    /*    cursor: pointer; !* Makes it look like a button *!*/
+    /*    right: 50px;*/
+    /*    bottom: 50px;*/
+    /*}*/
+
+}
+
+.uk-search-background {
+    background-color: #effbfa !important;
+}
+
+/*End Search Bar Area*/
+
+@media (max-width: 1440px) {
+    .index-hero-image {
+        padding: 0 !important;
+    }
+}
+@media (min-width: 1024px) {
+    .index-hero-image-actual {
+        height: 850px !important;
+    }
 }

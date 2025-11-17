@@ -5,17 +5,11 @@
         <div class="uk-navbar-left">
             {% if site.navbar_primary.search %}
             <div>
-                <a class="uk-navbar-toggle" data-uk-search-icon="ratio: 0.9" href="#"></a>
-
-                <div class="uk-drop uk-background-default" data-uk-drop="mode: click; pos: left-center; offset: 0">
-                    <form class="uk-search uk-search-navbar uk-width-1-1" action="/search" method="get">
-                        <input id="search-box" class="uk-search-input" type="text" placeholder="Search..." autofocus name="query">
-                    </form>
-                </div>
+                <a class="uk-navbar-toggle" data-uk-search-icon="ratio: 0.9" href="#" id="search-toggler"></a>
 
             </div>
+
             {% endif %}
-  
 
             <ul class="uk-navbar-nav uk-visible@m">
                 {% for link in site.data.navbar_primary.left %}
@@ -65,7 +59,12 @@
             </ul>
         </div>
 
-        <div class="uk-navbar-center">
+        <div class="uk-drop uk-background-default uk-search-background" data-uk-drop="mode: click; pos: right-center; offset: 0" id="search-box-holder">
+            <form class="uk-search uk-search-navbar uk-width-1-1" action="/search" method="get">
+                <input id="search-box" class="uk-search-input" type="text" placeholder="Search..." autofocus name="query">
+            </form>
+        </div>
+        <div class="uk-navbar-center" id="center-navbar">
             <ul class="uk-navbar-nav uk-visible@m">
                 {% for link in site.data.navbar_primary.center %}
                     {% if link.url contains 'http' %}
@@ -113,6 +112,18 @@
                 {% endfor %}
             </ul>
         </div>
+
+<!--        <div class="uk-navbar-center">-->
+<!--            <div class="uk-drop uk-background-default" data-uk-drop="mode: click; pos: right-center; offset: 0" id="search-box-holder">-->
+<!--                <form class="uk-search uk-search-navbar uk-width-1-1" action="/search" method="get">-->
+<!--                    <input id="search-box" class="uk-search-input" type="text" placeholder="Search..." autofocus name="query">-->
+<!--                </form>-->
+<!--            </div>-->
+
+<!--        </div>-->
+
+
+
         <div class="uk-navbar-right">
             <ul class="uk-navbar-nav uk-visible@m">
                 {% for link in site.data.navbar_primary.right %}
@@ -178,4 +189,79 @@
     </div>
     
 </div>
+
 <div class="uk-margin-remove"><hr></div>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const searchBoxHolder = document.getElementById('search-box-holder');
+    const searchBox = document.getElementById('search-box');
+    const centerNavbar = document.getElementById('center-navbar');
+
+    const onShow = () => {
+      // Hide the center menu when the drop opens
+      centerNavbar && centerNavbar.classList.add('uk-hidden');
+
+      // Optional: set width for your search drop
+      if (searchBoxHolder) {
+        searchBoxHolder.classList.add('nav-search-bar')
+      }
+
+      // Focus the input after it becomes visible
+      setTimeout(() => searchBox && searchBox.focus(), 0);
+    };
+
+    const onHide = () => {
+      // Show the center menu back when the drop closes (click outside, ESC, etc.)
+      centerNavbar && centerNavbar.classList.remove('uk-hidden');
+
+      // Reset inline width so layout returns to normal
+      if (searchBoxHolder) {
+        searchBoxHolder.classList.remove('nav-search-bar');
+      }
+    };
+
+    // Bind to UIkit's component events (compatible with older UIkit 3)
+    if (searchBoxHolder) {
+      if (window.UIkit && UIkit.util && typeof UIkit.util.on === 'function') {
+        UIkit.util.on(searchBoxHolder, 'show', onShow);
+        UIkit.util.on(searchBoxHolder, 'hide', onHide);
+      } else {
+        // Fallback in case UIkit.util.on is not available
+        searchBoxHolder.addEventListener('show', onShow);
+        searchBoxHolder.addEventListener('hide', onHide);
+      }
+    }
+  });
+</script>
+
+
+
+{% comment %}
+
+<script>
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const searchToggler = document.getElementById('search-toggler');
+        const searchBoxHolder = document.getElementById('search-box-holder');
+        const searchBox = document.getElementById('search-box');
+        const centerNavbar = document.getElementById('center-navbar');
+
+        function getWidth(element){
+            return elementWidth = element.getBoundingClientRect().width;
+        }
+
+        searchToggler.addEventListener('click', function () {
+            var centerNavbarWidth = getWidth(centerNavbar);
+            centerNavbar.classList.toggle('uk-hidden');
+            searchBoxHolder.style.width = 62 + 'em';
+            searchBox.focus();
+        });
+
+    });
+
+
+</script>
+
+{% endcomment %}

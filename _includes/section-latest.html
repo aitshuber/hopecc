@@ -37,26 +37,36 @@
   <h2 class="section-title uk-text-center uk-margin">Let's Get Social</h2>
   <hr class="uk-margin-remove">
 </div>
-  <div class="uk-slider-container-offset" uk-slider="autoplay: true; pause-on-hover: true; center: true;">
+  <div class="">
 
 
-  <div class="uk-position-relative uk-visible-toggle uk-slider" tabindex="-1">
-    <div class="uk-slider-items uk-child-width-1-6 uk-padding-large" uk-grid>
+  <div class="uk-position-relative" tabindex="-1">
+    <div id="social-section" class="uk-child-width-expand uk-grid-small uk-child-width-1-5" uk-grid>
       {% for social_site in site.social_networks %}
       {% assign site_name = social_site[0] %}
       {% assign site_url = social_site[1] %}
-      <div class="uk-card uk-card-default">
+      {% unless site_name == 'website' %}
+      <div class="uk-card uk-card-default uk-card-body">
           <a class=" uk-margin-large" href="{{ site_url }}" {% if forloop.first %} style="margin: 0px; padding: 0px; box-shadow: none;"{% endif %}>
-            <div class="uk-position-center" data-uk-icon="icon:{% unless site_name == 'email' or site_name == 'website' %} {{ site_name }}{% elsif site_name == 'email' %}mail{% elsif site_name == 'website' %}link-external{% endunless %}; ratio: 7"></div>
+            <div class="uk-position-center" data-uk-icon="icon:{% unless site_name == 'email' or site_name == 'website' %} {{ site_name }}{% elsif site_name == 'email' %}mail{% elsif site_name == 'website' %}link-external{% endunless %}; ratio: 3"></div>
           </a>
+        <div class="uk-text-center social-site-title">
+          <h6>{{ site_name | capitalize }}</h6>
+        </div>
       </div>
+      {% endunless %}
       {% endfor %}
-    </div>
-    <div class="uk-align-right@l uk-align-center uk-padding-small" uk-grid>
-      <a class=" uk-position-small slider-nav-circle" href uk-slidenav-previous uk-slider-item="previous"></a>
-      <a class=" uk-position-small slider-nav-circle" href uk-slidenav-next uk-slider-item="next"></a>
     </div>
 
 </div>
   </div>
 </div>
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const screensize = window.screen.width;
+        const socialSection = document.getElementById('social-section');
+        if (screensize <= 425) {
+            socialSection.classList.remove('uk-grid', 'uk-child-width-1-5');
+        }
+    })
+</script>

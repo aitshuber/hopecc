@@ -34,7 +34,7 @@
 
             // Iterate over the sorted results
             sortedResults.forEach(item => {
-                console.log('Rendering item:', item); // Debug: Check item structure here
+                // console.log('Rendering item:', item); // Debug: Check item structure here
 
                 // var category_urls = [];
                 //
