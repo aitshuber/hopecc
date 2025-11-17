@@ -51,7 +51,7 @@
             <div class="uk-position-center" data-uk-icon="icon:{% unless site_name == 'email' or site_name == 'website' %} {{ site_name }}{% elsif site_name == 'email' %}mail{% elsif site_name == 'website' %}link-external{% endunless %}; ratio: 3"></div>
           </a>
         <div class="uk-text-center social-site-title">
-          <h6>{{ site_name | capitalize }}</h6>
+          <h6>{% unless site_name == 'email' %}{{ site_name | capitalize }}{% else %}Newsletter{% endunless %}</h6>
         </div>
       </div>
       {% endunless %}
