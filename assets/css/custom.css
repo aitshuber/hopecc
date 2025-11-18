@@ -135,30 +135,48 @@ iframe{
     .nav-search-bar {
         width: 62em !important;
     }
+    .hope-logo {
+        max-height: 200px;
+    }
 }
 @media (min-width: 1024px) and (max-width: 1399px){
     .nav-search-bar {
         width: 46em !important;
+    }
+    .hope-logo {
+        max-height: 180px;
     }
 }
 @media (min-width: 768px) and (max-width: 1023px){
     .nav-search-bar {
         width: 37em !important;
     }
+    .hope-logo {
+        max-height: 215px;
+    }
 }
 @media (min-width: 425px) and (max-width: 767px){
     .nav-search-bar {
         width: 18em !important;
+    }
+    .hope-logo {
+        max-height: 180px;
     }
 }
 @media (min-width: 375px) and (max-width: 424px){
     .nav-search-bar {
         width: 15em !important;
     }
+    .hope-logo {
+        max-height: 125px;
+    }
 }
 @media (max-width: 320px) {
     .nav-search-bar {
         width: 12em !important;
+    }
+    .hope-logo {
+        max-height: 100px;
     }
     /*    .scrollup-button {*/
     /*    width: 60px; !* Fixed width *!*/
@@ -191,6 +209,6 @@ iframe{
 }
 @media (min-width: 1024px) {
     .index-hero-image-actual {
-        height: 850px !important;
+        height: 600px !important;
     }
 }

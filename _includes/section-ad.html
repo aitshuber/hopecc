@@ -5,16 +5,19 @@
     <hr class="uk-margin-remove">
   </div>
 {%- endif -%}
-<div uk-grid class="uk-flex-around uk-padding index-hero-image uk-padding-remove-right">
-    <div class="title-section uk-flex uk-flex-middle uk-flex-center uk-text-center uk-flex-column uk-margin-large-bottom ">
-        <div class="uk-text-left@xl">
+<div uk-grid class="uk-flex-center uk-padding-large index-hero-image uk-padding-remove-right uk-padding-remove-left">
+    <div class="title-section uk-flex uk-flex-middle uk-flex-center uk-text-center uk-flex-column uk-margin-large-bottom uk-padding-large uk-padding-remove-right">
+        <div>
+            <img src="/uploads/hope-logo.png" alt="hope-logo" class="hope-logo">
+        </div>
+        <div class="uk-text-center@xl" style="margin-top:40px">
             <h1>Scripture. Stillness. Hope</h1>
             <h2>Explore ancient Christian meditation that guides you to
             <br>slow down, hear God, and find spiritual rest in scripture.</h2>
             <a class="uk-button uk-button-primary uk-button-large rounded" uk-toggle="target: #subscribe-modal" type="button">Stay in Touch</a>
         </div>
     </div>
-    <div class="image-section {% if include.width != 'full' %}uk-container {% endif %}uk-margin-medium-bottom uk-padding-remove">
+    <div class="image-section">
         <div class="uk-flex uk-flex-center uk-flex-around@xl">
             <img class="{% if include.width == 'full' %}uk-width-1-1{% endif %} index-hero-image-actual" src="{% if include.image contains 'http' %}{{ include.image }}{% else %}{{ site.uploads | absolute_url }}{{ include.image }}{% endif %}" alt="{{ include.alt }}">
         </div>
@@ -24,7 +27,7 @@
 
 <div id="subscribe-modal" uk-modal>
     <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical rounded">
-        <h2 class="uk-modal-title">Sign up for our News Letter</h2>
+        <h2 class="uk-modal-title">Deepen Your Practice</h2>
         {% for item in site.data.footer %}
         <p>{{ item.footer-text }}</p>
         {% endfor %}

@@ -1,7 +1,7 @@
 ---
 layout: full
 ---
-{% include section-ad.html image="hope_website_image.png" alt="Hope.png" width="" blank="true" %}
+{% include section-ad.html image="transparent_website_image.png" alt="Hope.png" width="" blank="true" %}
 
 {% include section-latest.html title="Our Favorites" limit="6" more="More Articles" %}
 

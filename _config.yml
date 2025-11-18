@@ -49,6 +49,24 @@ social_networks:
   tiktok:          https://www.tiktok.com/@hopemindfulness
   youtube:          https://www.youtube.com/@hopemindfulness
 
+listening_networks:
+  - network:
+      name: Spotify
+      url: https://open.spotify.com/show/6eyzQxGrTpgQDELpA4Cp3F
+      icon: "fa-brands fa-spotify"
+  - network:
+      name: Apple Podcast
+      url: https://podcasts.apple.com/us/podcast/hope-christian-meditation/id1551179531
+      icon: "fa-brands fa-apple"
+  - network:
+      name: Youtube
+      url: https://www.youtube.com/@hopemindfulness
+      icon: "fa-brands fa-youtube"
+  - network:
+      name: RSS Feed
+      url: https://creators.spotify.com/pod/profile/hopemindfulness
+      icon: "fa-solid fa-rss"
+
 # Strings
 strings:
   author_by:        By

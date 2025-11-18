@@ -1,3 +1,33 @@
+<div class="uk-padding-large social-block">
+<div class="uk-container uk-margin-medium-bottom">
+  <hr class="uk-margin-remove">
+  <h2 class="section-title uk-text-center uk-margin">Ways to Listen</h2>
+  <hr class="uk-margin-remove">
+</div>
+  <div class="">
+  <div class="uk-position-relative" tabindex="-1">
+    <div id="listening-section" class="uk-child-width-expand@l uk-grid-small uk-child-width-1-5@l uk-child-width-1-1 uk-child-width-1-2@m" uk-grid>
+      {% for item in site.listening_networks %}
+      {% assign n = item.network %}
+      {% assign site_name = n.name %}
+      {% assign site_url = n.url %}
+      {% unless site_name == 'website' %}
+      <div class="uk-card uk-card-default uk-card-body">
+          <a class="uk-margin-large" href="{{ site_url }}" {% if forloop.first %} style="margin: 0px; padding: 0px; box-shadow: none;"{% endif %}>
+            <i class="uk-position-center {{ n.icon }} fa-2xl" style="height: 60px; width: 60px"></i>
+          </a>
+        <div class="uk-text-center social-site-title">
+          <h6>{% unless site_name == 'email' %}{{ site_name }}{% else %}Newsletter{% endunless %}</h6>
+        </div>
+      </div>
+      {% endunless %}
+      {% endfor %}
+    </div>
+</div>
+  </div>
+</div>
+
+
 <div class="uk-padding-large">
 {%- if include.title -%}
   <div class="uk-container uk-margin-medium-bottom">
@@ -38,16 +68,14 @@
   <hr class="uk-margin-remove">
 </div>
   <div class="">
-
-
   <div class="uk-position-relative" tabindex="-1">
-    <div id="social-section" class="uk-child-width-expand uk-grid-small uk-child-width-1-5" uk-grid>
+    <div id="social-section" class="uk-child-width-expand@l uk-grid-small uk-child-width-1-5@l uk-child-width-1-1 uk-child-width-1-2@m" uk-grid>
       {% for social_site in site.social_networks %}
       {% assign site_name = social_site[0] %}
       {% assign site_url = social_site[1] %}
       {% unless site_name == 'website' %}
       <div class="uk-card uk-card-default uk-card-body">
-          <a class=" uk-margin-large" href="{{ site_url }}" {% if forloop.first %} style="margin: 0px; padding: 0px; box-shadow: none;"{% endif %}>
+          <a class="uk-margin-large" href="{{ site_url }}" {% if forloop.first %} style="margin: 0px; padding: 0px; box-shadow: none;"{% endif %}>
             <div class="uk-position-center" data-uk-icon="icon:{% unless site_name == 'email' or site_name == 'website' %} {{ site_name }}{% elsif site_name == 'email' %}mail{% elsif site_name == 'website' %}link-external{% endunless %}; ratio: 3"></div>
           </a>
         <div class="uk-text-center social-site-title">
@@ -57,7 +85,6 @@
       {% endunless %}
       {% endfor %}
     </div>
-
 </div>
   </div>
 </div>
