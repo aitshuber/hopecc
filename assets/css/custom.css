@@ -223,7 +223,10 @@ iframe{
 }
 /*98CEB3*/
 .favorites-icons {
-    color: #121212 !important;
-    height: 45px !important;
+    color: #ffffff !important;
+    height: 150px !important;
     width: 45px !important;
+}
+.favorites-text {
+    color: #ffffff !important;
 }
