@@ -47,7 +47,6 @@ social_networks:
   instagram:        https://www.instagram.com/hopemindfulness/
   x:          https://x.com/hopemindfulness
   tiktok:          https://www.tiktok.com/@hopemindfulness
-  youtube:          https://www.youtube.com/@hopemindfulness
 
 listening_networks:
   - network:
@@ -66,6 +65,32 @@ listening_networks:
       name: RSS Feed
       url: https://creators.spotify.com/pod/profile/hopemindfulness
       icon: "fa-solid fa-rss"
+
+favorite_tabs:
+  - tab:
+      name: Foundation
+      url: "/category/meditations/foundations/"
+      icon: "fa-solid fa-tree"
+  - tab:
+      name: Daily Hope
+      url: "/category/daily-hope/"
+      icon: "fa-solid fa-sun"
+  - tab:
+      name: Nightly Wind Down
+      url: "/category/nightly-wind-down/"
+      icon: "fa-regular fa-moon"
+  - tab:
+      name: Positive Affirmations
+      url: "/category/meditations/positive-affirmations/"
+      icon: "fa-solid fa-key"
+  - tab:
+      name: Everyday Miracles
+      url: "/category/everyday-miracles/"
+      icon: "fa-solid fa-dove"
+  - tab:
+      name: Finding Purpose
+      url: "/bible/"
+      icon: "fa-solid fa-compass"
 
 # Strings
 strings:

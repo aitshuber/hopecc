@@ -212,3 +212,18 @@ iframe{
         height: 600px !important;
     }
 }
+.icons {
+    color: #266467 !important;
+}
+.icons:hover {
+    color: #121212 !important;
+}
+.favorites-tabs {
+    background-color: #98CEB3 !important;
+}
+/*98CEB3*/
+.favorites-icons {
+    color: #121212 !important;
+    height: 45px !important;
+    width: 45px !important;
+}
