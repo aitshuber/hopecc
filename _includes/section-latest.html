@@ -43,8 +43,8 @@
     {% assign favs = item.tab %}
     {% assign url = favs.url %}
     {% assign icon = favs.icon %}
-    <a href="{{ url }}">
-      <div class="uk-card uk-card-default uk-card-body favorites-tabs">
+    <a class="favorites-tabs " href="{{ url }}">
+      <div class="uk-card uk-card-default uk-card-body favorites-tabs-inside">
         <div uk-grid>
           <h3 class="favorites-text">{{ favs.name }}</h3>
           <span class="uk-position-center-right {{ favs.icon }} favorites-icons" style="padding-right: 1rem !important;"></span>

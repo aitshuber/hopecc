@@ -218,15 +218,18 @@ iframe{
 .icons:hover {
     color: #121212 !important;
 }
-.favorites-tabs {
+.favorites-tabs-inside {
     background-color: #98CEB3 !important;
 }
 /*98CEB3*/
 .favorites-icons {
-    color: #ffffff !important;
+    color: #266467 !important;
     height: 150px !important;
     width: 45px !important;
 }
 .favorites-text {
+    color: #266467 !important;
+}
+.favorites-tabs:hover .favorites-text, .favorites-tabs:hover .favorites-icons {
     color: #ffffff !important;
 }
