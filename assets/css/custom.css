@@ -170,6 +170,9 @@ iframe{
     .hope-logo {
         max-height: 125px;
     }
+    .favorites-text {
+        font-size: 1.2rem !important;
+    }
 }
 @media (max-width: 320px) {
     .nav-search-bar {
@@ -177,6 +180,9 @@ iframe{
     }
     .hope-logo {
         max-height: 100px;
+    }
+    .favorites-text {
+        font-size: 1.0rem !important;
     }
     /*    .scrollup-button {*/
     /*    width: 60px; !* Fixed width *!*/
@@ -233,3 +239,4 @@ iframe{
 .favorites-tabs:hover .favorites-text, .favorites-tabs:hover .favorites-icons {
     color: #ffffff !important;
 }
+

@@ -3,7 +3,7 @@ layout: default
 title:
 description:
 keywords:
-permalink: /bible
+permalink: /bible/
 ---
 <div class="uk-container uk-container-xsmall uk-margin-medium-bottom uk-margin-large-top">
 	<div class="uk-text-lead uk-margin-medium-bottom">
