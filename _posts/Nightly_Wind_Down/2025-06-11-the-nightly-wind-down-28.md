@@ -7,7 +7,7 @@ categories:
 author: Hope Staff
 notes: The Nightly Wind Down 28
 embed: >-
-  EMBED_GOES_HERE
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/7lzUV6k8l1Lqym1GfatdTy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 transcript: >-
   
 ---
