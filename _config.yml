@@ -76,8 +76,8 @@ favorite_tabs:
       url: "/category/daily-hope/"
       icon: "fa-solid fa-sun"
   - tab:
-      name: Nightly Wind Down
-      url: "/category/nightly-wind-down/"
+      name: Sleep
+      url: "/category/sleep/"
       icon: "fa-regular fa-moon"
   - tab:
       name: Positive Affirmations
