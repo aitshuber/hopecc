@@ -1,0 +1,100 @@
+---
+image: /assets/img/nwd/16_nwd_psalm_118_24_erv.png
+title: The Nightly Wind Down 16
+number: 16
+categories:
+  - Sleep
+  - The Nightly Wind Down
+author: Hope Staff
+notes: The Nightly Wind Down 16
+embed: >-
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1khFOacjXEwSO1neL3GXfR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+transcript: >-
+  
+---
+Let's get started by allowing the body to relax.
+
+And when you're ready, let your eyes close like the sun sets.
+
+Let your awareness rest with this verse and prayer.
+
+This is the day the Lord has made. Let us rejoice and be happy today
+
+and again, this is the day the Lord has made. Let us rejoice and be happy today.
+
+Gently bring the awareness to the breath.
+
+Allow your breath to deepen and fill the lungs.
+
+Take a nice, big, deep breath in. Now slow down on the exhale, letting go.
+
+Let the inhale come easily and effortlessly,
+
+and exhale. Controlling the breath, slowing it down.
+
+Give yourself some space just to be.
+
+Whatever you need to let go of, let it go. Release it to God. Allow this time to be what you need it to be.
+
+And if the thoughts take you away, know that that's okay when it feels natural and effortless. Slowly bring your attention back to the breath.
+
+Remember, this is a place of safety.
+
+God's calming presence is always accessible to you.
+
+Release your anxieties and let God handle what you cannot.
+
+Notice how the body is relaxing. and releasing.
+
+Now, begin to soften the back of your neck.
+
+Allow your limbs to become heavy.
+
+Allow the shoulders to relax.
+
+Let your mind rest,
+
+just noticing and appreciating this moment.
+
+When it feels natural, begin releasing the tension in your hands, shoulders, and neck.
+
+Let go of that stress.
+
+Release your anxieties and worries to God.
+
+Let go of your grip on control.
+
+Take a big, deep breath in.
+
+Release your stress.
+
+Let go of your frustrations.
+
+Let it all go on the exhale.
+
+We aren't holding on to the thoughts. We're just letting them release.
+
+Now bring your awareness. to the way the body feels.
+
+Allow yourself to sink into your chair or your bed.
+
+Let the body relax and release.
+
+When it feels comfortable, bring your attention to the heart.
+
+Feel the heartbeat,
+
+just noticing it.
+
+Allow that natural rhythm and stillness to relax the body.
+
+Just notice The way that you feel
+
+not trying to change it, just accepting it the way that it is. Allow
+
+yourself to relax into the loving presence of God.
+
+Take this verse with you. This is the day the Lord has made. Let us rejoice and be happy today.
+
+God, I know you're always with me. Thank you for all of your blessings. Help me to relax and let go in your presence. I trust your plan for my life.
+

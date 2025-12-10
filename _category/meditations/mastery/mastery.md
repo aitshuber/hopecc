@@ -1,5 +1,5 @@
 ---
 tag: Mastery
 permalink: "/category/meditations/mastery/"
-layout: category-overview
+layout: category-meditations
 ---

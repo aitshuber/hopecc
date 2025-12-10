@@ -1,5 +1,5 @@
 ---
 tag: Moments
 permalink: "/category/meditations/moments/"
-layout: category-overview
+layout: category-meditations
 ---

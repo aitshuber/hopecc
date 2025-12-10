@@ -1,5 +1,5 @@
 ---
 tag: Meditations
 permalink: "/category/meditations/"
-layout: category-overview
+layout: category-meditations
 ---
