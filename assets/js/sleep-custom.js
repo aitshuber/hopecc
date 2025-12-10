@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Create an object to group posts by category
         const groupedPosts = {};
         postsArray.forEach((post) => {
-            const categories = (post.dataset.category || "").split(" ").filter(cat => cat && !["Meditations", "Life", "Carpe Diem", "Health", "Moments", "Difficulty", "Sports & rec", "Virtues"].includes(cat));
+            const categories = (post.dataset.category || "").split(" ").filter(cat => cat && !["Sleep", "Sleep Exercises", "Sleep Sounds", "Relaxation Music", "The Nightly Wind Down"].includes(cat));
             if (categories.length === 0) {
                 categories.push("Uncategorized"); // Fallback for posts with no valid categories
             }
@@ -58,7 +58,8 @@ document.addEventListener("DOMContentLoaded", function () {
             // Show only posts that match the selected category
             posts.forEach((post) => {
                 const postCategories = post.dataset.category || ""; // Get the data-category attribute
-                if (postCategories.includes(category)) {
+                const modifiedPostcategories = postCategories.replaceAll(" ", "-");
+                if (postCategories.includes(modifiedPostcategories)) {
                     postsToShow.push(post);
                     post.removeAttribute("hidden"); // Show matching posts
                 } else {

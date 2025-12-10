@@ -4,7 +4,6 @@ layout: default
 
 {% assign category_posts = site.categories[page.tag] %}
 
-
 {% assign subcategories = "" %}
 {% for post in category_posts %}
     {% for category in post.categories %}
@@ -41,7 +40,7 @@ layout: default
                                     {% for subcategory in subcategories offset: offset limit: items_per_section %}
 
                                     {% unless subcategory == " " or already_rendered contains subcategory %}
-                                    <li uk-filter-control="{% if subcategory contains ' ' %}.{{subcategory | strip | replace: ' ', '-'}}{% else %}.{{subcategory | strip}}{% endif %}"><a href="#">{{ subcategory | truncate: 16 }}</a></li>
+                                    <li uk-filter-control="{% if subcategory contains ' ' %}.{{subcategory | strip | replace: ' ', '-'}}{% else %}.{{subcategory | strip}}{% endif %}"><a href="#">{{ subcategory | truncate: 24 }}</a></li>
                                     {% assign already_rendered = already_rendered | append: subcategory | append: "," %}
 
                                     {% endunless %}
@@ -64,13 +63,13 @@ layout: default
                     {% assign post_count = post_count | plus: 1 %}
                     {% assign trimmed_category = subcategory | strip %}
                     {% if post_count >= 30 %}
-                <li class="{% if subcategory contains ' ' %} {{ subcategory | join: ' ' | remove: 'Sleep' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' | remove: 'Sleep' }} {% endif %} more-content post-item" data-category="{% if subcategory contains ' ' %}{{ post.categories | join: ' ' | replace: ' ', '-' }}{% else %}{{ post.categories | join: ' ' }}{% endif %}" data-sort="{{post.number}}" hidden>
-                    <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
+                <li class="{% if subcategory contains ' ' %} {{ subcategory | join: ' ' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' }} {% endif %} more-content post-item" data-category="{% if subcategory contains ' ' %}{{ post.categories | join: ' ' | replace: ' ', '-' }}{% else %}{{ post.categories | join: ' ' }}{% endif %}" data-sort="{{post.number}}" hidden>
+                    <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle tabs-sleep" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
                     <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 </li>
                 {% else %}
-                <li class="{% if subcategory contains ' ' %} {{ categories | join: ' ' | remove: 'Sleep' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' | remove: 'Sleep' }} {% endif %} post-item" data-category="{% if subcategory contains ' ' %}{{ post.categories | join: ' ' | replace: ' ', '-' }}{% else %}{{ post.categories | join: ' ' }}{% endif %}" data-sort="{{post.number}}">
-                    <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
+                <li class="raaaaa {% if subcategory contains ' ' %} {{ subcategory | join: ' ' | replace: ' ', '-' }} {% else %} {{ post.categories | join: ' ' }} {% endif %} post-item" data-category="{% if subcategory contains ' ' %}{{ post.categories | join: ' ' | replace: ' ', '-' }}{% else %}{{ post.categories | join: ' ' }}{% endif %}" data-sort="{{post.number}}">
+                    <a href="{{ post.url | relative_url }}" class="uk-card uk-card-default uk-card-hover uk-flex uk-flex-center uk-flex-middle tabs-sleep" style="min-height: 249.39px">{% if post.image %}<img src="{{ post.image }}" class="uk-card-media-top">{% endif %}</a>
                     <a class="uk-h4 uk-text-center uk-text-middle uk-margin-small-top uk-margin-medium-bottom" href="{{ post.url | relative_url }}">{{ post.title }}</a>
                 </li>
                 {% endif %}
@@ -91,4 +90,4 @@ layout: default
 
 {% include section-mailchimp.html title="Newsletter Signup" text=footer_text button_text="Support Us" %}
 </div>
-<script src="/assets/js/meditations-custom.js"></script>
+<script src="/assets/js/sleep-custom.js"></script>
