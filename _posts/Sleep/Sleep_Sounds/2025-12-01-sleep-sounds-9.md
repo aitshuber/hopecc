@@ -1,14 +1,14 @@
 ---
 image: /assets/img/sleepbackground.svg
-title: Sleep Sounds 9
-number: 9
+title: Summer Camp
+number: 10
 categories:
   - Sleep
   - Sleep Sounds
 author: Hope Staff
-notes: Sleep Sounds 9
+notes: Sleep Sounds 10
 embed: >-
-  EMBED_GOES_HERE
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1CtjfV55x3J2joyEUYca48?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 transcript: >-
   
 ---
