@@ -1,6 +1,6 @@
 ---
 image: /assets/img/sleepbackground.svg
-title: Cold Front Thunderstorm
+title: Sleep Sounds - Cold Front Thunderstorm
 number: 1
 categories:
   - Sleep

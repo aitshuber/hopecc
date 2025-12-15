@@ -1,7 +1,7 @@
 ---
 image: /assets/img/sleepbackground.svg
-title: Hidden Waterfall
-number: 7
+title: Sleep Sounds - Hidden Waterfall
+number: 6
 categories:
   - Sleep
   - Sleep Sounds

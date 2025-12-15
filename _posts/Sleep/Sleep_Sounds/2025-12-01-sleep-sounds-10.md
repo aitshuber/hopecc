@@ -1,7 +1,7 @@
 ---
 image: /assets/img/sleepbackground.svg
-title: Star Gazing
-number: 11
+title: Sleep Sounds - Star Gazing
+number: 10
 categories:
   - Sleep
   - Sleep Sounds

@@ -1,6 +1,6 @@
 ---
 image: /assets/img/sleepbackground.svg
-title: Campfire on the Mountain
+title: Sleep Sounds - Campfire on the Mountain
 number: 2
 categories:
   - Sleep

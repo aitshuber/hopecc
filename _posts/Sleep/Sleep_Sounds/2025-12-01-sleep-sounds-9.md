@@ -1,7 +1,7 @@
 ---
 image: /assets/img/sleepbackground.svg
-title: Summer Camp
-number: 10
+title: Sleep Sounds - Summer Camp
+number: 9
 categories:
   - Sleep
   - Sleep Sounds

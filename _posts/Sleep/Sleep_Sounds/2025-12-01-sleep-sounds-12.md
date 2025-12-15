@@ -1,7 +1,7 @@
 ---
 image: /assets/img/sleepbackground.svg
-title: Northern Lights White Noise
-number: 13
+title: Sleep Sounds - Northern Lights White Noise
+number: 12
 categories:
   - Sleep
   - Sleep Sounds
