@@ -1,6 +1,6 @@
 ---
 image: /assets/img/daily-hope-default-artwork.png
-title: 13 - Everybody is Somebody
+title: Everybody is Somebody
 number: 13
 categories:
   - Everyday Miracles
